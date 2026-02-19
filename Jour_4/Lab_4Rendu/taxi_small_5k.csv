@@ -1,0 +1,5001 @@
+driver_name,trip_id,pickup_zone,amount
+Alice,T00001,Staten Island,66.64
+Ivan,T00002,Brooklyn,15.0
+Carlos,T00003,Brooklyn,38.39
+Fatima,T00004,Queens,34.98
+Carlos,T00005,Manhattan,28.27
+Fatima,T00006,Brooklyn,69.39
+Ivan,T00007,Bronx,72.5
+Ethan,T00008,Queens,66.26
+Ivan,T00009,Staten Island,72.68
+Diana,T00010,Brooklyn,16.86
+Diana,T00011,Queens,65.02
+Ivan,T00012,Brooklyn,34.62
+Diana,T00013,Manhattan,70.34
+Diana,T00014,Queens,51.02
+Fatima,T00015,Queens,10.16
+Ivan,T00016,Manhattan,39.14
+Diana,T00017,Queens,51.78
+Julia,T00018,Bronx,44.67
+Ethan,T00019,Queens,10.65
+Hana,T00020,Brooklyn,63.34
+Ivan,T00021,Manhattan,47.97
+Alice,T00022,Brooklyn,29.96
+Fatima,T00023,Brooklyn,52.48
+George,T00024,Queens,8.81
+Alice,T00025,Staten Island,65.53
+Diana,T00026,Bronx,64.62
+Carlos,T00027,Staten Island,63.01
+Julia,T00028,Queens,48.38
+Ethan,T00029,Manhattan,40.45
+George,T00030,Manhattan,71.99
+George,T00031,Manhattan,24.02
+George,T00032,Manhattan,18.77
+Bob,T00033,Manhattan,10.18
+Carlos,T00034,Staten Island,17.25
+Hana,T00035,Bronx,62.38
+Carlos,T00036,Brooklyn,70.56
+Carlos,T00037,Manhattan,49.15
+Julia,T00038,Staten Island,8.26
+George,T00039,Staten Island,58.6
+Alice,T00040,Brooklyn,11.18
+Alice,T00041,Manhattan,66.41
+Ivan,T00042,Bronx,18.31
+Alice,T00043,Bronx,8.75
+Ethan,T00044,Queens,29.57
+Carlos,T00045,Bronx,66.57
+Fatima,T00046,Queens,55.87
+Alice,T00047,Staten Island,12.26
+George,T00048,Brooklyn,49.26
+Alice,T00049,Manhattan,43.1
+Ivan,T00050,Manhattan,31.49
+Carlos,T00051,Staten Island,65.35
+Ivan,T00052,Manhattan,14.54
+Carlos,T00053,Bronx,45.98
+Ethan,T00054,Staten Island,32.42
+Julia,T00055,Bronx,53.02
+Bob,T00056,Staten Island,48.68
+Julia,T00057,Staten Island,40.38
+Alice,T00058,Bronx,22.57
+Bob,T00059,Brooklyn,15.8
+Ivan,T00060,Bronx,25.5
+Bob,T00061,Staten Island,37.02
+Ethan,T00062,Bronx,62.5
+Hana,T00063,Queens,57.08
+Ivan,T00064,Queens,63.86
+Bob,T00065,Manhattan,58.3
+Hana,T00066,Bronx,42.32
+Carlos,T00067,Queens,71.53
+Ethan,T00068,Queens,66.34
+Bob,T00069,Manhattan,57.71
+Carlos,T00070,Manhattan,48.82
+Diana,T00071,Queens,26.68
+Julia,T00072,Queens,49.51
+Ethan,T00073,Queens,60.48
+Julia,T00074,Bronx,47.24
+Fatima,T00075,Staten Island,38.51
+George,T00076,Bronx,23.59
+Fatima,T00077,Brooklyn,26.02
+Diana,T00078,Bronx,65.97
+Fatima,T00079,Bronx,13.07
+Alice,T00080,Queens,8.46
+Carlos,T00081,Brooklyn,19.22
+Ivan,T00082,Brooklyn,52.57
+Fatima,T00083,Bronx,23.18
+Diana,T00084,Bronx,48.07
+Carlos,T00085,Staten Island,11.32
+Julia,T00086,Queens,74.39
+Bob,T00087,Manhattan,44.92
+Carlos,T00088,Queens,28.64
+Ivan,T00089,Staten Island,34.55
+Alice,T00090,Bronx,54.39
+Ivan,T00091,Brooklyn,74.98
+Bob,T00092,Brooklyn,14.42
+Julia,T00093,Brooklyn,24.51
+Ethan,T00094,Staten Island,74.92
+Julia,T00095,Queens,68.14
+Fatima,T00096,Staten Island,42.81
+Ethan,T00097,Brooklyn,20.32
+Bob,T00098,Bronx,8.72
+Diana,T00099,Manhattan,25.53
+George,T00100,Brooklyn,68.5
+Julia,T00101,Staten Island,44.39
+Alice,T00102,Brooklyn,68.91
+Diana,T00103,Brooklyn,53.29
+Julia,T00104,Bronx,47.7
+Bob,T00105,Manhattan,64.08
+Julia,T00106,Staten Island,24.63
+Ivan,T00107,Staten Island,70.23
+George,T00108,Manhattan,54.98
+Ivan,T00109,Manhattan,61.43
+Hana,T00110,Queens,33.45
+George,T00111,Brooklyn,59.29
+Alice,T00112,Queens,61.74
+Ethan,T00113,Bronx,71.66
+Alice,T00114,Bronx,38.23
+Hana,T00115,Bronx,12.93
+Bob,T00116,Brooklyn,29.37
+Fatima,T00117,Manhattan,18.62
+Ethan,T00118,Bronx,26.74
+Ethan,T00119,Brooklyn,68.83
+Julia,T00120,Bronx,40.32
+Ivan,T00121,Manhattan,25.09
+George,T00122,Brooklyn,62.95
+Fatima,T00123,Queens,60.14
+Alice,T00124,Staten Island,64.69
+Bob,T00125,Brooklyn,42.27
+Julia,T00126,Queens,39.72
+Bob,T00127,Manhattan,16.78
+Fatima,T00128,Manhattan,72.32
+Bob,T00129,Staten Island,14.0
+Ethan,T00130,Brooklyn,73.0
+Carlos,T00131,Staten Island,41.99
+Diana,T00132,Staten Island,62.55
+Fatima,T00133,Bronx,17.21
+Ethan,T00134,Brooklyn,30.22
+Bob,T00135,Queens,70.05
+Fatima,T00136,Queens,9.25
+George,T00137,Bronx,15.3
+Ethan,T00138,Queens,54.06
+Carlos,T00139,Staten Island,8.73
+Ethan,T00140,Manhattan,72.91
+Fatima,T00141,Brooklyn,64.08
+Carlos,T00142,Manhattan,16.71
+Alice,T00143,Bronx,44.39
+George,T00144,Staten Island,28.66
+George,T00145,Manhattan,18.76
+Carlos,T00146,Queens,50.04
+Alice,T00147,Staten Island,13.01
+Bob,T00148,Queens,31.6
+Julia,T00149,Staten Island,31.07
+Diana,T00150,Brooklyn,9.82
+Alice,T00151,Staten Island,19.45
+Diana,T00152,Bronx,20.21
+George,T00153,Queens,52.1
+George,T00154,Brooklyn,20.1
+Ivan,T00155,Brooklyn,8.93
+Bob,T00156,Queens,68.16
+Fatima,T00157,Staten Island,10.36
+Alice,T00158,Brooklyn,19.79
+Fatima,T00159,Queens,34.57
+Alice,T00160,Brooklyn,19.71
+Ivan,T00161,Queens,40.98
+Ivan,T00162,Queens,13.06
+Ethan,T00163,Manhattan,62.68
+Hana,T00164,Manhattan,65.11
+Alice,T00165,Queens,68.55
+Diana,T00166,Staten Island,37.02
+Alice,T00167,Manhattan,32.27
+Carlos,T00168,Brooklyn,71.09
+Diana,T00169,Manhattan,66.1
+Carlos,T00170,Staten Island,45.33
+Ivan,T00171,Bronx,73.03
+Carlos,T00172,Bronx,72.11
+Hana,T00173,Brooklyn,37.2
+Hana,T00174,Bronx,10.8
+Hana,T00175,Manhattan,17.73
+Alice,T00176,Brooklyn,61.69
+Carlos,T00177,Brooklyn,57.92
+Bob,T00178,Manhattan,10.63
+Ivan,T00179,Queens,53.76
+Ethan,T00180,Manhattan,30.1
+Bob,T00181,Manhattan,72.39
+Fatima,T00182,Queens,71.61
+Diana,T00183,Queens,53.09
+George,T00184,Queens,29.68
+Julia,T00185,Queens,44.41
+Ivan,T00186,Brooklyn,66.39
+Diana,T00187,Queens,31.86
+Ethan,T00188,Staten Island,13.72
+Hana,T00189,Manhattan,36.78
+Carlos,T00190,Queens,74.07
+Diana,T00191,Brooklyn,46.33
+Diana,T00192,Queens,39.94
+Ivan,T00193,Staten Island,74.45
+Diana,T00194,Bronx,55.71
+Julia,T00195,Bronx,35.18
+Alice,T00196,Manhattan,30.66
+Julia,T00197,Brooklyn,29.05
+Carlos,T00198,Bronx,42.9
+Ethan,T00199,Staten Island,70.77
+Julia,T00200,Staten Island,54.33
+Diana,T00201,Bronx,74.44
+George,T00202,Manhattan,64.21
+Bob,T00203,Queens,34.99
+George,T00204,Brooklyn,38.67
+Ivan,T00205,Staten Island,9.59
+George,T00206,Queens,37.25
+Diana,T00207,Bronx,22.02
+Ethan,T00208,Queens,49.0
+Julia,T00209,Queens,57.52
+Diana,T00210,Brooklyn,55.77
+Carlos,T00211,Brooklyn,41.02
+Julia,T00212,Brooklyn,71.49
+Fatima,T00213,Brooklyn,39.38
+Carlos,T00214,Manhattan,58.69
+Carlos,T00215,Bronx,12.39
+George,T00216,Brooklyn,15.68
+Fatima,T00217,Manhattan,43.34
+Hana,T00218,Manhattan,65.43
+Alice,T00219,Manhattan,27.79
+Hana,T00220,Manhattan,53.17
+George,T00221,Brooklyn,72.51
+Ivan,T00222,Bronx,22.19
+Diana,T00223,Brooklyn,64.41
+Julia,T00224,Staten Island,43.24
+George,T00225,Bronx,32.18
+Ivan,T00226,Bronx,53.51
+Fatima,T00227,Brooklyn,16.02
+Carlos,T00228,Brooklyn,17.5
+Julia,T00229,Queens,62.77
+Carlos,T00230,Brooklyn,52.02
+Hana,T00231,Queens,9.31
+Alice,T00232,Queens,69.51
+Fatima,T00233,Manhattan,69.12
+Carlos,T00234,Manhattan,60.17
+Hana,T00235,Queens,31.35
+Alice,T00236,Queens,61.38
+Ethan,T00237,Manhattan,34.02
+Bob,T00238,Staten Island,58.82
+Ethan,T00239,Bronx,37.18
+Carlos,T00240,Brooklyn,39.47
+Ethan,T00241,Manhattan,63.35
+Ivan,T00242,Manhattan,42.77
+Diana,T00243,Brooklyn,44.93
+Bob,T00244,Manhattan,14.43
+Ethan,T00245,Queens,44.78
+Ivan,T00246,Manhattan,27.89
+Ivan,T00247,Queens,70.71
+Ethan,T00248,Queens,39.82
+Carlos,T00249,Queens,30.07
+Julia,T00250,Bronx,32.85
+Julia,T00251,Staten Island,8.75
+Alice,T00252,Manhattan,49.16
+Carlos,T00253,Brooklyn,13.73
+Ivan,T00254,Staten Island,28.83
+Julia,T00255,Manhattan,17.88
+Bob,T00256,Bronx,42.13
+Ivan,T00257,Queens,47.33
+Diana,T00258,Queens,46.04
+Bob,T00259,Brooklyn,31.21
+Diana,T00260,Manhattan,20.39
+Carlos,T00261,Brooklyn,18.79
+Fatima,T00262,Staten Island,65.19
+Carlos,T00263,Brooklyn,47.27
+Ethan,T00264,Brooklyn,33.12
+Hana,T00265,Bronx,33.83
+Ivan,T00266,Manhattan,15.36
+Carlos,T00267,Manhattan,63.4
+George,T00268,Bronx,60.13
+Julia,T00269,Brooklyn,62.64
+Ivan,T00270,Queens,13.6
+Alice,T00271,Staten Island,30.6
+Alice,T00272,Staten Island,61.96
+Ethan,T00273,Manhattan,70.11
+Ivan,T00274,Staten Island,73.19
+George,T00275,Brooklyn,38.71
+Hana,T00276,Bronx,27.89
+Diana,T00277,Brooklyn,33.68
+Alice,T00278,Staten Island,64.53
+George,T00279,Staten Island,22.98
+Diana,T00280,Manhattan,27.14
+Ethan,T00281,Manhattan,21.81
+Ivan,T00282,Bronx,54.1
+Fatima,T00283,Brooklyn,8.9
+Alice,T00284,Staten Island,49.4
+Hana,T00285,Staten Island,34.29
+Fatima,T00286,Queens,34.01
+Fatima,T00287,Manhattan,34.1
+Hana,T00288,Staten Island,16.8
+Fatima,T00289,Bronx,23.63
+Carlos,T00290,Brooklyn,64.26
+Julia,T00291,Brooklyn,29.29
+Hana,T00292,Bronx,58.03
+George,T00293,Bronx,71.89
+Julia,T00294,Brooklyn,35.55
+George,T00295,Manhattan,35.57
+George,T00296,Brooklyn,8.32
+Bob,T00297,Manhattan,58.11
+Carlos,T00298,Queens,66.08
+George,T00299,Bronx,74.25
+Diana,T00300,Staten Island,37.39
+Bob,T00301,Manhattan,41.46
+Bob,T00302,Brooklyn,55.59
+Diana,T00303,Queens,50.63
+Ethan,T00304,Bronx,46.31
+Hana,T00305,Manhattan,59.19
+Diana,T00306,Queens,72.84
+Ethan,T00307,Queens,9.55
+Ivan,T00308,Queens,23.31
+Diana,T00309,Brooklyn,43.6
+Hana,T00310,Staten Island,54.25
+Ethan,T00311,Manhattan,40.61
+Fatima,T00312,Manhattan,46.62
+Ivan,T00313,Manhattan,67.9
+Diana,T00314,Queens,54.57
+Fatima,T00315,Queens,15.15
+Ethan,T00316,Brooklyn,12.55
+Carlos,T00317,Queens,71.33
+Hana,T00318,Staten Island,41.15
+Diana,T00319,Manhattan,40.63
+Julia,T00320,Brooklyn,26.2
+Diana,T00321,Bronx,32.9
+George,T00322,Staten Island,40.37
+Diana,T00323,Bronx,66.92
+Fatima,T00324,Staten Island,29.38
+Diana,T00325,Queens,10.38
+Julia,T00326,Staten Island,63.99
+Alice,T00327,Queens,55.54
+Fatima,T00328,Staten Island,19.68
+Alice,T00329,Bronx,74.54
+Fatima,T00330,Bronx,65.2
+Alice,T00331,Bronx,17.97
+Julia,T00332,Brooklyn,72.83
+Alice,T00333,Staten Island,60.69
+Carlos,T00334,Queens,53.08
+Ivan,T00335,Bronx,64.43
+Julia,T00336,Bronx,45.95
+Julia,T00337,Staten Island,66.31
+Julia,T00338,Queens,11.2
+George,T00339,Brooklyn,69.79
+Alice,T00340,Staten Island,25.63
+George,T00341,Brooklyn,26.1
+Hana,T00342,Staten Island,72.27
+Alice,T00343,Queens,47.5
+Carlos,T00344,Manhattan,15.13
+George,T00345,Manhattan,63.58
+Carlos,T00346,Staten Island,11.77
+Bob,T00347,Staten Island,47.57
+Carlos,T00348,Brooklyn,67.7
+Carlos,T00349,Manhattan,25.99
+George,T00350,Bronx,60.86
+Fatima,T00351,Queens,30.52
+Alice,T00352,Brooklyn,39.74
+Bob,T00353,Brooklyn,72.66
+Bob,T00354,Manhattan,68.34
+George,T00355,Queens,70.16
+George,T00356,Queens,25.94
+Fatima,T00357,Manhattan,34.12
+Julia,T00358,Brooklyn,16.43
+Ethan,T00359,Bronx,43.44
+Bob,T00360,Manhattan,32.2
+Ethan,T00361,Queens,37.43
+Diana,T00362,Manhattan,28.61
+Ethan,T00363,Staten Island,53.41
+Carlos,T00364,Staten Island,71.96
+Bob,T00365,Queens,11.64
+Carlos,T00366,Bronx,65.57
+Alice,T00367,Queens,33.65
+George,T00368,Queens,20.21
+Diana,T00369,Bronx,59.39
+George,T00370,Bronx,25.7
+Fatima,T00371,Brooklyn,54.25
+Bob,T00372,Brooklyn,21.24
+Alice,T00373,Staten Island,36.13
+Ivan,T00374,Staten Island,74.87
+Ivan,T00375,Manhattan,47.61
+Julia,T00376,Brooklyn,43.9
+Fatima,T00377,Manhattan,57.25
+Alice,T00378,Manhattan,57.61
+Alice,T00379,Brooklyn,58.92
+Julia,T00380,Staten Island,31.29
+Carlos,T00381,Queens,41.09
+Diana,T00382,Brooklyn,60.74
+Bob,T00383,Manhattan,62.7
+Julia,T00384,Staten Island,53.17
+Alice,T00385,Bronx,52.56
+Ivan,T00386,Staten Island,15.65
+George,T00387,Manhattan,39.37
+Fatima,T00388,Manhattan,48.6
+Alice,T00389,Manhattan,68.35
+Ethan,T00390,Queens,12.24
+Hana,T00391,Staten Island,16.0
+Hana,T00392,Queens,13.11
+Bob,T00393,Queens,60.82
+Ethan,T00394,Queens,26.02
+Ivan,T00395,Brooklyn,26.36
+Alice,T00396,Bronx,61.43
+Ethan,T00397,Brooklyn,11.4
+Ivan,T00398,Bronx,34.21
+Ethan,T00399,Manhattan,40.89
+Alice,T00400,Staten Island,48.53
+George,T00401,Brooklyn,29.89
+Carlos,T00402,Brooklyn,20.88
+George,T00403,Bronx,41.01
+George,T00404,Queens,25.67
+Carlos,T00405,Staten Island,55.11
+Hana,T00406,Brooklyn,72.43
+Ivan,T00407,Staten Island,46.2
+Bob,T00408,Queens,35.53
+Hana,T00409,Staten Island,46.92
+George,T00410,Brooklyn,61.82
+Diana,T00411,Bronx,47.82
+Alice,T00412,Queens,25.17
+Ethan,T00413,Queens,51.94
+Carlos,T00414,Manhattan,15.86
+Fatima,T00415,Staten Island,12.3
+Diana,T00416,Queens,74.26
+Carlos,T00417,Manhattan,71.18
+Diana,T00418,Brooklyn,53.67
+Carlos,T00419,Staten Island,68.4
+Alice,T00420,Brooklyn,52.22
+Fatima,T00421,Brooklyn,53.0
+George,T00422,Bronx,54.25
+Ivan,T00423,Bronx,45.53
+Julia,T00424,Queens,43.15
+Fatima,T00425,Manhattan,35.33
+Ethan,T00426,Brooklyn,31.72
+Diana,T00427,Manhattan,72.36
+Diana,T00428,Manhattan,64.24
+Fatima,T00429,Brooklyn,49.46
+Ethan,T00430,Brooklyn,53.98
+Hana,T00431,Queens,15.32
+Ethan,T00432,Queens,50.73
+Alice,T00433,Bronx,40.56
+George,T00434,Bronx,52.73
+Ivan,T00435,Manhattan,37.43
+Diana,T00436,Brooklyn,17.62
+Bob,T00437,Queens,27.61
+Ethan,T00438,Bronx,59.38
+Ivan,T00439,Staten Island,65.87
+Ethan,T00440,Staten Island,66.64
+Hana,T00441,Manhattan,66.63
+Hana,T00442,Manhattan,41.85
+Alice,T00443,Brooklyn,13.34
+Fatima,T00444,Brooklyn,62.98
+Diana,T00445,Staten Island,48.08
+Diana,T00446,Queens,62.95
+Fatima,T00447,Staten Island,57.37
+Diana,T00448,Staten Island,36.46
+Ethan,T00449,Brooklyn,14.69
+Carlos,T00450,Manhattan,9.87
+Julia,T00451,Brooklyn,16.08
+Ivan,T00452,Staten Island,68.2
+Julia,T00453,Staten Island,37.2
+Ivan,T00454,Bronx,64.06
+Bob,T00455,Manhattan,31.41
+Alice,T00456,Manhattan,46.95
+Carlos,T00457,Manhattan,31.42
+Bob,T00458,Queens,26.8
+George,T00459,Staten Island,16.93
+Julia,T00460,Manhattan,12.0
+Ivan,T00461,Staten Island,11.78
+Bob,T00462,Bronx,39.91
+Carlos,T00463,Queens,63.38
+Ethan,T00464,Queens,41.85
+Diana,T00465,Staten Island,30.05
+Ivan,T00466,Brooklyn,21.19
+Bob,T00467,Brooklyn,63.41
+Bob,T00468,Bronx,59.05
+Julia,T00469,Staten Island,66.33
+Bob,T00470,Brooklyn,39.21
+Hana,T00471,Brooklyn,39.03
+Ethan,T00472,Staten Island,21.27
+Ivan,T00473,Bronx,22.95
+Ivan,T00474,Staten Island,49.64
+Bob,T00475,Bronx,27.12
+Fatima,T00476,Bronx,43.73
+Carlos,T00477,Bronx,40.47
+Diana,T00478,Staten Island,20.61
+Hana,T00479,Manhattan,44.62
+Julia,T00480,Staten Island,54.7
+Diana,T00481,Manhattan,32.45
+Julia,T00482,Manhattan,64.49
+Carlos,T00483,Brooklyn,33.41
+Fatima,T00484,Brooklyn,16.06
+Diana,T00485,Brooklyn,68.56
+Ivan,T00486,Manhattan,38.63
+Julia,T00487,Manhattan,38.95
+Julia,T00488,Manhattan,44.43
+Ivan,T00489,Queens,61.49
+Hana,T00490,Staten Island,18.47
+Ethan,T00491,Staten Island,42.08
+Carlos,T00492,Queens,9.1
+Julia,T00493,Brooklyn,11.09
+Fatima,T00494,Manhattan,8.77
+Hana,T00495,Staten Island,8.46
+Carlos,T00496,Bronx,70.5
+Bob,T00497,Queens,47.4
+Ethan,T00498,Bronx,56.36
+Ivan,T00499,Bronx,53.25
+Alice,T00500,Queens,27.49
+Julia,T00501,Queens,21.64
+Fatima,T00502,Manhattan,19.8
+Alice,T00503,Staten Island,22.21
+Alice,T00504,Queens,31.14
+Julia,T00505,Bronx,61.79
+Ethan,T00506,Queens,37.67
+Alice,T00507,Staten Island,68.79
+Fatima,T00508,Queens,57.68
+Ethan,T00509,Manhattan,45.7
+George,T00510,Manhattan,22.18
+Hana,T00511,Staten Island,65.72
+Fatima,T00512,Staten Island,38.22
+Julia,T00513,Staten Island,26.87
+George,T00514,Brooklyn,28.74
+Ethan,T00515,Staten Island,57.53
+Ivan,T00516,Bronx,71.92
+George,T00517,Staten Island,55.92
+George,T00518,Queens,32.39
+Carlos,T00519,Brooklyn,20.68
+Diana,T00520,Brooklyn,15.72
+Ethan,T00521,Manhattan,19.67
+Julia,T00522,Bronx,55.48
+Ivan,T00523,Manhattan,70.5
+Bob,T00524,Staten Island,19.52
+Ivan,T00525,Bronx,67.49
+Carlos,T00526,Queens,36.94
+Ethan,T00527,Manhattan,30.5
+George,T00528,Queens,44.64
+Julia,T00529,Staten Island,46.75
+Alice,T00530,Bronx,25.73
+Ethan,T00531,Staten Island,21.9
+Alice,T00532,Staten Island,70.33
+Bob,T00533,Brooklyn,64.8
+Bob,T00534,Manhattan,26.33
+Julia,T00535,Staten Island,54.13
+Carlos,T00536,Bronx,70.63
+Hana,T00537,Queens,73.04
+Ethan,T00538,Bronx,32.31
+Diana,T00539,Brooklyn,58.75
+Ivan,T00540,Queens,55.61
+Ethan,T00541,Staten Island,30.76
+Alice,T00542,Manhattan,11.64
+Bob,T00543,Brooklyn,48.16
+Bob,T00544,Bronx,15.47
+Bob,T00545,Queens,70.03
+Ethan,T00546,Brooklyn,63.82
+Ethan,T00547,Brooklyn,19.04
+Fatima,T00548,Queens,26.17
+Carlos,T00549,Brooklyn,22.9
+George,T00550,Staten Island,71.55
+Bob,T00551,Brooklyn,45.24
+Fatima,T00552,Staten Island,15.74
+Bob,T00553,Staten Island,11.24
+George,T00554,Staten Island,53.8
+Carlos,T00555,Bronx,18.65
+George,T00556,Bronx,34.09
+George,T00557,Bronx,18.8
+Ethan,T00558,Manhattan,68.03
+Alice,T00559,Queens,54.21
+George,T00560,Brooklyn,15.17
+Alice,T00561,Bronx,67.98
+Alice,T00562,Bronx,19.96
+Ethan,T00563,Bronx,57.95
+Diana,T00564,Staten Island,60.32
+Alice,T00565,Queens,43.6
+Bob,T00566,Bronx,28.91
+Hana,T00567,Manhattan,24.0
+Bob,T00568,Queens,31.23
+Alice,T00569,Brooklyn,15.89
+Ivan,T00570,Bronx,63.92
+Alice,T00571,Bronx,56.12
+Alice,T00572,Manhattan,16.79
+Hana,T00573,Brooklyn,52.16
+Fatima,T00574,Staten Island,21.46
+Carlos,T00575,Bronx,54.94
+Carlos,T00576,Bronx,65.89
+Bob,T00577,Manhattan,33.74
+George,T00578,Staten Island,36.76
+Julia,T00579,Brooklyn,37.7
+Ethan,T00580,Manhattan,36.03
+Julia,T00581,Manhattan,26.93
+Hana,T00582,Queens,62.88
+Carlos,T00583,Brooklyn,38.61
+Fatima,T00584,Brooklyn,34.72
+Hana,T00585,Queens,56.69
+Carlos,T00586,Manhattan,27.57
+Ivan,T00587,Staten Island,36.42
+Ethan,T00588,Manhattan,66.98
+Hana,T00589,Staten Island,40.88
+Fatima,T00590,Bronx,30.48
+Carlos,T00591,Manhattan,18.01
+Ivan,T00592,Queens,54.12
+Alice,T00593,Brooklyn,40.74
+Bob,T00594,Bronx,26.18
+Julia,T00595,Brooklyn,33.45
+Hana,T00596,Brooklyn,22.62
+Carlos,T00597,Staten Island,27.26
+Carlos,T00598,Staten Island,46.01
+Alice,T00599,Brooklyn,43.9
+Hana,T00600,Bronx,9.03
+Bob,T00601,Manhattan,69.23
+Carlos,T00602,Staten Island,22.66
+Carlos,T00603,Bronx,59.77
+Ethan,T00604,Brooklyn,11.22
+Bob,T00605,Staten Island,18.51
+Ivan,T00606,Bronx,45.12
+Fatima,T00607,Bronx,22.53
+Bob,T00608,Bronx,45.22
+Ivan,T00609,Queens,40.09
+Diana,T00610,Manhattan,53.69
+Julia,T00611,Brooklyn,27.75
+Fatima,T00612,Queens,73.27
+Ivan,T00613,Staten Island,68.72
+Alice,T00614,Bronx,47.29
+George,T00615,Bronx,54.36
+Carlos,T00616,Queens,59.56
+George,T00617,Brooklyn,29.38
+Diana,T00618,Brooklyn,70.69
+Carlos,T00619,Staten Island,35.09
+Hana,T00620,Queens,27.95
+Ivan,T00621,Manhattan,57.93
+Hana,T00622,Brooklyn,57.89
+Fatima,T00623,Bronx,55.15
+Ivan,T00624,Queens,31.14
+Julia,T00625,Bronx,31.94
+Ethan,T00626,Queens,63.67
+Fatima,T00627,Manhattan,41.96
+Carlos,T00628,Manhattan,8.01
+Alice,T00629,Queens,41.38
+Alice,T00630,Bronx,51.34
+Julia,T00631,Brooklyn,51.59
+Carlos,T00632,Queens,33.07
+Bob,T00633,Brooklyn,28.9
+Hana,T00634,Bronx,34.25
+Diana,T00635,Brooklyn,59.76
+Hana,T00636,Staten Island,71.52
+George,T00637,Staten Island,49.87
+Hana,T00638,Queens,65.81
+Bob,T00639,Brooklyn,67.48
+Hana,T00640,Staten Island,36.14
+Ivan,T00641,Staten Island,34.09
+Julia,T00642,Brooklyn,52.93
+Ethan,T00643,Staten Island,44.7
+Hana,T00644,Bronx,14.06
+Ethan,T00645,Staten Island,14.67
+Hana,T00646,Queens,59.61
+George,T00647,Staten Island,67.84
+Ivan,T00648,Manhattan,13.65
+Bob,T00649,Queens,20.17
+Ivan,T00650,Queens,37.19
+Hana,T00651,Manhattan,71.65
+Ivan,T00652,Bronx,11.07
+Julia,T00653,Brooklyn,39.74
+Fatima,T00654,Bronx,17.51
+Hana,T00655,Queens,59.97
+Ethan,T00656,Staten Island,40.83
+Bob,T00657,Queens,31.06
+Fatima,T00658,Queens,29.5
+Carlos,T00659,Queens,16.07
+Ivan,T00660,Brooklyn,36.69
+Bob,T00661,Queens,74.21
+Carlos,T00662,Bronx,29.35
+Ivan,T00663,Manhattan,25.74
+Diana,T00664,Brooklyn,25.25
+Bob,T00665,Staten Island,25.59
+Ethan,T00666,Manhattan,10.84
+Alice,T00667,Brooklyn,47.26
+Alice,T00668,Queens,37.79
+George,T00669,Bronx,39.33
+Alice,T00670,Staten Island,53.84
+Ivan,T00671,Bronx,55.37
+Diana,T00672,Brooklyn,36.48
+Ivan,T00673,Bronx,11.7
+Hana,T00674,Staten Island,26.5
+George,T00675,Brooklyn,36.69
+Hana,T00676,Manhattan,27.32
+George,T00677,Brooklyn,24.7
+Carlos,T00678,Queens,54.47
+Diana,T00679,Manhattan,14.99
+George,T00680,Brooklyn,68.33
+Carlos,T00681,Queens,15.24
+Alice,T00682,Staten Island,71.53
+Ivan,T00683,Staten Island,58.8
+Bob,T00684,Staten Island,44.18
+Ivan,T00685,Manhattan,31.4
+Alice,T00686,Bronx,20.27
+Diana,T00687,Staten Island,71.29
+George,T00688,Queens,15.01
+George,T00689,Bronx,27.86
+Diana,T00690,Manhattan,47.21
+Julia,T00691,Manhattan,26.27
+Hana,T00692,Bronx,21.52
+Ivan,T00693,Bronx,33.8
+Diana,T00694,Manhattan,26.17
+Carlos,T00695,Staten Island,63.8
+Bob,T00696,Brooklyn,41.36
+Ivan,T00697,Manhattan,24.88
+Carlos,T00698,Queens,26.19
+Diana,T00699,Staten Island,20.55
+Ethan,T00700,Brooklyn,73.43
+George,T00701,Queens,15.19
+Ethan,T00702,Brooklyn,10.09
+Alice,T00703,Manhattan,48.1
+Ethan,T00704,Bronx,36.35
+Ethan,T00705,Bronx,60.72
+Bob,T00706,Queens,74.86
+Diana,T00707,Queens,69.59
+Carlos,T00708,Staten Island,72.42
+Hana,T00709,Queens,32.58
+Ethan,T00710,Manhattan,72.93
+Diana,T00711,Bronx,46.43
+George,T00712,Staten Island,34.41
+Ivan,T00713,Manhattan,47.49
+George,T00714,Brooklyn,31.52
+Julia,T00715,Staten Island,70.62
+Fatima,T00716,Manhattan,16.85
+Ivan,T00717,Staten Island,19.6
+George,T00718,Brooklyn,72.97
+Julia,T00719,Brooklyn,68.89
+George,T00720,Bronx,15.54
+Fatima,T00721,Queens,43.77
+Fatima,T00722,Brooklyn,73.1
+Diana,T00723,Queens,42.04
+Hana,T00724,Brooklyn,37.87
+Fatima,T00725,Manhattan,19.26
+Bob,T00726,Bronx,20.38
+Hana,T00727,Manhattan,38.08
+Ivan,T00728,Queens,30.46
+Ivan,T00729,Queens,60.02
+Diana,T00730,Bronx,11.23
+Bob,T00731,Staten Island,11.76
+Fatima,T00732,Staten Island,60.81
+Alice,T00733,Staten Island,26.86
+Fatima,T00734,Queens,17.07
+Bob,T00735,Queens,70.95
+George,T00736,Brooklyn,19.53
+Diana,T00737,Brooklyn,53.53
+Ethan,T00738,Brooklyn,19.27
+George,T00739,Staten Island,67.22
+Bob,T00740,Bronx,70.89
+Diana,T00741,Staten Island,66.82
+Bob,T00742,Bronx,67.1
+Diana,T00743,Brooklyn,56.34
+Hana,T00744,Brooklyn,63.53
+Diana,T00745,Queens,44.81
+Julia,T00746,Brooklyn,60.25
+George,T00747,Bronx,72.85
+Hana,T00748,Manhattan,51.75
+Julia,T00749,Bronx,18.43
+Carlos,T00750,Bronx,70.08
+Carlos,T00751,Brooklyn,10.32
+Ivan,T00752,Manhattan,71.0
+Hana,T00753,Brooklyn,61.04
+Alice,T00754,Manhattan,12.71
+Carlos,T00755,Brooklyn,26.01
+Alice,T00756,Bronx,56.21
+Ivan,T00757,Bronx,61.25
+Carlos,T00758,Staten Island,29.49
+Fatima,T00759,Bronx,57.17
+Alice,T00760,Queens,32.93
+Alice,T00761,Brooklyn,72.1
+Carlos,T00762,Manhattan,65.99
+Carlos,T00763,Manhattan,35.73
+George,T00764,Queens,10.16
+George,T00765,Manhattan,37.43
+Ethan,T00766,Brooklyn,54.92
+George,T00767,Staten Island,50.73
+Ivan,T00768,Brooklyn,16.89
+Diana,T00769,Manhattan,58.77
+Bob,T00770,Manhattan,57.18
+Hana,T00771,Queens,15.13
+George,T00772,Staten Island,32.17
+Bob,T00773,Staten Island,43.99
+Carlos,T00774,Manhattan,36.3
+Hana,T00775,Queens,71.07
+Bob,T00776,Bronx,73.17
+Bob,T00777,Queens,72.76
+Diana,T00778,Brooklyn,52.87
+Bob,T00779,Brooklyn,57.36
+Bob,T00780,Manhattan,51.03
+Alice,T00781,Bronx,33.14
+Fatima,T00782,Staten Island,20.16
+Julia,T00783,Staten Island,40.44
+Fatima,T00784,Staten Island,33.67
+George,T00785,Manhattan,11.17
+Alice,T00786,Brooklyn,44.59
+Alice,T00787,Manhattan,73.42
+Fatima,T00788,Brooklyn,45.11
+Carlos,T00789,Staten Island,58.77
+George,T00790,Bronx,44.06
+George,T00791,Bronx,31.1
+Ethan,T00792,Manhattan,53.99
+George,T00793,Bronx,42.83
+Ivan,T00794,Manhattan,32.4
+Ivan,T00795,Bronx,66.13
+Carlos,T00796,Brooklyn,38.8
+Fatima,T00797,Brooklyn,47.55
+Julia,T00798,Manhattan,41.04
+Fatima,T00799,Brooklyn,23.07
+Carlos,T00800,Brooklyn,14.06
+George,T00801,Staten Island,8.03
+Bob,T00802,Brooklyn,64.66
+Fatima,T00803,Brooklyn,64.53
+Diana,T00804,Manhattan,46.76
+Fatima,T00805,Queens,58.75
+Ivan,T00806,Queens,37.33
+Diana,T00807,Staten Island,63.47
+Ethan,T00808,Manhattan,31.27
+Bob,T00809,Bronx,34.66
+Alice,T00810,Bronx,74.43
+Ivan,T00811,Manhattan,42.63
+Ivan,T00812,Manhattan,27.94
+Ivan,T00813,Queens,45.53
+Alice,T00814,Manhattan,32.77
+Ethan,T00815,Manhattan,10.95
+Ivan,T00816,Staten Island,25.69
+Bob,T00817,Queens,58.46
+Carlos,T00818,Manhattan,53.79
+George,T00819,Queens,72.97
+Ethan,T00820,Bronx,18.99
+Ivan,T00821,Bronx,14.71
+Ivan,T00822,Queens,19.02
+Bob,T00823,Brooklyn,34.0
+Hana,T00824,Bronx,67.29
+Bob,T00825,Manhattan,33.69
+Ivan,T00826,Staten Island,55.62
+George,T00827,Manhattan,43.12
+Diana,T00828,Manhattan,28.22
+Ivan,T00829,Brooklyn,30.52
+Alice,T00830,Bronx,54.44
+George,T00831,Manhattan,53.41
+Julia,T00832,Bronx,63.46
+Hana,T00833,Queens,25.44
+George,T00834,Bronx,24.8
+Hana,T00835,Staten Island,51.82
+Fatima,T00836,Bronx,14.07
+Hana,T00837,Staten Island,48.83
+George,T00838,Brooklyn,12.8
+Bob,T00839,Queens,36.27
+Fatima,T00840,Brooklyn,22.87
+George,T00841,Staten Island,54.11
+Bob,T00842,Staten Island,21.9
+Hana,T00843,Queens,55.84
+Julia,T00844,Queens,47.48
+Ivan,T00845,Queens,52.77
+Julia,T00846,Staten Island,12.37
+Alice,T00847,Manhattan,55.55
+Diana,T00848,Queens,65.72
+Julia,T00849,Brooklyn,58.35
+Carlos,T00850,Staten Island,67.57
+Ethan,T00851,Queens,8.64
+Julia,T00852,Manhattan,12.87
+Hana,T00853,Brooklyn,56.79
+Alice,T00854,Manhattan,24.93
+Fatima,T00855,Bronx,56.51
+Diana,T00856,Brooklyn,25.76
+Carlos,T00857,Manhattan,9.44
+Fatima,T00858,Staten Island,70.95
+George,T00859,Queens,48.11
+Hana,T00860,Brooklyn,61.55
+Ivan,T00861,Queens,25.19
+Carlos,T00862,Brooklyn,19.01
+Bob,T00863,Queens,37.75
+Diana,T00864,Manhattan,10.88
+Alice,T00865,Bronx,11.37
+Carlos,T00866,Queens,73.72
+Alice,T00867,Manhattan,57.84
+Hana,T00868,Staten Island,64.64
+Diana,T00869,Queens,43.01
+Fatima,T00870,Brooklyn,49.63
+Bob,T00871,Brooklyn,27.3
+Hana,T00872,Manhattan,69.21
+Ethan,T00873,Brooklyn,60.09
+Ethan,T00874,Staten Island,49.2
+Ethan,T00875,Queens,15.02
+Diana,T00876,Bronx,67.08
+Ivan,T00877,Queens,35.01
+Hana,T00878,Manhattan,27.8
+George,T00879,Manhattan,24.17
+Carlos,T00880,Manhattan,29.82
+Alice,T00881,Queens,72.61
+Hana,T00882,Brooklyn,73.83
+Ethan,T00883,Queens,31.04
+Carlos,T00884,Bronx,62.44
+Ivan,T00885,Brooklyn,58.7
+Alice,T00886,Bronx,34.93
+George,T00887,Manhattan,63.77
+Hana,T00888,Manhattan,16.15
+Ivan,T00889,Brooklyn,22.53
+Alice,T00890,Manhattan,58.32
+Bob,T00891,Queens,16.97
+George,T00892,Brooklyn,74.56
+Diana,T00893,Bronx,69.21
+Diana,T00894,Bronx,35.21
+George,T00895,Queens,47.13
+Diana,T00896,Manhattan,36.31
+Diana,T00897,Manhattan,57.07
+Hana,T00898,Bronx,71.93
+Carlos,T00899,Bronx,26.69
+Fatima,T00900,Bronx,42.3
+Fatima,T00901,Manhattan,23.02
+Hana,T00902,Staten Island,14.67
+Hana,T00903,Bronx,56.28
+Fatima,T00904,Brooklyn,63.51
+Carlos,T00905,Manhattan,72.9
+Ethan,T00906,Brooklyn,61.06
+Ethan,T00907,Queens,30.57
+Bob,T00908,Queens,32.91
+Carlos,T00909,Staten Island,11.22
+Ivan,T00910,Manhattan,53.29
+Ivan,T00911,Bronx,41.08
+Fatima,T00912,Brooklyn,35.73
+Carlos,T00913,Manhattan,58.54
+Fatima,T00914,Brooklyn,34.29
+Carlos,T00915,Brooklyn,49.39
+Ethan,T00916,Queens,59.38
+Fatima,T00917,Queens,27.67
+Hana,T00918,Staten Island,22.61
+Diana,T00919,Staten Island,17.45
+Hana,T00920,Manhattan,45.21
+Fatima,T00921,Brooklyn,59.99
+Hana,T00922,Manhattan,45.39
+George,T00923,Brooklyn,49.29
+Hana,T00924,Bronx,29.94
+Ethan,T00925,Bronx,45.69
+Carlos,T00926,Queens,10.66
+Alice,T00927,Manhattan,62.11
+Diana,T00928,Manhattan,10.83
+Bob,T00929,Queens,66.11
+George,T00930,Staten Island,71.33
+Carlos,T00931,Bronx,41.59
+Ivan,T00932,Brooklyn,50.52
+Ethan,T00933,Bronx,11.93
+Fatima,T00934,Manhattan,29.71
+Julia,T00935,Manhattan,57.12
+Hana,T00936,Staten Island,37.79
+Fatima,T00937,Manhattan,59.2
+Fatima,T00938,Queens,71.31
+Hana,T00939,Brooklyn,48.43
+Bob,T00940,Staten Island,62.38
+Fatima,T00941,Brooklyn,54.09
+Alice,T00942,Manhattan,11.38
+Julia,T00943,Staten Island,52.56
+Julia,T00944,Manhattan,74.11
+Julia,T00945,Queens,55.35
+Diana,T00946,Manhattan,19.26
+Fatima,T00947,Brooklyn,20.95
+Carlos,T00948,Queens,70.88
+Hana,T00949,Brooklyn,41.84
+George,T00950,Bronx,42.88
+Alice,T00951,Brooklyn,70.04
+Ethan,T00952,Bronx,28.56
+Ivan,T00953,Manhattan,67.09
+Bob,T00954,Bronx,31.69
+George,T00955,Queens,69.57
+Julia,T00956,Bronx,61.85
+Ivan,T00957,Queens,69.99
+Julia,T00958,Bronx,27.66
+Ivan,T00959,Brooklyn,14.53
+Hana,T00960,Bronx,50.59
+Julia,T00961,Brooklyn,30.01
+Julia,T00962,Manhattan,29.48
+George,T00963,Manhattan,70.16
+Fatima,T00964,Bronx,12.02
+Carlos,T00965,Bronx,59.52
+Fatima,T00966,Bronx,31.67
+George,T00967,Queens,39.4
+Ivan,T00968,Manhattan,18.44
+Carlos,T00969,Brooklyn,58.4
+Fatima,T00970,Queens,40.2
+Alice,T00971,Bronx,68.97
+Carlos,T00972,Manhattan,54.81
+Ethan,T00973,Queens,23.37
+Ethan,T00974,Brooklyn,66.84
+Diana,T00975,Manhattan,20.23
+George,T00976,Brooklyn,33.49
+Diana,T00977,Staten Island,72.84
+Hana,T00978,Manhattan,42.79
+Ethan,T00979,Staten Island,47.42
+Bob,T00980,Staten Island,32.66
+Carlos,T00981,Queens,67.91
+Hana,T00982,Bronx,62.67
+Ethan,T00983,Staten Island,47.59
+Ivan,T00984,Staten Island,66.78
+Fatima,T00985,Staten Island,14.17
+Bob,T00986,Bronx,72.91
+Bob,T00987,Brooklyn,24.45
+Hana,T00988,Manhattan,34.24
+Fatima,T00989,Bronx,35.74
+Ethan,T00990,Queens,33.34
+Bob,T00991,Brooklyn,68.8
+Ethan,T00992,Bronx,41.83
+George,T00993,Queens,49.21
+Diana,T00994,Brooklyn,44.89
+Fatima,T00995,Manhattan,11.5
+Hana,T00996,Brooklyn,60.4
+Alice,T00997,Staten Island,17.16
+Bob,T00998,Queens,35.16
+Ethan,T00999,Brooklyn,53.58
+Julia,T01000,Bronx,17.56
+Carlos,T01001,Brooklyn,41.16
+Ivan,T01002,Bronx,35.58
+Diana,T01003,Brooklyn,68.88
+Carlos,T01004,Queens,34.56
+Carlos,T01005,Brooklyn,16.19
+Alice,T01006,Manhattan,43.61
+Bob,T01007,Queens,23.96
+Carlos,T01008,Queens,14.87
+Alice,T01009,Brooklyn,45.58
+Alice,T01010,Bronx,56.94
+George,T01011,Staten Island,28.35
+Diana,T01012,Queens,49.88
+Ivan,T01013,Manhattan,35.0
+Bob,T01014,Brooklyn,19.89
+Julia,T01015,Bronx,46.78
+Hana,T01016,Queens,8.48
+Diana,T01017,Queens,24.9
+Julia,T01018,Staten Island,52.47
+Julia,T01019,Staten Island,62.72
+Carlos,T01020,Brooklyn,29.64
+Alice,T01021,Staten Island,71.75
+Ethan,T01022,Queens,50.41
+Hana,T01023,Staten Island,50.42
+Fatima,T01024,Bronx,39.66
+Bob,T01025,Staten Island,51.59
+Hana,T01026,Queens,39.15
+Diana,T01027,Staten Island,14.84
+Bob,T01028,Queens,68.3
+George,T01029,Queens,67.37
+Ivan,T01030,Staten Island,39.64
+George,T01031,Brooklyn,47.89
+Carlos,T01032,Brooklyn,71.7
+Carlos,T01033,Queens,35.92
+Alice,T01034,Bronx,55.04
+George,T01035,Brooklyn,33.17
+Ivan,T01036,Manhattan,49.26
+Ethan,T01037,Staten Island,74.07
+Julia,T01038,Queens,39.91
+Carlos,T01039,Queens,49.58
+George,T01040,Bronx,36.7
+Bob,T01041,Manhattan,53.98
+Carlos,T01042,Brooklyn,27.99
+Fatima,T01043,Queens,73.1
+Ethan,T01044,Queens,33.61
+Fatima,T01045,Brooklyn,68.82
+Carlos,T01046,Queens,13.34
+Julia,T01047,Brooklyn,63.98
+Fatima,T01048,Queens,72.56
+Diana,T01049,Bronx,12.54
+Ivan,T01050,Brooklyn,30.88
+Fatima,T01051,Queens,61.51
+Fatima,T01052,Bronx,71.06
+Julia,T01053,Bronx,27.47
+Ethan,T01054,Staten Island,17.03
+Carlos,T01055,Queens,47.97
+George,T01056,Bronx,27.04
+Ivan,T01057,Queens,59.42
+Alice,T01058,Staten Island,21.83
+Diana,T01059,Brooklyn,58.03
+Ethan,T01060,Brooklyn,59.38
+Bob,T01061,Brooklyn,63.58
+George,T01062,Queens,72.66
+Ivan,T01063,Brooklyn,35.27
+Fatima,T01064,Queens,48.3
+Ivan,T01065,Staten Island,19.62
+Fatima,T01066,Staten Island,49.82
+Ethan,T01067,Brooklyn,38.21
+Alice,T01068,Staten Island,38.93
+Alice,T01069,Brooklyn,31.68
+George,T01070,Staten Island,24.86
+Bob,T01071,Manhattan,24.02
+Alice,T01072,Staten Island,37.79
+Ivan,T01073,Brooklyn,51.5
+George,T01074,Queens,46.57
+Julia,T01075,Brooklyn,38.01
+Carlos,T01076,Queens,13.12
+Ivan,T01077,Manhattan,71.5
+Fatima,T01078,Manhattan,24.42
+Hana,T01079,Bronx,39.81
+Hana,T01080,Staten Island,62.34
+Julia,T01081,Queens,34.13
+Hana,T01082,Queens,65.49
+Diana,T01083,Bronx,69.52
+Ivan,T01084,Brooklyn,41.07
+George,T01085,Bronx,25.8
+Hana,T01086,Manhattan,13.04
+Diana,T01087,Bronx,52.68
+Diana,T01088,Manhattan,71.62
+Julia,T01089,Queens,41.21
+Bob,T01090,Bronx,11.09
+Ethan,T01091,Manhattan,9.06
+Diana,T01092,Staten Island,20.88
+Alice,T01093,Queens,57.56
+Julia,T01094,Bronx,9.65
+Alice,T01095,Brooklyn,51.02
+George,T01096,Manhattan,47.45
+Ethan,T01097,Bronx,21.71
+Carlos,T01098,Manhattan,42.32
+Bob,T01099,Brooklyn,38.35
+Fatima,T01100,Bronx,31.98
+Bob,T01101,Brooklyn,15.76
+Carlos,T01102,Manhattan,12.24
+Carlos,T01103,Bronx,58.47
+Hana,T01104,Staten Island,43.24
+Ethan,T01105,Manhattan,15.84
+Ivan,T01106,Brooklyn,38.87
+Ethan,T01107,Bronx,57.74
+Hana,T01108,Manhattan,30.45
+Carlos,T01109,Staten Island,26.15
+Bob,T01110,Bronx,71.85
+Julia,T01111,Manhattan,52.04
+Alice,T01112,Staten Island,21.59
+Ivan,T01113,Bronx,39.33
+Hana,T01114,Brooklyn,18.57
+Alice,T01115,Staten Island,71.51
+Fatima,T01116,Staten Island,66.79
+Ethan,T01117,Bronx,60.7
+Bob,T01118,Bronx,64.85
+Hana,T01119,Bronx,13.29
+Ethan,T01120,Manhattan,19.9
+Alice,T01121,Queens,67.33
+Ethan,T01122,Queens,60.98
+Bob,T01123,Bronx,64.73
+George,T01124,Queens,69.63
+Julia,T01125,Queens,64.1
+Carlos,T01126,Queens,32.2
+George,T01127,Staten Island,42.67
+Fatima,T01128,Bronx,51.36
+George,T01129,Brooklyn,56.01
+Fatima,T01130,Brooklyn,21.53
+George,T01131,Manhattan,69.22
+Fatima,T01132,Staten Island,74.13
+Hana,T01133,Manhattan,22.41
+Bob,T01134,Queens,33.08
+Ethan,T01135,Staten Island,71.03
+Hana,T01136,Brooklyn,46.61
+Alice,T01137,Brooklyn,48.35
+Julia,T01138,Brooklyn,16.84
+Hana,T01139,Staten Island,62.48
+George,T01140,Bronx,52.39
+Ivan,T01141,Bronx,72.75
+Bob,T01142,Bronx,74.3
+Ethan,T01143,Staten Island,49.64
+Ivan,T01144,Manhattan,52.03
+Carlos,T01145,Bronx,28.83
+Fatima,T01146,Queens,13.37
+Ethan,T01147,Brooklyn,12.37
+Ivan,T01148,Queens,59.48
+Bob,T01149,Queens,65.96
+Alice,T01150,Staten Island,67.13
+Diana,T01151,Staten Island,12.46
+Ethan,T01152,Staten Island,65.73
+Diana,T01153,Bronx,73.98
+George,T01154,Brooklyn,65.06
+Bob,T01155,Staten Island,28.81
+George,T01156,Brooklyn,54.36
+Carlos,T01157,Brooklyn,62.41
+Hana,T01158,Queens,61.02
+Alice,T01159,Manhattan,73.43
+Alice,T01160,Staten Island,54.87
+Julia,T01161,Staten Island,71.5
+Fatima,T01162,Brooklyn,17.26
+Bob,T01163,Bronx,62.16
+Bob,T01164,Bronx,37.38
+Carlos,T01165,Queens,10.79
+Diana,T01166,Staten Island,46.5
+Hana,T01167,Manhattan,64.75
+Hana,T01168,Brooklyn,56.43
+Ivan,T01169,Staten Island,14.46
+Ethan,T01170,Bronx,59.48
+Bob,T01171,Manhattan,49.78
+Alice,T01172,Manhattan,69.8
+Julia,T01173,Bronx,46.77
+George,T01174,Queens,48.26
+George,T01175,Staten Island,44.84
+Fatima,T01176,Bronx,16.97
+Ethan,T01177,Staten Island,64.38
+Hana,T01178,Manhattan,53.95
+Bob,T01179,Manhattan,73.74
+Bob,T01180,Queens,63.19
+Diana,T01181,Brooklyn,49.6
+Julia,T01182,Queens,48.6
+Julia,T01183,Brooklyn,43.17
+George,T01184,Bronx,39.55
+George,T01185,Bronx,17.81
+Diana,T01186,Staten Island,64.39
+Fatima,T01187,Manhattan,71.11
+Ethan,T01188,Queens,15.71
+Alice,T01189,Brooklyn,32.29
+Julia,T01190,Manhattan,34.58
+Hana,T01191,Queens,35.61
+Ivan,T01192,Queens,26.22
+Alice,T01193,Bronx,13.18
+Alice,T01194,Manhattan,65.97
+Ivan,T01195,Staten Island,33.05
+Hana,T01196,Staten Island,65.12
+Ivan,T01197,Staten Island,36.87
+Hana,T01198,Brooklyn,9.21
+George,T01199,Staten Island,68.4
+Hana,T01200,Brooklyn,10.68
+George,T01201,Manhattan,55.93
+George,T01202,Bronx,59.92
+Ethan,T01203,Manhattan,50.79
+George,T01204,Bronx,62.42
+Julia,T01205,Brooklyn,25.42
+Carlos,T01206,Queens,65.27
+Fatima,T01207,Brooklyn,40.27
+Ethan,T01208,Manhattan,16.49
+Carlos,T01209,Brooklyn,63.46
+Fatima,T01210,Queens,49.16
+George,T01211,Queens,48.78
+Ivan,T01212,Staten Island,72.88
+Carlos,T01213,Staten Island,50.21
+Fatima,T01214,Staten Island,67.53
+George,T01215,Bronx,64.63
+Alice,T01216,Queens,36.73
+Hana,T01217,Manhattan,50.39
+Ethan,T01218,Queens,19.36
+Bob,T01219,Staten Island,43.92
+Fatima,T01220,Manhattan,62.68
+Carlos,T01221,Queens,25.82
+George,T01222,Queens,24.97
+Hana,T01223,Bronx,25.61
+Julia,T01224,Bronx,43.63
+Carlos,T01225,Staten Island,13.15
+Julia,T01226,Queens,16.56
+Ivan,T01227,Manhattan,74.73
+George,T01228,Staten Island,49.9
+Bob,T01229,Queens,65.64
+Diana,T01230,Brooklyn,34.12
+Ivan,T01231,Manhattan,68.65
+Hana,T01232,Bronx,8.29
+Ethan,T01233,Staten Island,32.72
+Ivan,T01234,Brooklyn,67.26
+Julia,T01235,Manhattan,66.04
+Alice,T01236,Brooklyn,74.83
+Diana,T01237,Manhattan,74.84
+Ivan,T01238,Queens,21.87
+Diana,T01239,Bronx,8.88
+Carlos,T01240,Queens,55.65
+Fatima,T01241,Brooklyn,26.61
+Ivan,T01242,Bronx,27.03
+Carlos,T01243,Brooklyn,25.53
+Fatima,T01244,Bronx,55.83
+Fatima,T01245,Manhattan,45.94
+George,T01246,Manhattan,54.38
+George,T01247,Staten Island,46.55
+Ivan,T01248,Bronx,51.74
+Fatima,T01249,Staten Island,31.6
+Ethan,T01250,Queens,47.21
+Ivan,T01251,Queens,47.85
+George,T01252,Staten Island,72.84
+Diana,T01253,Queens,8.47
+Carlos,T01254,Bronx,74.81
+Hana,T01255,Manhattan,43.8
+Carlos,T01256,Bronx,42.02
+Bob,T01257,Brooklyn,46.3
+Hana,T01258,Manhattan,65.71
+Bob,T01259,Brooklyn,36.99
+Alice,T01260,Bronx,20.52
+Ivan,T01261,Staten Island,45.45
+Alice,T01262,Staten Island,51.01
+Fatima,T01263,Brooklyn,42.24
+George,T01264,Staten Island,41.4
+Ethan,T01265,Bronx,61.25
+Ivan,T01266,Staten Island,51.71
+Alice,T01267,Brooklyn,48.58
+Ivan,T01268,Staten Island,27.41
+George,T01269,Brooklyn,31.35
+Diana,T01270,Staten Island,30.81
+Julia,T01271,Queens,61.58
+Diana,T01272,Brooklyn,42.25
+Ethan,T01273,Bronx,74.78
+George,T01274,Manhattan,33.23
+Alice,T01275,Staten Island,49.8
+George,T01276,Bronx,14.41
+Ethan,T01277,Bronx,21.87
+Ethan,T01278,Bronx,49.48
+Hana,T01279,Brooklyn,30.13
+Carlos,T01280,Manhattan,36.67
+Ivan,T01281,Queens,39.85
+Julia,T01282,Queens,19.36
+Diana,T01283,Manhattan,12.13
+Carlos,T01284,Brooklyn,11.86
+Alice,T01285,Brooklyn,30.57
+Fatima,T01286,Brooklyn,31.66
+Ivan,T01287,Staten Island,31.38
+Ivan,T01288,Staten Island,64.77
+Carlos,T01289,Brooklyn,59.15
+Alice,T01290,Manhattan,53.18
+Diana,T01291,Manhattan,69.56
+Ivan,T01292,Bronx,15.21
+Ethan,T01293,Staten Island,16.89
+Ivan,T01294,Queens,23.98
+George,T01295,Staten Island,66.78
+Diana,T01296,Staten Island,58.31
+Fatima,T01297,Bronx,27.03
+Ethan,T01298,Queens,44.14
+Fatima,T01299,Queens,34.53
+Hana,T01300,Queens,68.04
+Fatima,T01301,Manhattan,74.25
+Bob,T01302,Bronx,46.93
+Carlos,T01303,Queens,50.56
+Ivan,T01304,Queens,74.24
+George,T01305,Brooklyn,19.0
+Alice,T01306,Staten Island,48.93
+Ethan,T01307,Brooklyn,67.21
+Bob,T01308,Bronx,48.35
+Fatima,T01309,Queens,14.92
+Carlos,T01310,Brooklyn,35.6
+Hana,T01311,Brooklyn,41.04
+Alice,T01312,Manhattan,23.28
+Ethan,T01313,Queens,56.23
+George,T01314,Manhattan,73.56
+Fatima,T01315,Brooklyn,16.24
+Julia,T01316,Staten Island,15.67
+Bob,T01317,Brooklyn,44.39
+Ivan,T01318,Brooklyn,24.66
+Carlos,T01319,Brooklyn,53.57
+Julia,T01320,Staten Island,49.19
+Hana,T01321,Bronx,34.13
+Ivan,T01322,Brooklyn,38.19
+Hana,T01323,Brooklyn,17.07
+George,T01324,Manhattan,8.08
+Alice,T01325,Staten Island,17.16
+Ivan,T01326,Bronx,10.73
+Hana,T01327,Manhattan,69.03
+Carlos,T01328,Queens,47.41
+Ethan,T01329,Manhattan,46.23
+Diana,T01330,Queens,28.49
+Diana,T01331,Brooklyn,25.33
+Carlos,T01332,Staten Island,55.18
+Julia,T01333,Brooklyn,66.89
+Bob,T01334,Manhattan,49.32
+Alice,T01335,Bronx,57.77
+Alice,T01336,Bronx,66.7
+Diana,T01337,Queens,64.15
+Diana,T01338,Bronx,66.03
+Alice,T01339,Staten Island,24.45
+Hana,T01340,Queens,71.32
+Julia,T01341,Queens,56.26
+Bob,T01342,Manhattan,71.73
+Ethan,T01343,Manhattan,68.2
+Diana,T01344,Queens,74.1
+Alice,T01345,Queens,29.0
+Fatima,T01346,Queens,26.22
+Carlos,T01347,Brooklyn,56.49
+Julia,T01348,Staten Island,38.25
+George,T01349,Queens,51.42
+Julia,T01350,Queens,31.27
+George,T01351,Bronx,45.13
+Alice,T01352,Manhattan,18.99
+Ivan,T01353,Manhattan,65.25
+Fatima,T01354,Bronx,68.3
+Carlos,T01355,Brooklyn,72.79
+Ivan,T01356,Manhattan,9.6
+George,T01357,Staten Island,44.62
+Diana,T01358,Manhattan,71.32
+Julia,T01359,Staten Island,67.76
+Carlos,T01360,Bronx,24.19
+Ivan,T01361,Staten Island,67.33
+Ivan,T01362,Manhattan,67.99
+Bob,T01363,Manhattan,14.09
+Diana,T01364,Manhattan,69.73
+Hana,T01365,Staten Island,34.52
+Julia,T01366,Queens,46.61
+Fatima,T01367,Manhattan,68.34
+Bob,T01368,Bronx,17.06
+Ethan,T01369,Brooklyn,43.52
+Julia,T01370,Bronx,70.93
+Diana,T01371,Queens,39.35
+Diana,T01372,Staten Island,8.93
+Bob,T01373,Staten Island,10.72
+Fatima,T01374,Queens,38.93
+Ivan,T01375,Brooklyn,54.2
+George,T01376,Brooklyn,25.76
+Bob,T01377,Bronx,10.6
+Bob,T01378,Brooklyn,36.79
+Ivan,T01379,Brooklyn,39.22
+Bob,T01380,Queens,59.88
+Julia,T01381,Bronx,49.94
+Fatima,T01382,Staten Island,41.64
+Diana,T01383,Manhattan,73.95
+Fatima,T01384,Brooklyn,66.8
+Bob,T01385,Manhattan,46.48
+Hana,T01386,Brooklyn,68.37
+Fatima,T01387,Queens,62.45
+Bob,T01388,Brooklyn,50.21
+Ivan,T01389,Brooklyn,62.9
+Alice,T01390,Staten Island,44.62
+Alice,T01391,Brooklyn,61.42
+Carlos,T01392,Manhattan,73.79
+Alice,T01393,Bronx,62.63
+Ethan,T01394,Queens,49.23
+Julia,T01395,Queens,27.67
+George,T01396,Bronx,55.87
+Alice,T01397,Brooklyn,54.83
+Carlos,T01398,Queens,12.4
+Alice,T01399,Staten Island,69.63
+Carlos,T01400,Bronx,33.91
+Fatima,T01401,Queens,72.41
+Hana,T01402,Manhattan,9.9
+Julia,T01403,Queens,34.86
+George,T01404,Queens,50.11
+Ethan,T01405,Staten Island,44.67
+Bob,T01406,Queens,16.26
+George,T01407,Bronx,13.9
+Ivan,T01408,Manhattan,35.52
+Julia,T01409,Queens,33.21
+Hana,T01410,Brooklyn,52.36
+Ivan,T01411,Manhattan,48.43
+Ethan,T01412,Brooklyn,27.96
+Alice,T01413,Staten Island,39.22
+Ethan,T01414,Brooklyn,33.58
+Diana,T01415,Queens,23.7
+Ethan,T01416,Bronx,10.78
+Fatima,T01417,Staten Island,13.92
+George,T01418,Brooklyn,13.31
+Julia,T01419,Bronx,29.69
+Ethan,T01420,Brooklyn,25.93
+George,T01421,Bronx,34.37
+Diana,T01422,Brooklyn,15.24
+Bob,T01423,Queens,70.08
+Ivan,T01424,Brooklyn,56.14
+Bob,T01425,Brooklyn,26.75
+Diana,T01426,Staten Island,29.4
+Carlos,T01427,Brooklyn,23.92
+Carlos,T01428,Bronx,67.23
+Ivan,T01429,Queens,17.56
+Bob,T01430,Queens,46.02
+Bob,T01431,Staten Island,74.71
+Diana,T01432,Staten Island,13.62
+Julia,T01433,Queens,45.44
+Ivan,T01434,Manhattan,40.07
+Carlos,T01435,Brooklyn,22.3
+Ethan,T01436,Bronx,24.32
+Alice,T01437,Manhattan,69.64
+Alice,T01438,Queens,8.16
+Diana,T01439,Staten Island,29.6
+Hana,T01440,Staten Island,70.74
+Ethan,T01441,Staten Island,68.32
+Alice,T01442,Queens,12.97
+Diana,T01443,Staten Island,41.43
+Julia,T01444,Staten Island,51.94
+Alice,T01445,Manhattan,61.39
+George,T01446,Queens,25.88
+Hana,T01447,Bronx,21.59
+Ivan,T01448,Bronx,72.9
+Carlos,T01449,Queens,52.03
+George,T01450,Bronx,45.74
+Hana,T01451,Bronx,21.84
+Hana,T01452,Brooklyn,36.66
+Ethan,T01453,Staten Island,19.62
+Fatima,T01454,Staten Island,26.19
+George,T01455,Queens,15.18
+Bob,T01456,Bronx,66.53
+Ethan,T01457,Staten Island,65.61
+George,T01458,Bronx,17.31
+Julia,T01459,Brooklyn,73.01
+Julia,T01460,Queens,34.7
+George,T01461,Staten Island,40.03
+Hana,T01462,Bronx,52.07
+Ethan,T01463,Queens,59.77
+Fatima,T01464,Queens,36.92
+Ethan,T01465,Manhattan,27.27
+Ivan,T01466,Bronx,9.06
+Bob,T01467,Manhattan,55.68
+Fatima,T01468,Manhattan,47.75
+Ethan,T01469,Staten Island,69.64
+Alice,T01470,Brooklyn,50.29
+Diana,T01471,Bronx,15.59
+Hana,T01472,Manhattan,65.57
+Alice,T01473,Manhattan,20.29
+Diana,T01474,Brooklyn,19.07
+Carlos,T01475,Queens,59.08
+Fatima,T01476,Brooklyn,25.64
+Alice,T01477,Bronx,67.75
+George,T01478,Bronx,25.0
+George,T01479,Bronx,63.85
+Ivan,T01480,Bronx,19.98
+Bob,T01481,Manhattan,41.65
+Bob,T01482,Bronx,36.2
+Bob,T01483,Brooklyn,53.55
+Julia,T01484,Queens,34.04
+Hana,T01485,Manhattan,20.94
+George,T01486,Manhattan,8.13
+Fatima,T01487,Staten Island,40.97
+Diana,T01488,Brooklyn,58.26
+Carlos,T01489,Bronx,68.49
+Ethan,T01490,Staten Island,44.79
+Carlos,T01491,Manhattan,35.78
+George,T01492,Bronx,15.48
+Ivan,T01493,Queens,22.8
+Hana,T01494,Manhattan,60.69
+Hana,T01495,Staten Island,15.44
+Ethan,T01496,Staten Island,16.6
+Ivan,T01497,Brooklyn,13.74
+Carlos,T01498,Queens,10.28
+Julia,T01499,Bronx,45.62
+Ivan,T01500,Queens,74.82
+George,T01501,Queens,30.65
+Fatima,T01502,Bronx,15.09
+Julia,T01503,Manhattan,20.09
+Bob,T01504,Staten Island,24.36
+George,T01505,Manhattan,71.31
+Ethan,T01506,Queens,59.61
+Ethan,T01507,Brooklyn,28.8
+Fatima,T01508,Queens,21.07
+Carlos,T01509,Brooklyn,35.9
+Bob,T01510,Brooklyn,21.8
+Alice,T01511,Bronx,28.57
+Bob,T01512,Staten Island,23.76
+Hana,T01513,Staten Island,49.22
+Bob,T01514,Brooklyn,22.12
+Carlos,T01515,Staten Island,73.81
+Ethan,T01516,Queens,34.31
+Fatima,T01517,Brooklyn,74.64
+Diana,T01518,Manhattan,64.03
+Ethan,T01519,Bronx,53.08
+Alice,T01520,Queens,27.63
+Ivan,T01521,Brooklyn,47.6
+Diana,T01522,Queens,47.72
+Bob,T01523,Brooklyn,35.78
+George,T01524,Queens,18.84
+Ethan,T01525,Queens,72.28
+Bob,T01526,Brooklyn,57.37
+Fatima,T01527,Brooklyn,34.96
+Fatima,T01528,Manhattan,8.56
+Julia,T01529,Manhattan,62.75
+Ivan,T01530,Bronx,74.67
+George,T01531,Brooklyn,9.53
+Alice,T01532,Bronx,32.79
+Bob,T01533,Manhattan,46.83
+George,T01534,Bronx,56.94
+Ethan,T01535,Brooklyn,71.28
+George,T01536,Staten Island,37.54
+Bob,T01537,Manhattan,42.01
+Diana,T01538,Brooklyn,45.77
+Fatima,T01539,Brooklyn,46.74
+Carlos,T01540,Staten Island,57.22
+Alice,T01541,Manhattan,48.97
+Bob,T01542,Bronx,39.16
+Julia,T01543,Queens,54.9
+Ivan,T01544,Bronx,9.98
+Ivan,T01545,Manhattan,62.09
+Carlos,T01546,Staten Island,42.52
+Carlos,T01547,Queens,27.03
+Hana,T01548,Brooklyn,32.09
+Ivan,T01549,Brooklyn,14.05
+Ethan,T01550,Staten Island,8.17
+Diana,T01551,Staten Island,12.7
+Ethan,T01552,Queens,20.37
+Julia,T01553,Queens,33.71
+Hana,T01554,Staten Island,30.18
+George,T01555,Staten Island,36.87
+George,T01556,Staten Island,65.94
+Ethan,T01557,Staten Island,57.54
+Alice,T01558,Brooklyn,26.89
+Alice,T01559,Manhattan,23.06
+Alice,T01560,Brooklyn,10.29
+Bob,T01561,Queens,69.96
+Fatima,T01562,Brooklyn,44.5
+Ethan,T01563,Staten Island,72.58
+Ethan,T01564,Bronx,36.16
+Hana,T01565,Queens,22.13
+Bob,T01566,Staten Island,59.24
+Julia,T01567,Bronx,68.05
+Ivan,T01568,Manhattan,50.91
+Bob,T01569,Bronx,71.09
+Diana,T01570,Queens,14.87
+Julia,T01571,Manhattan,41.56
+Ivan,T01572,Brooklyn,71.32
+Bob,T01573,Bronx,33.13
+Hana,T01574,Queens,24.91
+Carlos,T01575,Bronx,11.44
+Diana,T01576,Staten Island,26.82
+Fatima,T01577,Manhattan,27.62
+Fatima,T01578,Bronx,50.5
+Carlos,T01579,Brooklyn,24.53
+Hana,T01580,Queens,68.88
+George,T01581,Manhattan,16.67
+Hana,T01582,Staten Island,48.85
+George,T01583,Staten Island,71.83
+Alice,T01584,Bronx,42.91
+Ethan,T01585,Brooklyn,24.12
+Bob,T01586,Manhattan,45.12
+Julia,T01587,Brooklyn,41.52
+Ethan,T01588,Manhattan,62.54
+Ethan,T01589,Manhattan,36.4
+Ethan,T01590,Staten Island,55.93
+Julia,T01591,Manhattan,9.38
+Diana,T01592,Brooklyn,69.31
+Julia,T01593,Brooklyn,19.28
+Fatima,T01594,Bronx,69.39
+Diana,T01595,Staten Island,48.81
+Bob,T01596,Bronx,73.6
+Hana,T01597,Queens,50.5
+Ivan,T01598,Bronx,39.12
+Julia,T01599,Manhattan,36.24
+Hana,T01600,Manhattan,23.45
+Fatima,T01601,Queens,65.2
+George,T01602,Bronx,35.95
+Alice,T01603,Manhattan,29.35
+Fatima,T01604,Manhattan,54.6
+Hana,T01605,Staten Island,51.28
+Fatima,T01606,Bronx,39.32
+Carlos,T01607,Bronx,54.4
+Diana,T01608,Manhattan,70.83
+Bob,T01609,Bronx,17.66
+George,T01610,Staten Island,53.06
+Bob,T01611,Staten Island,47.57
+Carlos,T01612,Queens,13.2
+Fatima,T01613,Manhattan,38.41
+Alice,T01614,Queens,9.33
+Fatima,T01615,Bronx,31.37
+Ethan,T01616,Staten Island,34.46
+Alice,T01617,Manhattan,22.02
+Ivan,T01618,Staten Island,17.96
+Hana,T01619,Bronx,23.99
+Ivan,T01620,Staten Island,11.25
+Fatima,T01621,Manhattan,23.05
+Carlos,T01622,Manhattan,49.78
+George,T01623,Staten Island,52.62
+Ivan,T01624,Bronx,72.07
+George,T01625,Brooklyn,53.91
+George,T01626,Manhattan,43.13
+Fatima,T01627,Bronx,57.48
+Julia,T01628,Staten Island,58.74
+Ivan,T01629,Brooklyn,32.5
+Ethan,T01630,Brooklyn,37.28
+Fatima,T01631,Manhattan,61.27
+George,T01632,Staten Island,26.81
+Alice,T01633,Manhattan,48.49
+Ethan,T01634,Bronx,43.53
+Carlos,T01635,Staten Island,16.66
+Alice,T01636,Manhattan,51.23
+Carlos,T01637,Manhattan,11.8
+Diana,T01638,Bronx,68.06
+Fatima,T01639,Queens,73.34
+Julia,T01640,Bronx,27.18
+Hana,T01641,Manhattan,15.03
+Carlos,T01642,Bronx,23.66
+Ivan,T01643,Queens,67.73
+Julia,T01644,Bronx,73.44
+Hana,T01645,Staten Island,33.83
+Alice,T01646,Brooklyn,51.21
+Alice,T01647,Manhattan,20.04
+Alice,T01648,Staten Island,51.55
+Ivan,T01649,Brooklyn,13.39
+Fatima,T01650,Brooklyn,67.06
+Ivan,T01651,Manhattan,26.29
+Ethan,T01652,Brooklyn,65.33
+Hana,T01653,Brooklyn,56.09
+Julia,T01654,Manhattan,40.78
+Hana,T01655,Queens,27.41
+Fatima,T01656,Staten Island,51.36
+Fatima,T01657,Queens,23.04
+Alice,T01658,Staten Island,22.55
+Ethan,T01659,Staten Island,56.94
+George,T01660,Staten Island,32.92
+Diana,T01661,Queens,38.55
+Ethan,T01662,Manhattan,40.54
+Bob,T01663,Queens,18.67
+Fatima,T01664,Queens,10.16
+Alice,T01665,Manhattan,41.78
+Alice,T01666,Brooklyn,16.01
+Fatima,T01667,Staten Island,38.23
+Julia,T01668,Bronx,9.46
+Julia,T01669,Staten Island,69.17
+Julia,T01670,Queens,65.03
+Ivan,T01671,Staten Island,32.59
+Ivan,T01672,Bronx,33.4
+Ethan,T01673,Brooklyn,33.66
+Ethan,T01674,Manhattan,56.6
+Julia,T01675,Staten Island,71.68
+Carlos,T01676,Manhattan,25.24
+Carlos,T01677,Staten Island,17.74
+George,T01678,Bronx,48.11
+Diana,T01679,Queens,19.38
+Diana,T01680,Queens,71.4
+Alice,T01681,Bronx,17.77
+Ivan,T01682,Brooklyn,17.86
+Julia,T01683,Manhattan,20.89
+Hana,T01684,Queens,48.52
+Bob,T01685,Queens,66.35
+Ivan,T01686,Staten Island,66.69
+Hana,T01687,Staten Island,19.04
+Diana,T01688,Staten Island,42.52
+Ethan,T01689,Bronx,29.54
+Fatima,T01690,Bronx,14.08
+Diana,T01691,Manhattan,46.13
+Ethan,T01692,Staten Island,17.23
+Fatima,T01693,Staten Island,23.24
+Alice,T01694,Bronx,18.63
+Bob,T01695,Queens,32.13
+Diana,T01696,Bronx,52.86
+Hana,T01697,Staten Island,50.93
+Ethan,T01698,Queens,69.47
+Diana,T01699,Staten Island,11.79
+Ethan,T01700,Staten Island,15.39
+Diana,T01701,Brooklyn,9.74
+Fatima,T01702,Staten Island,34.2
+Carlos,T01703,Brooklyn,33.7
+George,T01704,Manhattan,38.73
+Bob,T01705,Staten Island,60.17
+Julia,T01706,Bronx,37.36
+Bob,T01707,Manhattan,33.14
+Alice,T01708,Staten Island,26.59
+Hana,T01709,Staten Island,23.27
+Alice,T01710,Manhattan,74.64
+George,T01711,Manhattan,25.96
+George,T01712,Bronx,57.11
+Julia,T01713,Staten Island,70.69
+Hana,T01714,Queens,57.36
+Fatima,T01715,Queens,39.28
+George,T01716,Bronx,13.87
+Carlos,T01717,Queens,22.56
+Julia,T01718,Staten Island,62.31
+Carlos,T01719,Queens,71.06
+Julia,T01720,Queens,31.75
+Alice,T01721,Bronx,63.07
+Hana,T01722,Manhattan,53.8
+Diana,T01723,Staten Island,60.88
+Julia,T01724,Brooklyn,45.7
+Fatima,T01725,Manhattan,61.95
+Bob,T01726,Bronx,45.64
+Carlos,T01727,Queens,57.06
+Ethan,T01728,Queens,36.04
+Hana,T01729,Manhattan,42.05
+Alice,T01730,Manhattan,64.22
+Carlos,T01731,Staten Island,56.5
+Diana,T01732,Queens,26.62
+Julia,T01733,Staten Island,22.47
+Ethan,T01734,Manhattan,33.79
+Carlos,T01735,Bronx,35.08
+Alice,T01736,Manhattan,27.32
+Carlos,T01737,Manhattan,17.61
+Carlos,T01738,Queens,74.11
+Ethan,T01739,Brooklyn,69.35
+George,T01740,Manhattan,12.89
+Fatima,T01741,Bronx,55.1
+Ethan,T01742,Bronx,33.28
+Ethan,T01743,Bronx,61.62
+George,T01744,Manhattan,33.97
+Ethan,T01745,Queens,60.44
+Ethan,T01746,Manhattan,48.44
+Fatima,T01747,Manhattan,39.13
+Diana,T01748,Bronx,12.11
+Julia,T01749,Bronx,25.32
+Alice,T01750,Bronx,59.56
+Carlos,T01751,Staten Island,68.03
+Fatima,T01752,Brooklyn,19.1
+Alice,T01753,Queens,47.82
+Bob,T01754,Brooklyn,40.59
+Ethan,T01755,Manhattan,28.06
+Ethan,T01756,Queens,12.81
+Ivan,T01757,Manhattan,44.22
+George,T01758,Bronx,47.35
+Hana,T01759,Queens,74.76
+Carlos,T01760,Brooklyn,36.04
+Ivan,T01761,Staten Island,16.45
+Diana,T01762,Staten Island,65.26
+Carlos,T01763,Brooklyn,55.11
+Ethan,T01764,Brooklyn,23.74
+Bob,T01765,Bronx,52.66
+Ivan,T01766,Queens,9.75
+Diana,T01767,Brooklyn,29.56
+Ethan,T01768,Manhattan,49.22
+Hana,T01769,Staten Island,24.76
+Alice,T01770,Queens,38.41
+Hana,T01771,Queens,51.73
+Julia,T01772,Brooklyn,66.23
+Diana,T01773,Manhattan,42.26
+Alice,T01774,Queens,23.77
+Alice,T01775,Manhattan,44.6
+Carlos,T01776,Manhattan,38.05
+Hana,T01777,Brooklyn,22.7
+Bob,T01778,Manhattan,54.31
+Alice,T01779,Queens,50.81
+Julia,T01780,Manhattan,15.71
+Ethan,T01781,Bronx,17.81
+Ivan,T01782,Staten Island,45.05
+Julia,T01783,Staten Island,56.36
+Ivan,T01784,Brooklyn,41.07
+Julia,T01785,Brooklyn,61.94
+Bob,T01786,Manhattan,22.41
+Bob,T01787,Brooklyn,32.78
+Bob,T01788,Queens,47.17
+Alice,T01789,Bronx,33.15
+Fatima,T01790,Bronx,34.1
+George,T01791,Queens,51.22
+Ivan,T01792,Staten Island,35.09
+Carlos,T01793,Staten Island,17.85
+Julia,T01794,Brooklyn,74.66
+Julia,T01795,Queens,22.37
+Bob,T01796,Manhattan,61.22
+Ivan,T01797,Staten Island,27.03
+Hana,T01798,Queens,12.15
+Ethan,T01799,Queens,28.64
+Alice,T01800,Brooklyn,20.25
+Ethan,T01801,Queens,62.39
+Julia,T01802,Manhattan,40.03
+Alice,T01803,Queens,47.24
+Diana,T01804,Queens,58.02
+Fatima,T01805,Brooklyn,56.04
+Bob,T01806,Manhattan,37.42
+Julia,T01807,Manhattan,38.47
+Julia,T01808,Brooklyn,41.28
+Carlos,T01809,Staten Island,58.83
+Hana,T01810,Brooklyn,49.89
+Fatima,T01811,Brooklyn,66.5
+Carlos,T01812,Queens,46.28
+Bob,T01813,Bronx,28.5
+Ethan,T01814,Queens,9.91
+George,T01815,Manhattan,33.75
+Bob,T01816,Staten Island,40.1
+Alice,T01817,Staten Island,68.63
+Ethan,T01818,Brooklyn,50.18
+Carlos,T01819,Bronx,74.89
+Julia,T01820,Brooklyn,49.26
+Alice,T01821,Staten Island,65.7
+Carlos,T01822,Bronx,43.42
+Hana,T01823,Brooklyn,13.8
+Diana,T01824,Brooklyn,73.85
+Alice,T01825,Manhattan,58.4
+Ivan,T01826,Staten Island,39.62
+Julia,T01827,Bronx,62.19
+Bob,T01828,Queens,42.34
+Ivan,T01829,Staten Island,28.17
+Julia,T01830,Brooklyn,57.45
+Fatima,T01831,Brooklyn,42.99
+George,T01832,Queens,31.65
+Julia,T01833,Manhattan,15.14
+Julia,T01834,Queens,35.71
+Bob,T01835,Staten Island,19.31
+Ivan,T01836,Staten Island,18.08
+Bob,T01837,Queens,69.3
+Fatima,T01838,Brooklyn,41.95
+Ethan,T01839,Bronx,73.68
+Fatima,T01840,Queens,54.27
+Ethan,T01841,Staten Island,10.01
+Ivan,T01842,Brooklyn,23.7
+Bob,T01843,Queens,15.54
+Diana,T01844,Bronx,55.95
+Hana,T01845,Manhattan,62.86
+Bob,T01846,Brooklyn,24.98
+Fatima,T01847,Queens,22.22
+Ethan,T01848,Queens,55.68
+Bob,T01849,Bronx,30.05
+Ethan,T01850,Bronx,41.04
+Ethan,T01851,Queens,70.58
+Ivan,T01852,Bronx,67.28
+Ethan,T01853,Brooklyn,32.49
+Alice,T01854,Staten Island,47.18
+Bob,T01855,Brooklyn,64.54
+Ethan,T01856,Manhattan,26.91
+Carlos,T01857,Manhattan,49.16
+Ethan,T01858,Manhattan,35.7
+Fatima,T01859,Queens,51.87
+Bob,T01860,Staten Island,18.29
+George,T01861,Brooklyn,56.63
+Ivan,T01862,Queens,16.87
+Diana,T01863,Manhattan,71.52
+Bob,T01864,Staten Island,20.13
+Ivan,T01865,Manhattan,35.03
+Alice,T01866,Staten Island,65.92
+Fatima,T01867,Manhattan,51.88
+Carlos,T01868,Queens,44.48
+Bob,T01869,Staten Island,44.54
+Bob,T01870,Staten Island,21.28
+George,T01871,Brooklyn,22.04
+Bob,T01872,Manhattan,9.88
+Carlos,T01873,Brooklyn,43.89
+Hana,T01874,Staten Island,18.95
+Ivan,T01875,Bronx,32.41
+Julia,T01876,Staten Island,53.0
+Julia,T01877,Bronx,55.27
+Ivan,T01878,Queens,57.24
+Hana,T01879,Staten Island,58.28
+Fatima,T01880,Bronx,72.4
+Carlos,T01881,Brooklyn,68.2
+Carlos,T01882,Queens,19.33
+Ethan,T01883,Bronx,47.58
+Carlos,T01884,Queens,28.2
+Diana,T01885,Bronx,27.73
+Ethan,T01886,Staten Island,26.61
+Fatima,T01887,Manhattan,49.87
+Bob,T01888,Manhattan,73.38
+Ivan,T01889,Bronx,28.11
+Ivan,T01890,Queens,16.76
+Julia,T01891,Manhattan,58.0
+Bob,T01892,Staten Island,66.47
+George,T01893,Queens,31.58
+Ethan,T01894,Staten Island,68.91
+Carlos,T01895,Bronx,44.14
+Alice,T01896,Brooklyn,64.05
+Ethan,T01897,Manhattan,30.64
+Ethan,T01898,Bronx,65.24
+George,T01899,Queens,18.76
+Bob,T01900,Staten Island,42.34
+Fatima,T01901,Bronx,21.86
+Julia,T01902,Brooklyn,65.88
+Fatima,T01903,Brooklyn,63.8
+Hana,T01904,Queens,52.59
+Julia,T01905,Staten Island,11.9
+Ethan,T01906,Staten Island,24.9
+Alice,T01907,Queens,42.72
+Ivan,T01908,Manhattan,46.57
+Fatima,T01909,Staten Island,32.98
+Ivan,T01910,Manhattan,9.96
+George,T01911,Manhattan,27.3
+Julia,T01912,Bronx,17.14
+Fatima,T01913,Brooklyn,15.31
+Ivan,T01914,Queens,35.53
+Diana,T01915,Bronx,54.72
+Diana,T01916,Queens,61.14
+Diana,T01917,Bronx,67.89
+Julia,T01918,Bronx,40.94
+Hana,T01919,Manhattan,61.07
+Hana,T01920,Bronx,65.95
+Carlos,T01921,Brooklyn,50.98
+Hana,T01922,Brooklyn,71.78
+Fatima,T01923,Staten Island,53.77
+Fatima,T01924,Manhattan,74.07
+Bob,T01925,Staten Island,31.84
+Ethan,T01926,Queens,39.81
+George,T01927,Queens,53.18
+Carlos,T01928,Brooklyn,40.05
+Alice,T01929,Bronx,53.84
+Julia,T01930,Brooklyn,69.14
+George,T01931,Brooklyn,14.24
+Ivan,T01932,Bronx,59.78
+Hana,T01933,Manhattan,69.11
+Ivan,T01934,Staten Island,73.25
+Fatima,T01935,Brooklyn,36.54
+Diana,T01936,Bronx,16.21
+Julia,T01937,Queens,9.16
+Carlos,T01938,Manhattan,49.27
+Fatima,T01939,Queens,15.93
+Ethan,T01940,Staten Island,11.09
+Ivan,T01941,Brooklyn,67.48
+Carlos,T01942,Staten Island,34.07
+Diana,T01943,Bronx,46.37
+Ethan,T01944,Manhattan,57.23
+Carlos,T01945,Queens,18.04
+Julia,T01946,Brooklyn,43.98
+Ivan,T01947,Bronx,30.12
+George,T01948,Queens,43.47
+Alice,T01949,Manhattan,49.37
+Ethan,T01950,Bronx,73.72
+Julia,T01951,Brooklyn,22.5
+George,T01952,Queens,34.65
+Ivan,T01953,Staten Island,33.13
+Julia,T01954,Queens,69.57
+Carlos,T01955,Queens,8.32
+George,T01956,Queens,12.62
+Diana,T01957,Manhattan,53.83
+Carlos,T01958,Bronx,30.13
+Carlos,T01959,Bronx,8.23
+Ethan,T01960,Bronx,27.77
+George,T01961,Brooklyn,10.73
+Diana,T01962,Staten Island,21.5
+Hana,T01963,Queens,21.24
+Diana,T01964,Bronx,53.51
+Julia,T01965,Bronx,40.91
+Hana,T01966,Brooklyn,51.13
+Bob,T01967,Manhattan,30.12
+Diana,T01968,Staten Island,21.81
+George,T01969,Bronx,59.6
+Bob,T01970,Staten Island,60.89
+Diana,T01971,Manhattan,44.25
+Bob,T01972,Queens,59.86
+Alice,T01973,Manhattan,26.63
+Julia,T01974,Brooklyn,69.4
+Ivan,T01975,Bronx,32.12
+Ivan,T01976,Queens,9.59
+Ivan,T01977,Queens,10.26
+Diana,T01978,Queens,72.39
+Ethan,T01979,Queens,72.58
+Diana,T01980,Manhattan,16.57
+Ivan,T01981,Staten Island,58.65
+Carlos,T01982,Brooklyn,66.87
+Fatima,T01983,Staten Island,73.05
+Julia,T01984,Queens,32.45
+Julia,T01985,Queens,61.42
+Fatima,T01986,Queens,10.57
+Julia,T01987,Brooklyn,13.13
+Fatima,T01988,Staten Island,70.49
+Diana,T01989,Queens,16.58
+George,T01990,Queens,40.88
+George,T01991,Bronx,36.26
+Julia,T01992,Bronx,69.31
+Hana,T01993,Brooklyn,66.34
+Fatima,T01994,Manhattan,33.49
+Ethan,T01995,Manhattan,69.55
+Carlos,T01996,Manhattan,16.16
+George,T01997,Manhattan,20.9
+Julia,T01998,Staten Island,60.9
+Julia,T01999,Staten Island,52.86
+Ethan,T02000,Queens,46.14
+Hana,T02001,Brooklyn,69.84
+Hana,T02002,Brooklyn,33.69
+Fatima,T02003,Manhattan,48.71
+Alice,T02004,Bronx,66.56
+George,T02005,Brooklyn,54.92
+George,T02006,Brooklyn,63.09
+Hana,T02007,Staten Island,13.4
+Bob,T02008,Staten Island,37.36
+Diana,T02009,Manhattan,56.31
+Carlos,T02010,Queens,42.33
+Ethan,T02011,Manhattan,38.0
+Julia,T02012,Queens,69.94
+Alice,T02013,Staten Island,50.6
+Hana,T02014,Queens,43.5
+Carlos,T02015,Manhattan,54.58
+Bob,T02016,Queens,27.76
+Hana,T02017,Staten Island,15.23
+Julia,T02018,Bronx,45.29
+Julia,T02019,Manhattan,32.15
+Ivan,T02020,Bronx,71.12
+Alice,T02021,Bronx,28.3
+Julia,T02022,Staten Island,41.23
+Ethan,T02023,Manhattan,43.6
+Bob,T02024,Queens,45.32
+George,T02025,Brooklyn,39.18
+Bob,T02026,Manhattan,18.49
+Carlos,T02027,Bronx,34.9
+Ethan,T02028,Staten Island,47.75
+Alice,T02029,Staten Island,13.3
+Ethan,T02030,Brooklyn,49.31
+Bob,T02031,Brooklyn,10.53
+Ethan,T02032,Bronx,64.0
+Hana,T02033,Staten Island,50.78
+Ivan,T02034,Brooklyn,22.64
+Hana,T02035,Queens,59.74
+Ethan,T02036,Manhattan,72.08
+Ivan,T02037,Manhattan,35.56
+Alice,T02038,Queens,69.47
+Julia,T02039,Manhattan,10.74
+Alice,T02040,Bronx,39.8
+Fatima,T02041,Manhattan,27.36
+Ivan,T02042,Bronx,12.0
+Alice,T02043,Queens,70.12
+Ivan,T02044,Bronx,14.82
+Ivan,T02045,Brooklyn,12.2
+Ethan,T02046,Bronx,20.97
+Ethan,T02047,Staten Island,46.35
+Diana,T02048,Brooklyn,24.82
+Alice,T02049,Bronx,13.48
+Bob,T02050,Manhattan,17.39
+George,T02051,Queens,14.87
+Julia,T02052,Staten Island,19.2
+Ivan,T02053,Brooklyn,38.77
+Fatima,T02054,Brooklyn,16.64
+Carlos,T02055,Queens,50.99
+Ivan,T02056,Queens,27.98
+Hana,T02057,Brooklyn,64.64
+Ivan,T02058,Manhattan,36.17
+Hana,T02059,Queens,66.26
+Hana,T02060,Staten Island,46.02
+Hana,T02061,Brooklyn,54.64
+Diana,T02062,Bronx,17.57
+Fatima,T02063,Queens,46.03
+Fatima,T02064,Manhattan,16.07
+George,T02065,Staten Island,39.29
+Hana,T02066,Queens,56.8
+Ethan,T02067,Brooklyn,8.33
+George,T02068,Bronx,61.14
+Ivan,T02069,Brooklyn,62.37
+Carlos,T02070,Staten Island,13.99
+Diana,T02071,Queens,66.41
+Hana,T02072,Bronx,65.89
+Julia,T02073,Manhattan,32.45
+Fatima,T02074,Queens,46.67
+Ethan,T02075,Brooklyn,35.28
+Bob,T02076,Queens,17.36
+Ethan,T02077,Brooklyn,65.49
+Alice,T02078,Brooklyn,49.82
+Julia,T02079,Staten Island,53.72
+Carlos,T02080,Manhattan,33.27
+Fatima,T02081,Staten Island,51.95
+Ivan,T02082,Bronx,8.09
+Alice,T02083,Brooklyn,24.08
+Fatima,T02084,Brooklyn,49.16
+Julia,T02085,Brooklyn,53.79
+Ethan,T02086,Bronx,16.17
+Hana,T02087,Staten Island,36.83
+Diana,T02088,Queens,29.44
+Diana,T02089,Bronx,18.35
+Ivan,T02090,Brooklyn,18.17
+Bob,T02091,Queens,38.05
+Ivan,T02092,Manhattan,27.78
+Hana,T02093,Manhattan,29.44
+Alice,T02094,Bronx,50.98
+Ethan,T02095,Bronx,48.94
+George,T02096,Brooklyn,66.74
+Diana,T02097,Brooklyn,27.0
+Bob,T02098,Staten Island,21.12
+Bob,T02099,Staten Island,53.46
+Ivan,T02100,Staten Island,60.32
+Diana,T02101,Bronx,59.52
+Ethan,T02102,Manhattan,10.11
+Carlos,T02103,Staten Island,66.79
+Julia,T02104,Brooklyn,23.12
+Alice,T02105,Queens,43.28
+George,T02106,Queens,59.4
+Ethan,T02107,Staten Island,8.1
+Bob,T02108,Bronx,31.24
+Ethan,T02109,Staten Island,13.43
+Hana,T02110,Queens,56.9
+Ethan,T02111,Brooklyn,59.93
+Diana,T02112,Brooklyn,59.07
+Carlos,T02113,Bronx,28.7
+Ethan,T02114,Brooklyn,58.01
+Ethan,T02115,Bronx,43.43
+Fatima,T02116,Staten Island,28.62
+Fatima,T02117,Staten Island,57.36
+Alice,T02118,Brooklyn,8.73
+Ethan,T02119,Bronx,29.65
+Bob,T02120,Manhattan,60.08
+Fatima,T02121,Bronx,56.44
+Ivan,T02122,Manhattan,51.82
+Fatima,T02123,Bronx,71.64
+Carlos,T02124,Queens,27.67
+Julia,T02125,Queens,68.95
+Ethan,T02126,Queens,13.57
+Alice,T02127,Brooklyn,26.63
+Fatima,T02128,Queens,48.14
+Ethan,T02129,Queens,74.09
+Fatima,T02130,Manhattan,37.85
+Carlos,T02131,Brooklyn,21.58
+Hana,T02132,Queens,53.96
+Ethan,T02133,Manhattan,43.19
+George,T02134,Staten Island,51.84
+Fatima,T02135,Queens,9.9
+Alice,T02136,Staten Island,40.13
+Hana,T02137,Bronx,31.45
+Hana,T02138,Brooklyn,16.77
+Fatima,T02139,Bronx,18.06
+Fatima,T02140,Bronx,44.43
+Diana,T02141,Staten Island,47.3
+Julia,T02142,Brooklyn,47.85
+Hana,T02143,Staten Island,66.77
+Alice,T02144,Staten Island,30.38
+Diana,T02145,Staten Island,69.71
+Hana,T02146,Queens,10.03
+Bob,T02147,Brooklyn,57.13
+Julia,T02148,Brooklyn,19.92
+Ethan,T02149,Bronx,26.2
+Ivan,T02150,Brooklyn,16.06
+Fatima,T02151,Bronx,33.63
+Julia,T02152,Bronx,26.6
+Carlos,T02153,Manhattan,47.7
+Hana,T02154,Bronx,55.32
+Ethan,T02155,Staten Island,20.86
+Julia,T02156,Queens,56.2
+Carlos,T02157,Staten Island,61.68
+Ivan,T02158,Bronx,47.31
+Carlos,T02159,Queens,26.14
+Carlos,T02160,Brooklyn,72.02
+Ethan,T02161,Manhattan,41.77
+Bob,T02162,Brooklyn,64.57
+Fatima,T02163,Staten Island,31.67
+Fatima,T02164,Bronx,72.96
+Bob,T02165,Manhattan,69.7
+George,T02166,Queens,15.42
+Ethan,T02167,Staten Island,62.36
+Ethan,T02168,Queens,8.76
+Ivan,T02169,Bronx,73.09
+Julia,T02170,Bronx,59.57
+Ivan,T02171,Brooklyn,30.96
+Ethan,T02172,Bronx,44.15
+Ivan,T02173,Manhattan,67.92
+Hana,T02174,Manhattan,26.16
+Carlos,T02175,Staten Island,25.85
+Fatima,T02176,Brooklyn,44.58
+Fatima,T02177,Bronx,17.78
+Diana,T02178,Bronx,37.71
+Carlos,T02179,Bronx,40.14
+Ethan,T02180,Staten Island,57.71
+Diana,T02181,Manhattan,46.2
+Carlos,T02182,Brooklyn,14.68
+George,T02183,Manhattan,57.84
+Bob,T02184,Queens,22.7
+Julia,T02185,Brooklyn,8.19
+Fatima,T02186,Staten Island,16.37
+Carlos,T02187,Bronx,73.45
+Fatima,T02188,Brooklyn,36.71
+Diana,T02189,Manhattan,24.62
+Alice,T02190,Staten Island,59.57
+Bob,T02191,Brooklyn,68.7
+Hana,T02192,Manhattan,60.66
+Ivan,T02193,Brooklyn,32.65
+Carlos,T02194,Staten Island,61.6
+Diana,T02195,Brooklyn,64.14
+Diana,T02196,Manhattan,71.58
+Diana,T02197,Staten Island,23.45
+Ivan,T02198,Bronx,17.85
+Alice,T02199,Queens,50.93
+George,T02200,Manhattan,33.24
+Diana,T02201,Bronx,61.49
+Hana,T02202,Staten Island,10.39
+Ivan,T02203,Brooklyn,28.8
+Fatima,T02204,Brooklyn,16.57
+Bob,T02205,Staten Island,60.44
+Julia,T02206,Brooklyn,31.8
+Fatima,T02207,Manhattan,23.06
+Bob,T02208,Brooklyn,44.49
+Julia,T02209,Brooklyn,44.88
+Hana,T02210,Bronx,48.05
+Julia,T02211,Bronx,19.64
+Diana,T02212,Manhattan,31.99
+Ethan,T02213,Queens,67.04
+Hana,T02214,Staten Island,25.81
+Diana,T02215,Bronx,13.35
+Ivan,T02216,Staten Island,72.14
+Bob,T02217,Brooklyn,51.1
+Julia,T02218,Bronx,20.2
+Ethan,T02219,Brooklyn,44.5
+Fatima,T02220,Manhattan,17.46
+Diana,T02221,Bronx,15.1
+Ethan,T02222,Manhattan,25.2
+Hana,T02223,Queens,50.99
+Julia,T02224,Staten Island,22.05
+Bob,T02225,Brooklyn,56.02
+Diana,T02226,Staten Island,59.24
+Julia,T02227,Brooklyn,29.49
+Fatima,T02228,Bronx,45.82
+Julia,T02229,Staten Island,14.5
+Bob,T02230,Bronx,69.95
+Julia,T02231,Queens,39.93
+Fatima,T02232,Brooklyn,37.08
+Julia,T02233,Staten Island,46.14
+Bob,T02234,Brooklyn,56.26
+Alice,T02235,Staten Island,73.43
+Ethan,T02236,Brooklyn,66.18
+Carlos,T02237,Manhattan,29.16
+Carlos,T02238,Queens,44.33
+Carlos,T02239,Manhattan,18.41
+Diana,T02240,Brooklyn,59.48
+Alice,T02241,Manhattan,72.13
+Diana,T02242,Bronx,28.27
+George,T02243,Queens,51.27
+Ethan,T02244,Staten Island,56.59
+Alice,T02245,Manhattan,24.63
+Ivan,T02246,Brooklyn,16.49
+George,T02247,Bronx,9.2
+Bob,T02248,Manhattan,31.79
+Fatima,T02249,Queens,36.37
+Ethan,T02250,Bronx,45.09
+Fatima,T02251,Manhattan,14.45
+Ethan,T02252,Staten Island,72.71
+Ethan,T02253,Staten Island,25.42
+Hana,T02254,Staten Island,32.42
+Alice,T02255,Brooklyn,25.85
+Julia,T02256,Queens,38.77
+Ivan,T02257,Bronx,58.83
+Bob,T02258,Queens,45.0
+Carlos,T02259,Staten Island,45.04
+Alice,T02260,Bronx,35.91
+Diana,T02261,Manhattan,64.95
+Julia,T02262,Queens,15.82
+Ethan,T02263,Manhattan,12.84
+Diana,T02264,Brooklyn,11.62
+George,T02265,Staten Island,31.08
+Alice,T02266,Brooklyn,12.82
+Fatima,T02267,Staten Island,31.45
+Fatima,T02268,Staten Island,68.08
+Hana,T02269,Manhattan,44.97
+Diana,T02270,Queens,24.45
+Diana,T02271,Queens,64.24
+Hana,T02272,Bronx,22.71
+Ivan,T02273,Staten Island,51.93
+Alice,T02274,Bronx,27.35
+Ethan,T02275,Manhattan,55.5
+Fatima,T02276,Queens,19.22
+George,T02277,Staten Island,38.13
+Carlos,T02278,Brooklyn,71.84
+Bob,T02279,Bronx,73.52
+Fatima,T02280,Bronx,17.85
+Alice,T02281,Staten Island,65.04
+Hana,T02282,Queens,14.45
+Diana,T02283,Brooklyn,11.4
+Bob,T02284,Brooklyn,24.01
+Ethan,T02285,Bronx,10.87
+Carlos,T02286,Bronx,41.48
+Carlos,T02287,Manhattan,55.15
+George,T02288,Brooklyn,63.6
+Ivan,T02289,Manhattan,30.05
+Julia,T02290,Bronx,13.65
+Fatima,T02291,Brooklyn,11.43
+Carlos,T02292,Manhattan,30.63
+Diana,T02293,Brooklyn,19.2
+Fatima,T02294,Bronx,9.36
+Ivan,T02295,Bronx,28.4
+Ethan,T02296,Brooklyn,30.28
+Fatima,T02297,Manhattan,70.9
+Diana,T02298,Staten Island,14.23
+Ivan,T02299,Brooklyn,17.43
+Ethan,T02300,Manhattan,32.07
+Ethan,T02301,Staten Island,54.31
+Ivan,T02302,Manhattan,59.96
+Fatima,T02303,Staten Island,29.67
+Bob,T02304,Manhattan,72.92
+Fatima,T02305,Bronx,17.52
+Diana,T02306,Staten Island,33.54
+Ivan,T02307,Queens,33.47
+Julia,T02308,Brooklyn,61.03
+Carlos,T02309,Queens,14.3
+Hana,T02310,Queens,66.66
+George,T02311,Staten Island,71.99
+Alice,T02312,Staten Island,69.44
+Fatima,T02313,Staten Island,64.13
+George,T02314,Brooklyn,44.8
+George,T02315,Manhattan,62.11
+Bob,T02316,Bronx,50.78
+Julia,T02317,Queens,21.08
+Diana,T02318,Manhattan,57.33
+Julia,T02319,Brooklyn,17.66
+Bob,T02320,Manhattan,24.46
+Hana,T02321,Staten Island,20.41
+Ivan,T02322,Staten Island,69.9
+Ethan,T02323,Bronx,49.52
+Carlos,T02324,Manhattan,45.8
+Hana,T02325,Bronx,67.13
+Ethan,T02326,Manhattan,69.32
+Bob,T02327,Queens,19.72
+Ivan,T02328,Manhattan,54.78
+Diana,T02329,Manhattan,12.16
+Ethan,T02330,Bronx,25.37
+Ethan,T02331,Staten Island,54.79
+Bob,T02332,Manhattan,38.84
+George,T02333,Queens,67.43
+Hana,T02334,Queens,43.9
+Ivan,T02335,Bronx,47.45
+Hana,T02336,Queens,18.98
+Ethan,T02337,Queens,58.47
+Bob,T02338,Staten Island,27.05
+Julia,T02339,Queens,21.34
+Hana,T02340,Staten Island,10.7
+Fatima,T02341,Manhattan,17.35
+Julia,T02342,Queens,27.74
+Carlos,T02343,Staten Island,66.23
+Ivan,T02344,Staten Island,68.9
+Carlos,T02345,Queens,20.52
+Julia,T02346,Brooklyn,48.8
+Bob,T02347,Staten Island,19.65
+Alice,T02348,Bronx,20.02
+Julia,T02349,Manhattan,64.09
+Ivan,T02350,Brooklyn,23.42
+Ivan,T02351,Brooklyn,30.56
+Hana,T02352,Brooklyn,9.4
+Julia,T02353,Brooklyn,62.5
+George,T02354,Staten Island,73.04
+Julia,T02355,Queens,33.11
+Julia,T02356,Staten Island,17.55
+Ivan,T02357,Bronx,9.35
+Carlos,T02358,Staten Island,63.55
+Diana,T02359,Manhattan,44.11
+Bob,T02360,Brooklyn,61.7
+Julia,T02361,Bronx,37.32
+Carlos,T02362,Queens,71.94
+George,T02363,Staten Island,50.59
+George,T02364,Manhattan,72.6
+Ivan,T02365,Bronx,69.1
+Bob,T02366,Staten Island,54.29
+Julia,T02367,Staten Island,12.99
+Ivan,T02368,Brooklyn,48.3
+Diana,T02369,Brooklyn,53.0
+Ethan,T02370,Brooklyn,11.63
+Julia,T02371,Queens,40.35
+Diana,T02372,Brooklyn,15.64
+George,T02373,Bronx,14.1
+Fatima,T02374,Queens,21.33
+Ivan,T02375,Bronx,16.29
+Alice,T02376,Brooklyn,29.1
+George,T02377,Queens,27.41
+Ethan,T02378,Brooklyn,50.91
+Diana,T02379,Bronx,64.26
+George,T02380,Staten Island,28.69
+Alice,T02381,Staten Island,18.1
+George,T02382,Bronx,26.48
+Ivan,T02383,Manhattan,56.11
+Ivan,T02384,Queens,55.21
+Fatima,T02385,Queens,16.81
+Ethan,T02386,Manhattan,21.98
+Hana,T02387,Queens,8.87
+Diana,T02388,Queens,11.89
+Carlos,T02389,Manhattan,64.06
+Julia,T02390,Bronx,57.75
+Alice,T02391,Staten Island,73.2
+Ethan,T02392,Brooklyn,23.92
+Ethan,T02393,Staten Island,38.67
+George,T02394,Queens,41.06
+Ethan,T02395,Staten Island,36.96
+Bob,T02396,Staten Island,10.66
+Ethan,T02397,Queens,72.3
+Ivan,T02398,Bronx,34.13
+Carlos,T02399,Brooklyn,48.56
+Alice,T02400,Brooklyn,74.94
+Alice,T02401,Brooklyn,16.0
+Ethan,T02402,Queens,52.53
+George,T02403,Staten Island,52.88
+Julia,T02404,Brooklyn,11.31
+Diana,T02405,Staten Island,47.04
+Alice,T02406,Bronx,14.76
+Hana,T02407,Bronx,53.96
+Fatima,T02408,Queens,20.44
+Carlos,T02409,Bronx,73.3
+Alice,T02410,Bronx,33.51
+Alice,T02411,Brooklyn,61.31
+Alice,T02412,Bronx,43.26
+Julia,T02413,Queens,32.89
+Julia,T02414,Staten Island,58.64
+Ethan,T02415,Staten Island,42.27
+Ethan,T02416,Bronx,36.0
+Fatima,T02417,Staten Island,25.01
+Fatima,T02418,Staten Island,32.18
+Carlos,T02419,Staten Island,13.84
+Julia,T02420,Manhattan,10.98
+Fatima,T02421,Queens,14.45
+Ivan,T02422,Queens,33.12
+Diana,T02423,Queens,44.45
+Bob,T02424,Bronx,62.28
+Carlos,T02425,Manhattan,10.11
+Fatima,T02426,Staten Island,68.36
+Bob,T02427,Bronx,14.7
+Ethan,T02428,Manhattan,31.72
+Ivan,T02429,Brooklyn,19.95
+Ethan,T02430,Manhattan,64.67
+Ivan,T02431,Brooklyn,15.36
+Diana,T02432,Staten Island,66.32
+Bob,T02433,Queens,30.02
+Julia,T02434,Queens,18.91
+Carlos,T02435,Brooklyn,25.29
+Alice,T02436,Manhattan,19.27
+Julia,T02437,Queens,54.04
+Alice,T02438,Queens,17.23
+Hana,T02439,Bronx,11.94
+Hana,T02440,Brooklyn,57.02
+Ivan,T02441,Brooklyn,48.34
+Alice,T02442,Manhattan,46.03
+Bob,T02443,Bronx,37.57
+Ivan,T02444,Queens,19.1
+George,T02445,Brooklyn,49.24
+Diana,T02446,Bronx,72.26
+Alice,T02447,Manhattan,54.67
+Alice,T02448,Bronx,74.79
+Ethan,T02449,Queens,64.6
+Bob,T02450,Queens,73.23
+Ivan,T02451,Bronx,8.59
+George,T02452,Manhattan,31.13
+Ivan,T02453,Queens,45.81
+Ethan,T02454,Manhattan,32.55
+Fatima,T02455,Bronx,37.49
+Diana,T02456,Brooklyn,35.09
+Ivan,T02457,Queens,74.9
+Hana,T02458,Staten Island,28.95
+Diana,T02459,Manhattan,27.91
+Hana,T02460,Queens,65.11
+Julia,T02461,Brooklyn,11.4
+Fatima,T02462,Manhattan,63.6
+Bob,T02463,Bronx,32.51
+Carlos,T02464,Queens,61.51
+Fatima,T02465,Brooklyn,20.54
+Alice,T02466,Staten Island,64.7
+Carlos,T02467,Manhattan,43.62
+Fatima,T02468,Bronx,44.9
+Ethan,T02469,Staten Island,35.79
+Diana,T02470,Bronx,27.31
+Hana,T02471,Manhattan,8.53
+George,T02472,Queens,27.1
+Ethan,T02473,Queens,21.98
+Fatima,T02474,Bronx,25.81
+Fatima,T02475,Staten Island,37.48
+Julia,T02476,Bronx,34.64
+Diana,T02477,Staten Island,60.07
+Ivan,T02478,Bronx,50.38
+George,T02479,Staten Island,73.53
+Hana,T02480,Staten Island,10.29
+Ethan,T02481,Queens,59.51
+Hana,T02482,Brooklyn,35.16
+George,T02483,Queens,13.74
+Carlos,T02484,Manhattan,53.42
+Ethan,T02485,Staten Island,14.91
+Alice,T02486,Manhattan,37.46
+Alice,T02487,Bronx,65.49
+Bob,T02488,Manhattan,35.84
+George,T02489,Queens,34.22
+George,T02490,Brooklyn,53.73
+Julia,T02491,Manhattan,22.97
+Julia,T02492,Queens,45.08
+George,T02493,Bronx,26.24
+Ethan,T02494,Manhattan,43.91
+Ethan,T02495,Manhattan,57.93
+Hana,T02496,Brooklyn,42.36
+Carlos,T02497,Staten Island,51.19
+Diana,T02498,Queens,31.44
+Julia,T02499,Queens,74.46
+Alice,T02500,Queens,70.4
+Alice,T02501,Manhattan,71.45
+George,T02502,Queens,52.71
+Bob,T02503,Staten Island,8.2
+Diana,T02504,Manhattan,51.76
+George,T02505,Bronx,70.97
+Julia,T02506,Staten Island,10.55
+Alice,T02507,Staten Island,72.45
+Ethan,T02508,Manhattan,47.81
+Alice,T02509,Queens,68.82
+Bob,T02510,Queens,62.6
+Alice,T02511,Brooklyn,17.53
+Bob,T02512,Bronx,61.04
+Hana,T02513,Queens,62.13
+Carlos,T02514,Bronx,18.99
+Ivan,T02515,Brooklyn,18.75
+Ivan,T02516,Brooklyn,63.88
+Hana,T02517,Staten Island,33.8
+Diana,T02518,Staten Island,45.51
+Diana,T02519,Bronx,63.66
+Hana,T02520,Manhattan,73.1
+Ethan,T02521,Queens,54.52
+Ivan,T02522,Bronx,8.72
+Carlos,T02523,Queens,15.24
+Fatima,T02524,Queens,70.4
+Ethan,T02525,Manhattan,18.62
+George,T02526,Queens,27.43
+Bob,T02527,Bronx,71.23
+Diana,T02528,Bronx,53.41
+Diana,T02529,Staten Island,28.87
+Ethan,T02530,Bronx,67.96
+Hana,T02531,Bronx,41.51
+Julia,T02532,Manhattan,63.2
+Carlos,T02533,Brooklyn,18.87
+Hana,T02534,Queens,63.51
+Carlos,T02535,Bronx,36.12
+Bob,T02536,Bronx,23.28
+Alice,T02537,Queens,64.94
+George,T02538,Queens,49.28
+Bob,T02539,Staten Island,51.43
+Julia,T02540,Manhattan,30.8
+George,T02541,Bronx,48.15
+Carlos,T02542,Staten Island,62.2
+Bob,T02543,Bronx,74.05
+George,T02544,Staten Island,52.7
+Julia,T02545,Bronx,27.67
+Alice,T02546,Queens,52.35
+Diana,T02547,Manhattan,29.78
+Ethan,T02548,Bronx,19.5
+Ivan,T02549,Staten Island,17.4
+Carlos,T02550,Brooklyn,43.14
+Ivan,T02551,Staten Island,44.82
+Fatima,T02552,Queens,25.95
+George,T02553,Staten Island,11.83
+Ethan,T02554,Queens,74.85
+Fatima,T02555,Queens,42.45
+Diana,T02556,Queens,50.21
+Alice,T02557,Manhattan,13.72
+Bob,T02558,Brooklyn,44.96
+Fatima,T02559,Bronx,44.2
+Carlos,T02560,Manhattan,48.97
+George,T02561,Staten Island,54.66
+George,T02562,Staten Island,49.69
+Fatima,T02563,Queens,60.5
+Ethan,T02564,Manhattan,17.66
+Hana,T02565,Queens,12.76
+Alice,T02566,Queens,34.64
+Ivan,T02567,Staten Island,14.58
+Ivan,T02568,Staten Island,74.09
+Julia,T02569,Queens,51.24
+Bob,T02570,Brooklyn,29.73
+Fatima,T02571,Bronx,44.36
+Alice,T02572,Manhattan,68.24
+Ethan,T02573,Brooklyn,74.34
+Ethan,T02574,Manhattan,34.05
+Hana,T02575,Bronx,73.21
+Alice,T02576,Brooklyn,19.35
+Ivan,T02577,Bronx,27.82
+Alice,T02578,Staten Island,74.12
+Bob,T02579,Queens,10.45
+Ivan,T02580,Bronx,37.62
+Alice,T02581,Queens,32.95
+Hana,T02582,Bronx,9.91
+Julia,T02583,Manhattan,9.57
+George,T02584,Manhattan,74.4
+Ethan,T02585,Bronx,32.96
+Ethan,T02586,Manhattan,38.85
+Julia,T02587,Queens,20.9
+Hana,T02588,Staten Island,36.04
+Alice,T02589,Bronx,51.71
+Alice,T02590,Staten Island,10.55
+Ethan,T02591,Manhattan,31.05
+Ethan,T02592,Bronx,20.74
+Ivan,T02593,Queens,8.17
+Ivan,T02594,Queens,41.06
+Ethan,T02595,Brooklyn,57.05
+Julia,T02596,Manhattan,45.45
+Ivan,T02597,Queens,69.88
+Bob,T02598,Bronx,57.84
+Carlos,T02599,Brooklyn,73.47
+Julia,T02600,Queens,19.97
+Alice,T02601,Queens,52.05
+Julia,T02602,Bronx,8.75
+Julia,T02603,Brooklyn,70.97
+Diana,T02604,Manhattan,15.96
+Bob,T02605,Staten Island,69.44
+Alice,T02606,Manhattan,9.71
+Alice,T02607,Manhattan,16.33
+Carlos,T02608,Staten Island,63.45
+Diana,T02609,Manhattan,35.65
+George,T02610,Queens,43.65
+Carlos,T02611,Queens,15.99
+George,T02612,Queens,61.96
+Alice,T02613,Brooklyn,27.75
+Hana,T02614,Staten Island,24.39
+Carlos,T02615,Manhattan,36.69
+Ethan,T02616,Bronx,56.56
+Ethan,T02617,Staten Island,58.3
+Fatima,T02618,Queens,16.14
+Julia,T02619,Manhattan,25.16
+Fatima,T02620,Manhattan,59.62
+Alice,T02621,Bronx,19.75
+George,T02622,Bronx,69.63
+Ethan,T02623,Staten Island,46.77
+Alice,T02624,Manhattan,28.0
+Bob,T02625,Bronx,55.21
+George,T02626,Queens,13.79
+Alice,T02627,Staten Island,47.8
+Ivan,T02628,Staten Island,45.69
+Diana,T02629,Brooklyn,47.48
+Diana,T02630,Queens,11.96
+Alice,T02631,Bronx,56.7
+Diana,T02632,Bronx,40.17
+Ethan,T02633,Bronx,63.42
+Hana,T02634,Manhattan,36.33
+Fatima,T02635,Manhattan,31.09
+Julia,T02636,Bronx,54.04
+Bob,T02637,Queens,12.46
+Carlos,T02638,Manhattan,71.96
+Ivan,T02639,Brooklyn,23.51
+Carlos,T02640,Bronx,33.32
+Julia,T02641,Queens,15.34
+Fatima,T02642,Bronx,15.2
+Alice,T02643,Queens,45.36
+Carlos,T02644,Brooklyn,18.65
+Ethan,T02645,Staten Island,42.26
+Ethan,T02646,Brooklyn,31.43
+Alice,T02647,Manhattan,38.62
+Diana,T02648,Brooklyn,57.27
+Diana,T02649,Staten Island,38.07
+George,T02650,Bronx,42.53
+Carlos,T02651,Brooklyn,45.02
+Julia,T02652,Bronx,39.87
+George,T02653,Staten Island,39.69
+Ethan,T02654,Staten Island,39.08
+Diana,T02655,Manhattan,48.07
+George,T02656,Queens,47.99
+Hana,T02657,Staten Island,31.11
+Julia,T02658,Manhattan,53.98
+Bob,T02659,Queens,10.97
+Carlos,T02660,Queens,49.84
+Alice,T02661,Bronx,14.93
+Bob,T02662,Staten Island,8.44
+Carlos,T02663,Manhattan,20.94
+George,T02664,Bronx,69.75
+Fatima,T02665,Bronx,66.02
+Bob,T02666,Staten Island,36.01
+Ivan,T02667,Brooklyn,63.81
+Bob,T02668,Queens,68.99
+Fatima,T02669,Manhattan,53.58
+George,T02670,Brooklyn,55.59
+Alice,T02671,Bronx,36.96
+George,T02672,Manhattan,38.24
+Ivan,T02673,Bronx,45.87
+Ethan,T02674,Queens,48.49
+Julia,T02675,Staten Island,73.73
+Ethan,T02676,Bronx,20.66
+Bob,T02677,Queens,66.54
+Diana,T02678,Bronx,36.39
+Ivan,T02679,Queens,42.48
+Alice,T02680,Staten Island,14.34
+Diana,T02681,Manhattan,65.48
+Ivan,T02682,Staten Island,27.96
+Hana,T02683,Queens,58.93
+Hana,T02684,Queens,39.63
+Bob,T02685,Bronx,15.78
+Fatima,T02686,Manhattan,47.99
+Fatima,T02687,Staten Island,9.13
+Diana,T02688,Bronx,9.82
+Ethan,T02689,Brooklyn,68.55
+Hana,T02690,Queens,18.72
+Fatima,T02691,Queens,49.4
+Hana,T02692,Staten Island,17.54
+Ethan,T02693,Manhattan,63.09
+Alice,T02694,Bronx,45.75
+Alice,T02695,Queens,35.32
+Ivan,T02696,Queens,23.98
+Carlos,T02697,Manhattan,19.06
+Ivan,T02698,Manhattan,9.84
+George,T02699,Staten Island,43.73
+Hana,T02700,Manhattan,19.87
+Ethan,T02701,Staten Island,69.32
+Ethan,T02702,Staten Island,47.86
+Diana,T02703,Queens,66.69
+Carlos,T02704,Staten Island,32.98
+Carlos,T02705,Manhattan,21.97
+Ethan,T02706,Staten Island,66.37
+Hana,T02707,Queens,57.45
+Fatima,T02708,Bronx,39.63
+Hana,T02709,Staten Island,33.1
+Ivan,T02710,Manhattan,62.53
+Fatima,T02711,Brooklyn,39.66
+Hana,T02712,Queens,25.12
+Alice,T02713,Bronx,69.19
+Fatima,T02714,Manhattan,33.16
+Bob,T02715,Manhattan,67.64
+Diana,T02716,Manhattan,39.9
+Diana,T02717,Manhattan,45.27
+Bob,T02718,Brooklyn,51.53
+George,T02719,Queens,37.54
+Fatima,T02720,Staten Island,38.09
+Fatima,T02721,Brooklyn,20.76
+Julia,T02722,Manhattan,40.84
+George,T02723,Staten Island,41.29
+Fatima,T02724,Staten Island,46.22
+George,T02725,Staten Island,41.91
+Hana,T02726,Brooklyn,24.52
+Alice,T02727,Queens,21.41
+Ivan,T02728,Staten Island,15.33
+Ivan,T02729,Manhattan,65.39
+Fatima,T02730,Staten Island,70.52
+Bob,T02731,Brooklyn,60.04
+Julia,T02732,Bronx,58.12
+Fatima,T02733,Manhattan,33.76
+Carlos,T02734,Queens,47.09
+Alice,T02735,Staten Island,65.39
+Ivan,T02736,Queens,52.5
+Bob,T02737,Staten Island,15.51
+Ethan,T02738,Staten Island,11.04
+Diana,T02739,Brooklyn,67.38
+Alice,T02740,Bronx,49.68
+Alice,T02741,Brooklyn,42.91
+Ethan,T02742,Queens,74.34
+Ethan,T02743,Queens,45.44
+Julia,T02744,Bronx,23.14
+Bob,T02745,Manhattan,53.08
+Bob,T02746,Bronx,35.05
+Bob,T02747,Bronx,52.67
+Julia,T02748,Brooklyn,25.74
+Hana,T02749,Queens,69.47
+George,T02750,Queens,40.27
+Hana,T02751,Brooklyn,35.66
+Ivan,T02752,Bronx,14.29
+Ivan,T02753,Manhattan,68.64
+Bob,T02754,Brooklyn,35.93
+George,T02755,Manhattan,25.7
+Ethan,T02756,Queens,34.95
+Carlos,T02757,Queens,40.21
+Ethan,T02758,Queens,60.8
+Bob,T02759,Queens,20.38
+Bob,T02760,Brooklyn,46.88
+Diana,T02761,Manhattan,44.07
+Hana,T02762,Queens,50.92
+Carlos,T02763,Brooklyn,45.83
+Diana,T02764,Bronx,15.42
+Fatima,T02765,Brooklyn,58.71
+Carlos,T02766,Brooklyn,28.09
+Hana,T02767,Manhattan,42.56
+Carlos,T02768,Brooklyn,8.04
+George,T02769,Staten Island,28.91
+Ivan,T02770,Staten Island,15.17
+Fatima,T02771,Manhattan,65.37
+George,T02772,Bronx,15.4
+Ivan,T02773,Queens,17.45
+Alice,T02774,Manhattan,50.58
+Ivan,T02775,Queens,24.97
+Julia,T02776,Staten Island,64.57
+Hana,T02777,Queens,24.0
+Fatima,T02778,Manhattan,61.59
+Carlos,T02779,Staten Island,13.29
+Ivan,T02780,Manhattan,21.97
+Diana,T02781,Staten Island,26.93
+Ethan,T02782,Manhattan,34.93
+Ivan,T02783,Queens,35.02
+Julia,T02784,Manhattan,49.1
+Fatima,T02785,Bronx,8.42
+Diana,T02786,Staten Island,33.28
+Alice,T02787,Bronx,65.31
+Alice,T02788,Queens,36.97
+Ethan,T02789,Queens,31.19
+Carlos,T02790,Bronx,25.46
+Ivan,T02791,Brooklyn,9.64
+Fatima,T02792,Staten Island,26.11
+Carlos,T02793,Bronx,66.26
+Julia,T02794,Manhattan,72.02
+George,T02795,Manhattan,66.4
+Julia,T02796,Queens,63.7
+George,T02797,Bronx,37.9
+George,T02798,Bronx,15.77
+Alice,T02799,Bronx,37.96
+Carlos,T02800,Queens,61.0
+Julia,T02801,Manhattan,33.1
+George,T02802,Brooklyn,28.67
+Alice,T02803,Queens,71.42
+Fatima,T02804,Brooklyn,18.8
+Ethan,T02805,Bronx,55.72
+Hana,T02806,Queens,71.73
+Alice,T02807,Brooklyn,33.01
+Hana,T02808,Manhattan,57.75
+Alice,T02809,Manhattan,11.27
+Carlos,T02810,Queens,45.57
+Bob,T02811,Manhattan,74.12
+Bob,T02812,Queens,65.5
+Bob,T02813,Queens,72.61
+Alice,T02814,Staten Island,63.26
+Diana,T02815,Brooklyn,27.94
+Julia,T02816,Bronx,23.54
+Ivan,T02817,Staten Island,36.75
+Ivan,T02818,Brooklyn,26.22
+Bob,T02819,Brooklyn,25.1
+Diana,T02820,Bronx,55.75
+Carlos,T02821,Staten Island,54.18
+Alice,T02822,Staten Island,17.4
+Ethan,T02823,Manhattan,33.34
+Alice,T02824,Manhattan,40.5
+Alice,T02825,Brooklyn,55.09
+Alice,T02826,Manhattan,27.08
+Fatima,T02827,Staten Island,53.51
+Ivan,T02828,Staten Island,47.52
+Alice,T02829,Manhattan,54.75
+Carlos,T02830,Staten Island,40.0
+George,T02831,Queens,10.78
+Alice,T02832,Queens,43.61
+Alice,T02833,Queens,74.97
+Ethan,T02834,Bronx,55.08
+Hana,T02835,Bronx,28.28
+Ivan,T02836,Staten Island,43.86
+Diana,T02837,Queens,36.91
+Carlos,T02838,Brooklyn,59.73
+Julia,T02839,Staten Island,40.5
+Hana,T02840,Bronx,43.52
+Bob,T02841,Manhattan,38.12
+Julia,T02842,Brooklyn,39.23
+Fatima,T02843,Staten Island,60.12
+Carlos,T02844,Brooklyn,59.6
+Bob,T02845,Queens,49.0
+Carlos,T02846,Brooklyn,42.15
+Bob,T02847,Brooklyn,37.48
+Ivan,T02848,Bronx,61.32
+Bob,T02849,Bronx,47.86
+Diana,T02850,Queens,19.82
+George,T02851,Queens,12.74
+Julia,T02852,Queens,72.87
+Alice,T02853,Queens,48.9
+Bob,T02854,Brooklyn,34.76
+Bob,T02855,Bronx,16.21
+George,T02856,Bronx,66.19
+Julia,T02857,Queens,64.28
+Hana,T02858,Brooklyn,66.74
+Diana,T02859,Bronx,54.23
+Ivan,T02860,Staten Island,69.63
+Julia,T02861,Bronx,41.65
+Hana,T02862,Bronx,9.2
+Alice,T02863,Staten Island,51.7
+Julia,T02864,Staten Island,25.73
+Diana,T02865,Brooklyn,26.66
+Alice,T02866,Queens,14.0
+George,T02867,Bronx,42.52
+Julia,T02868,Brooklyn,70.23
+George,T02869,Bronx,41.73
+Carlos,T02870,Manhattan,46.18
+Ivan,T02871,Bronx,74.99
+Carlos,T02872,Queens,63.04
+Julia,T02873,Staten Island,30.8
+George,T02874,Manhattan,26.89
+Julia,T02875,Queens,48.41
+Alice,T02876,Staten Island,16.18
+George,T02877,Staten Island,64.9
+Carlos,T02878,Brooklyn,19.5
+Hana,T02879,Manhattan,70.18
+George,T02880,Bronx,28.59
+Carlos,T02881,Staten Island,34.77
+Alice,T02882,Queens,72.8
+George,T02883,Bronx,70.42
+Bob,T02884,Manhattan,57.76
+Julia,T02885,Manhattan,34.89
+George,T02886,Brooklyn,38.86
+Alice,T02887,Brooklyn,23.82
+Ivan,T02888,Bronx,28.87
+George,T02889,Brooklyn,29.85
+George,T02890,Brooklyn,36.37
+Carlos,T02891,Queens,51.87
+Fatima,T02892,Brooklyn,58.74
+Ethan,T02893,Brooklyn,26.62
+Bob,T02894,Staten Island,59.45
+Fatima,T02895,Staten Island,26.78
+Fatima,T02896,Bronx,72.63
+Diana,T02897,Manhattan,8.04
+Julia,T02898,Manhattan,43.77
+George,T02899,Queens,17.7
+Hana,T02900,Brooklyn,16.48
+Diana,T02901,Brooklyn,38.26
+Julia,T02902,Manhattan,49.34
+Bob,T02903,Brooklyn,22.18
+Fatima,T02904,Staten Island,34.76
+Fatima,T02905,Bronx,24.31
+Ivan,T02906,Queens,72.02
+Julia,T02907,Brooklyn,47.07
+Julia,T02908,Bronx,15.11
+Ivan,T02909,Brooklyn,38.33
+Bob,T02910,Staten Island,67.55
+Ethan,T02911,Staten Island,51.6
+Julia,T02912,Bronx,54.09
+Carlos,T02913,Staten Island,23.6
+Carlos,T02914,Manhattan,33.95
+Diana,T02915,Manhattan,59.19
+Ethan,T02916,Bronx,16.14
+George,T02917,Queens,52.46
+Carlos,T02918,Brooklyn,57.62
+George,T02919,Staten Island,29.6
+Fatima,T02920,Manhattan,59.69
+Carlos,T02921,Bronx,54.27
+Alice,T02922,Manhattan,18.89
+Julia,T02923,Bronx,37.69
+Fatima,T02924,Queens,21.68
+George,T02925,Staten Island,54.24
+Julia,T02926,Staten Island,23.46
+Ethan,T02927,Brooklyn,9.31
+Ivan,T02928,Bronx,30.73
+Ivan,T02929,Brooklyn,70.5
+Hana,T02930,Staten Island,38.5
+Alice,T02931,Manhattan,37.78
+Julia,T02932,Brooklyn,24.27
+Diana,T02933,Queens,61.46
+Ivan,T02934,Queens,57.75
+Carlos,T02935,Brooklyn,33.29
+Diana,T02936,Bronx,8.84
+Hana,T02937,Bronx,8.09
+Fatima,T02938,Bronx,46.89
+Ivan,T02939,Bronx,61.33
+Diana,T02940,Manhattan,13.45
+Carlos,T02941,Brooklyn,11.37
+Alice,T02942,Manhattan,30.59
+Fatima,T02943,Brooklyn,8.72
+Diana,T02944,Queens,19.3
+Hana,T02945,Queens,21.16
+George,T02946,Bronx,73.29
+Fatima,T02947,Bronx,69.35
+Diana,T02948,Staten Island,50.6
+Hana,T02949,Queens,44.47
+Carlos,T02950,Staten Island,63.69
+Alice,T02951,Staten Island,72.19
+Julia,T02952,Staten Island,18.21
+Hana,T02953,Staten Island,9.09
+Bob,T02954,Manhattan,65.73
+Bob,T02955,Manhattan,59.81
+Hana,T02956,Queens,73.64
+Bob,T02957,Brooklyn,48.17
+Hana,T02958,Bronx,21.3
+Alice,T02959,Bronx,13.19
+Julia,T02960,Staten Island,20.55
+Hana,T02961,Brooklyn,30.38
+Alice,T02962,Bronx,56.49
+Julia,T02963,Manhattan,62.74
+Diana,T02964,Bronx,65.52
+Bob,T02965,Bronx,26.37
+Alice,T02966,Queens,18.06
+Bob,T02967,Manhattan,24.22
+Ethan,T02968,Staten Island,43.67
+Ethan,T02969,Bronx,70.8
+Carlos,T02970,Manhattan,39.08
+Hana,T02971,Manhattan,62.7
+Alice,T02972,Staten Island,11.62
+Fatima,T02973,Queens,56.86
+Fatima,T02974,Brooklyn,38.02
+Ivan,T02975,Bronx,36.01
+Carlos,T02976,Brooklyn,22.54
+George,T02977,Brooklyn,68.02
+Julia,T02978,Bronx,41.69
+Fatima,T02979,Queens,14.67
+Alice,T02980,Brooklyn,50.52
+Ivan,T02981,Brooklyn,21.99
+Diana,T02982,Queens,64.89
+Diana,T02983,Staten Island,73.71
+Alice,T02984,Brooklyn,8.29
+Hana,T02985,Manhattan,72.71
+Alice,T02986,Staten Island,59.17
+Alice,T02987,Staten Island,72.1
+Julia,T02988,Staten Island,58.61
+Alice,T02989,Manhattan,72.81
+Bob,T02990,Staten Island,18.57
+Julia,T02991,Brooklyn,57.46
+Bob,T02992,Manhattan,25.78
+Hana,T02993,Staten Island,54.08
+George,T02994,Brooklyn,25.69
+Ethan,T02995,Brooklyn,11.67
+Ethan,T02996,Manhattan,19.99
+Carlos,T02997,Bronx,60.17
+Diana,T02998,Manhattan,58.05
+Ethan,T02999,Staten Island,59.44
+Ivan,T03000,Staten Island,38.59
+Fatima,T03001,Staten Island,57.31
+Hana,T03002,Bronx,39.51
+Bob,T03003,Brooklyn,65.85
+Alice,T03004,Staten Island,50.42
+Diana,T03005,Bronx,73.79
+Hana,T03006,Bronx,29.59
+Hana,T03007,Bronx,73.43
+Fatima,T03008,Manhattan,12.94
+Ivan,T03009,Bronx,57.05
+Diana,T03010,Staten Island,30.98
+Bob,T03011,Manhattan,46.57
+Ivan,T03012,Bronx,61.09
+Julia,T03013,Queens,68.82
+Ivan,T03014,Staten Island,70.45
+Ivan,T03015,Queens,74.4
+Fatima,T03016,Brooklyn,63.1
+Carlos,T03017,Bronx,28.13
+Ivan,T03018,Queens,72.69
+Ivan,T03019,Staten Island,44.71
+Carlos,T03020,Brooklyn,46.55
+Carlos,T03021,Bronx,32.31
+Alice,T03022,Staten Island,58.73
+Julia,T03023,Manhattan,54.61
+Hana,T03024,Queens,50.28
+Ivan,T03025,Staten Island,54.9
+Ethan,T03026,Staten Island,12.38
+Julia,T03027,Brooklyn,9.86
+Ethan,T03028,Staten Island,46.11
+Fatima,T03029,Manhattan,33.86
+Carlos,T03030,Staten Island,19.93
+Ethan,T03031,Bronx,69.17
+Alice,T03032,Manhattan,64.31
+George,T03033,Brooklyn,41.73
+Ivan,T03034,Manhattan,65.61
+Carlos,T03035,Queens,55.7
+Carlos,T03036,Manhattan,33.37
+Ethan,T03037,Queens,38.78
+George,T03038,Bronx,62.06
+Diana,T03039,Queens,64.17
+Hana,T03040,Bronx,16.57
+Bob,T03041,Queens,56.81
+Julia,T03042,Queens,54.2
+George,T03043,Manhattan,34.51
+Bob,T03044,Queens,58.75
+Ethan,T03045,Staten Island,61.92
+Ethan,T03046,Staten Island,25.4
+Ivan,T03047,Staten Island,53.86
+Julia,T03048,Queens,9.5
+Bob,T03049,Bronx,13.13
+Fatima,T03050,Brooklyn,9.28
+Carlos,T03051,Bronx,64.03
+Bob,T03052,Queens,50.37
+Alice,T03053,Queens,42.92
+George,T03054,Staten Island,11.85
+Fatima,T03055,Brooklyn,37.58
+Hana,T03056,Staten Island,39.82
+George,T03057,Bronx,16.74
+Bob,T03058,Manhattan,71.46
+Bob,T03059,Brooklyn,69.03
+Alice,T03060,Manhattan,68.07
+Hana,T03061,Queens,57.25
+Diana,T03062,Queens,43.81
+Fatima,T03063,Staten Island,72.42
+Alice,T03064,Queens,14.96
+Hana,T03065,Brooklyn,19.11
+Diana,T03066,Brooklyn,52.28
+Alice,T03067,Bronx,41.5
+Ivan,T03068,Bronx,47.17
+Ivan,T03069,Brooklyn,53.16
+Bob,T03070,Staten Island,16.99
+Hana,T03071,Bronx,51.54
+Bob,T03072,Brooklyn,22.46
+Hana,T03073,Manhattan,55.59
+Ivan,T03074,Queens,45.53
+Alice,T03075,Brooklyn,17.56
+Hana,T03076,Staten Island,23.89
+Bob,T03077,Brooklyn,58.2
+Ethan,T03078,Brooklyn,63.87
+Alice,T03079,Bronx,34.74
+Diana,T03080,Queens,44.08
+Julia,T03081,Bronx,53.9
+Alice,T03082,Queens,36.65
+Bob,T03083,Queens,13.36
+Bob,T03084,Queens,26.78
+Ethan,T03085,Queens,25.25
+Hana,T03086,Queens,72.02
+Ivan,T03087,Brooklyn,29.47
+Fatima,T03088,Bronx,43.65
+Ethan,T03089,Queens,36.82
+Fatima,T03090,Manhattan,62.65
+Julia,T03091,Manhattan,59.04
+Fatima,T03092,Manhattan,22.43
+Fatima,T03093,Brooklyn,10.1
+Julia,T03094,Brooklyn,20.39
+Diana,T03095,Queens,24.62
+Ethan,T03096,Staten Island,62.31
+Ivan,T03097,Staten Island,62.86
+Alice,T03098,Manhattan,21.38
+Hana,T03099,Staten Island,72.98
+Fatima,T03100,Queens,30.11
+Diana,T03101,Brooklyn,46.31
+Fatima,T03102,Manhattan,24.35
+Ethan,T03103,Manhattan,45.55
+Ivan,T03104,Queens,46.33
+Ivan,T03105,Manhattan,32.61
+Ivan,T03106,Brooklyn,43.82
+Carlos,T03107,Staten Island,12.9
+Hana,T03108,Manhattan,65.7
+George,T03109,Bronx,26.11
+Bob,T03110,Staten Island,59.3
+Bob,T03111,Staten Island,11.87
+Diana,T03112,Staten Island,46.92
+George,T03113,Manhattan,51.14
+Ethan,T03114,Queens,61.22
+Ivan,T03115,Bronx,41.74
+Carlos,T03116,Queens,30.98
+Hana,T03117,Queens,11.78
+Diana,T03118,Bronx,15.32
+Hana,T03119,Bronx,43.01
+Diana,T03120,Queens,10.07
+Bob,T03121,Bronx,32.0
+Ethan,T03122,Brooklyn,63.48
+Fatima,T03123,Bronx,10.83
+Carlos,T03124,Staten Island,64.33
+Julia,T03125,Staten Island,70.19
+Carlos,T03126,Staten Island,21.65
+Alice,T03127,Manhattan,54.27
+Fatima,T03128,Brooklyn,9.63
+Alice,T03129,Brooklyn,8.94
+Ethan,T03130,Brooklyn,65.71
+Julia,T03131,Bronx,51.13
+Fatima,T03132,Staten Island,21.53
+Ethan,T03133,Brooklyn,35.04
+Diana,T03134,Bronx,24.78
+Ivan,T03135,Manhattan,30.79
+George,T03136,Staten Island,64.78
+Ivan,T03137,Staten Island,43.56
+Ivan,T03138,Manhattan,39.01
+Alice,T03139,Brooklyn,47.65
+Fatima,T03140,Bronx,43.97
+Bob,T03141,Staten Island,13.49
+Bob,T03142,Manhattan,52.41
+Bob,T03143,Queens,73.87
+Hana,T03144,Queens,25.43
+Ivan,T03145,Queens,36.91
+Fatima,T03146,Brooklyn,39.09
+Julia,T03147,Staten Island,33.15
+George,T03148,Queens,44.61
+George,T03149,Queens,62.97
+George,T03150,Bronx,70.03
+Fatima,T03151,Brooklyn,19.39
+George,T03152,Brooklyn,24.85
+Fatima,T03153,Brooklyn,44.31
+Alice,T03154,Queens,37.74
+Carlos,T03155,Manhattan,27.11
+Hana,T03156,Bronx,32.12
+George,T03157,Queens,11.76
+Diana,T03158,Staten Island,13.02
+Bob,T03159,Bronx,27.0
+Carlos,T03160,Bronx,61.1
+George,T03161,Brooklyn,14.14
+Ethan,T03162,Queens,63.35
+Ethan,T03163,Bronx,72.1
+Alice,T03164,Manhattan,14.7
+Carlos,T03165,Brooklyn,41.07
+Ivan,T03166,Brooklyn,37.57
+Carlos,T03167,Bronx,66.06
+Julia,T03168,Bronx,35.74
+Hana,T03169,Manhattan,12.5
+Alice,T03170,Manhattan,47.04
+Ivan,T03171,Brooklyn,15.61
+Fatima,T03172,Bronx,74.66
+Ethan,T03173,Queens,24.87
+Bob,T03174,Staten Island,57.63
+Ethan,T03175,Queens,20.89
+Ivan,T03176,Manhattan,36.14
+Carlos,T03177,Staten Island,48.62
+Carlos,T03178,Staten Island,40.91
+Ethan,T03179,Queens,46.52
+Ivan,T03180,Manhattan,28.4
+Ethan,T03181,Manhattan,9.93
+George,T03182,Staten Island,46.19
+Ethan,T03183,Staten Island,16.95
+Ivan,T03184,Staten Island,74.05
+Hana,T03185,Manhattan,42.08
+Diana,T03186,Bronx,29.99
+Bob,T03187,Staten Island,34.92
+George,T03188,Brooklyn,46.1
+Alice,T03189,Brooklyn,56.11
+Hana,T03190,Queens,39.26
+Ethan,T03191,Brooklyn,45.47
+Julia,T03192,Queens,45.06
+Ethan,T03193,Manhattan,50.25
+Bob,T03194,Manhattan,10.38
+Fatima,T03195,Bronx,36.93
+Ivan,T03196,Staten Island,9.86
+Carlos,T03197,Bronx,70.75
+George,T03198,Manhattan,10.55
+Fatima,T03199,Staten Island,10.77
+George,T03200,Bronx,58.59
+Julia,T03201,Brooklyn,59.23
+Ethan,T03202,Manhattan,18.93
+Fatima,T03203,Queens,32.04
+Julia,T03204,Manhattan,48.87
+Julia,T03205,Manhattan,64.12
+Bob,T03206,Brooklyn,42.75
+Ethan,T03207,Bronx,11.32
+George,T03208,Bronx,32.74
+Fatima,T03209,Manhattan,26.14
+Carlos,T03210,Staten Island,22.24
+Carlos,T03211,Queens,21.26
+Bob,T03212,Staten Island,60.94
+Diana,T03213,Manhattan,61.64
+Carlos,T03214,Manhattan,45.16
+Ivan,T03215,Staten Island,35.84
+Fatima,T03216,Bronx,25.15
+Carlos,T03217,Manhattan,12.55
+Carlos,T03218,Brooklyn,60.15
+Fatima,T03219,Manhattan,34.05
+Alice,T03220,Manhattan,23.04
+Hana,T03221,Queens,36.21
+George,T03222,Manhattan,37.7
+George,T03223,Staten Island,15.72
+Julia,T03224,Bronx,26.21
+Fatima,T03225,Manhattan,57.33
+Julia,T03226,Queens,73.87
+Bob,T03227,Brooklyn,28.14
+Julia,T03228,Bronx,26.96
+Diana,T03229,Bronx,61.99
+George,T03230,Bronx,48.4
+Bob,T03231,Manhattan,59.19
+Ivan,T03232,Manhattan,60.32
+Diana,T03233,Staten Island,8.72
+Julia,T03234,Bronx,13.45
+Alice,T03235,Manhattan,13.16
+Ivan,T03236,Bronx,20.17
+Alice,T03237,Queens,69.01
+Julia,T03238,Queens,47.74
+Diana,T03239,Manhattan,45.15
+Hana,T03240,Queens,68.92
+Fatima,T03241,Brooklyn,50.18
+Ethan,T03242,Queens,33.29
+George,T03243,Manhattan,38.15
+Carlos,T03244,Queens,43.99
+Ivan,T03245,Manhattan,54.8
+Carlos,T03246,Brooklyn,52.95
+Ivan,T03247,Bronx,17.72
+Julia,T03248,Queens,22.04
+Diana,T03249,Manhattan,72.51
+George,T03250,Queens,67.45
+Julia,T03251,Manhattan,69.14
+Bob,T03252,Staten Island,16.36
+Hana,T03253,Staten Island,16.86
+Diana,T03254,Queens,69.11
+Diana,T03255,Queens,16.07
+Alice,T03256,Brooklyn,44.28
+Carlos,T03257,Queens,51.46
+Bob,T03258,Bronx,44.7
+Ivan,T03259,Brooklyn,13.82
+Alice,T03260,Queens,30.12
+Ivan,T03261,Bronx,26.41
+Bob,T03262,Brooklyn,54.66
+Ethan,T03263,Bronx,39.77
+Carlos,T03264,Bronx,14.29
+Fatima,T03265,Brooklyn,17.44
+Ethan,T03266,Manhattan,26.4
+Ivan,T03267,Bronx,66.25
+Fatima,T03268,Bronx,37.43
+Ethan,T03269,Manhattan,29.02
+Ivan,T03270,Queens,35.9
+Ethan,T03271,Queens,54.34
+Ivan,T03272,Brooklyn,60.67
+Ivan,T03273,Queens,29.98
+Bob,T03274,Bronx,67.99
+Julia,T03275,Bronx,71.54
+Carlos,T03276,Bronx,35.21
+Alice,T03277,Brooklyn,55.94
+Alice,T03278,Staten Island,49.38
+Ethan,T03279,Queens,15.06
+Julia,T03280,Queens,72.21
+Ivan,T03281,Manhattan,25.14
+George,T03282,Queens,36.08
+Ivan,T03283,Staten Island,48.54
+Hana,T03284,Staten Island,21.95
+Carlos,T03285,Staten Island,59.01
+George,T03286,Staten Island,29.84
+Julia,T03287,Bronx,20.35
+Ivan,T03288,Brooklyn,60.12
+Hana,T03289,Brooklyn,9.37
+Carlos,T03290,Brooklyn,73.73
+Ethan,T03291,Staten Island,54.83
+Diana,T03292,Queens,61.67
+Ivan,T03293,Staten Island,22.57
+Bob,T03294,Staten Island,44.27
+George,T03295,Bronx,69.65
+Ivan,T03296,Staten Island,73.7
+Bob,T03297,Brooklyn,31.53
+Diana,T03298,Bronx,17.17
+Diana,T03299,Staten Island,23.55
+Carlos,T03300,Staten Island,60.6
+Hana,T03301,Manhattan,46.81
+Carlos,T03302,Bronx,31.59
+Carlos,T03303,Staten Island,23.86
+Alice,T03304,Queens,22.24
+George,T03305,Brooklyn,12.41
+Diana,T03306,Staten Island,21.83
+Diana,T03307,Queens,20.87
+Ivan,T03308,Brooklyn,70.03
+Bob,T03309,Manhattan,44.08
+Ivan,T03310,Staten Island,31.93
+Bob,T03311,Brooklyn,24.17
+Julia,T03312,Staten Island,48.59
+Carlos,T03313,Staten Island,36.06
+Carlos,T03314,Queens,34.93
+Julia,T03315,Manhattan,11.8
+Julia,T03316,Queens,14.48
+Diana,T03317,Bronx,49.45
+Bob,T03318,Bronx,20.11
+Ivan,T03319,Brooklyn,44.53
+Ivan,T03320,Queens,34.41
+Ethan,T03321,Manhattan,35.13
+George,T03322,Brooklyn,67.61
+Bob,T03323,Bronx,73.38
+Fatima,T03324,Brooklyn,15.98
+Fatima,T03325,Bronx,19.93
+Diana,T03326,Queens,9.09
+Fatima,T03327,Staten Island,50.95
+Fatima,T03328,Queens,59.66
+Hana,T03329,Staten Island,37.03
+George,T03330,Manhattan,66.7
+Ethan,T03331,Brooklyn,11.47
+Ethan,T03332,Brooklyn,67.06
+Diana,T03333,Staten Island,41.46
+Bob,T03334,Bronx,67.69
+Alice,T03335,Manhattan,9.29
+Alice,T03336,Staten Island,36.84
+Hana,T03337,Staten Island,32.91
+Alice,T03338,Brooklyn,49.65
+Diana,T03339,Staten Island,51.63
+Fatima,T03340,Queens,31.89
+Carlos,T03341,Brooklyn,36.32
+Hana,T03342,Staten Island,63.52
+Bob,T03343,Bronx,30.76
+Carlos,T03344,Manhattan,73.32
+Julia,T03345,Brooklyn,53.35
+George,T03346,Staten Island,25.95
+George,T03347,Brooklyn,60.49
+Diana,T03348,Staten Island,15.19
+George,T03349,Queens,52.78
+Alice,T03350,Staten Island,74.25
+Julia,T03351,Staten Island,44.14
+Ivan,T03352,Brooklyn,8.66
+Bob,T03353,Queens,23.87
+Fatima,T03354,Manhattan,40.82
+Julia,T03355,Brooklyn,23.86
+George,T03356,Manhattan,24.88
+Carlos,T03357,Bronx,71.83
+Carlos,T03358,Manhattan,10.28
+Hana,T03359,Manhattan,59.95
+Ivan,T03360,Bronx,58.63
+Fatima,T03361,Brooklyn,47.31
+Bob,T03362,Manhattan,45.84
+George,T03363,Queens,24.82
+Julia,T03364,Bronx,19.59
+Fatima,T03365,Queens,44.64
+Alice,T03366,Bronx,33.64
+Diana,T03367,Brooklyn,51.17
+Ethan,T03368,Staten Island,30.2
+Fatima,T03369,Queens,73.88
+Alice,T03370,Brooklyn,27.05
+Ivan,T03371,Staten Island,42.55
+Hana,T03372,Queens,34.66
+Ethan,T03373,Staten Island,71.09
+Ivan,T03374,Bronx,29.02
+Carlos,T03375,Brooklyn,40.25
+George,T03376,Manhattan,51.78
+Diana,T03377,Brooklyn,16.04
+George,T03378,Staten Island,65.66
+Fatima,T03379,Queens,50.26
+Ethan,T03380,Brooklyn,41.9
+Ethan,T03381,Queens,51.85
+Bob,T03382,Queens,70.6
+George,T03383,Brooklyn,59.03
+Bob,T03384,Brooklyn,8.57
+Hana,T03385,Bronx,15.72
+Carlos,T03386,Bronx,39.92
+Alice,T03387,Staten Island,15.45
+Carlos,T03388,Bronx,64.31
+Carlos,T03389,Queens,30.73
+Ethan,T03390,Bronx,63.15
+George,T03391,Staten Island,30.84
+Fatima,T03392,Bronx,47.29
+Ivan,T03393,Manhattan,38.95
+Fatima,T03394,Bronx,37.49
+Bob,T03395,Manhattan,53.36
+Diana,T03396,Manhattan,40.32
+Carlos,T03397,Brooklyn,18.53
+Carlos,T03398,Bronx,73.08
+Diana,T03399,Queens,56.68
+Ethan,T03400,Brooklyn,47.69
+Alice,T03401,Bronx,19.79
+Hana,T03402,Manhattan,33.28
+Ethan,T03403,Manhattan,32.45
+Fatima,T03404,Staten Island,22.92
+Carlos,T03405,Queens,39.21
+Ivan,T03406,Staten Island,17.89
+Carlos,T03407,Staten Island,54.4
+Diana,T03408,Staten Island,50.42
+Fatima,T03409,Bronx,26.23
+Ivan,T03410,Bronx,59.56
+Bob,T03411,Staten Island,50.05
+Fatima,T03412,Brooklyn,20.87
+George,T03413,Staten Island,40.09
+Julia,T03414,Bronx,64.32
+Ethan,T03415,Brooklyn,55.09
+Alice,T03416,Bronx,17.47
+Ivan,T03417,Bronx,12.7
+Carlos,T03418,Staten Island,10.82
+Hana,T03419,Bronx,21.81
+Hana,T03420,Bronx,52.8
+George,T03421,Manhattan,33.71
+Ethan,T03422,Brooklyn,25.62
+Julia,T03423,Brooklyn,73.45
+Ivan,T03424,Brooklyn,63.06
+Carlos,T03425,Manhattan,68.61
+Alice,T03426,Brooklyn,32.38
+Alice,T03427,Staten Island,48.55
+Bob,T03428,Staten Island,52.32
+Carlos,T03429,Brooklyn,57.36
+Ethan,T03430,Manhattan,73.79
+Diana,T03431,Queens,14.3
+George,T03432,Manhattan,38.43
+George,T03433,Queens,39.78
+Carlos,T03434,Bronx,60.2
+Fatima,T03435,Bronx,42.01
+George,T03436,Brooklyn,25.16
+Carlos,T03437,Staten Island,33.47
+Bob,T03438,Brooklyn,18.57
+Ivan,T03439,Brooklyn,62.28
+Julia,T03440,Queens,32.1
+Fatima,T03441,Brooklyn,19.39
+Hana,T03442,Bronx,17.37
+Julia,T03443,Queens,59.68
+Hana,T03444,Bronx,36.54
+Diana,T03445,Staten Island,8.37
+Hana,T03446,Manhattan,24.18
+George,T03447,Staten Island,42.06
+Bob,T03448,Brooklyn,71.55
+Ethan,T03449,Staten Island,70.74
+George,T03450,Queens,58.18
+Alice,T03451,Brooklyn,73.94
+Fatima,T03452,Brooklyn,61.77
+George,T03453,Bronx,24.86
+Ivan,T03454,Bronx,44.61
+Ivan,T03455,Queens,19.42
+Fatima,T03456,Manhattan,36.87
+Fatima,T03457,Manhattan,29.37
+Julia,T03458,Manhattan,48.81
+Fatima,T03459,Staten Island,71.78
+Hana,T03460,Queens,20.74
+George,T03461,Bronx,46.27
+Hana,T03462,Brooklyn,18.96
+George,T03463,Queens,22.42
+Alice,T03464,Manhattan,46.01
+George,T03465,Staten Island,49.04
+Hana,T03466,Brooklyn,9.8
+Ivan,T03467,Brooklyn,28.82
+Carlos,T03468,Bronx,45.19
+Bob,T03469,Manhattan,14.7
+Fatima,T03470,Staten Island,27.33
+Diana,T03471,Bronx,29.53
+Ivan,T03472,Queens,24.22
+George,T03473,Manhattan,67.77
+Alice,T03474,Bronx,71.29
+Ethan,T03475,Staten Island,44.31
+Hana,T03476,Staten Island,70.68
+Fatima,T03477,Queens,12.64
+Ethan,T03478,Manhattan,63.57
+Alice,T03479,Queens,74.94
+Diana,T03480,Bronx,72.0
+Bob,T03481,Queens,28.91
+George,T03482,Queens,14.77
+Hana,T03483,Brooklyn,21.59
+Alice,T03484,Bronx,72.14
+Fatima,T03485,Bronx,24.84
+Julia,T03486,Brooklyn,25.93
+Carlos,T03487,Bronx,13.7
+Ethan,T03488,Queens,27.67
+Diana,T03489,Queens,34.03
+Ethan,T03490,Brooklyn,22.35
+Diana,T03491,Bronx,35.86
+Alice,T03492,Bronx,51.0
+Alice,T03493,Staten Island,72.06
+Carlos,T03494,Brooklyn,66.45
+Diana,T03495,Brooklyn,21.49
+Bob,T03496,Bronx,52.31
+Julia,T03497,Staten Island,20.2
+Diana,T03498,Brooklyn,36.34
+Alice,T03499,Brooklyn,43.31
+Julia,T03500,Bronx,48.01
+Hana,T03501,Bronx,67.55
+George,T03502,Brooklyn,49.94
+Julia,T03503,Manhattan,66.19
+Diana,T03504,Manhattan,14.91
+Alice,T03505,Manhattan,22.75
+Ethan,T03506,Brooklyn,66.24
+Julia,T03507,Queens,22.55
+Fatima,T03508,Bronx,64.69
+Ivan,T03509,Queens,73.55
+Carlos,T03510,Bronx,64.36
+Ivan,T03511,Queens,31.81
+Fatima,T03512,Manhattan,63.89
+George,T03513,Bronx,8.14
+Ethan,T03514,Staten Island,53.59
+Ivan,T03515,Queens,22.48
+Julia,T03516,Manhattan,49.86
+Diana,T03517,Queens,35.51
+Ethan,T03518,Brooklyn,12.34
+Fatima,T03519,Bronx,41.79
+George,T03520,Queens,53.57
+George,T03521,Brooklyn,31.99
+Julia,T03522,Bronx,41.04
+Fatima,T03523,Staten Island,54.46
+Alice,T03524,Brooklyn,24.74
+Alice,T03525,Bronx,18.61
+Fatima,T03526,Brooklyn,73.11
+Fatima,T03527,Brooklyn,36.96
+Bob,T03528,Manhattan,31.53
+Carlos,T03529,Staten Island,19.33
+Diana,T03530,Brooklyn,60.41
+Bob,T03531,Queens,26.92
+George,T03532,Manhattan,57.03
+Julia,T03533,Manhattan,60.37
+Alice,T03534,Brooklyn,31.43
+Carlos,T03535,Bronx,17.31
+Diana,T03536,Queens,36.65
+Diana,T03537,Manhattan,45.53
+Ivan,T03538,Staten Island,24.26
+Carlos,T03539,Brooklyn,60.85
+Ivan,T03540,Manhattan,29.31
+Alice,T03541,Staten Island,22.46
+George,T03542,Queens,34.45
+Fatima,T03543,Queens,35.83
+Ethan,T03544,Staten Island,19.67
+Carlos,T03545,Queens,9.0
+Carlos,T03546,Brooklyn,12.91
+Hana,T03547,Manhattan,53.41
+Fatima,T03548,Staten Island,37.51
+Bob,T03549,Brooklyn,17.2
+Julia,T03550,Queens,65.97
+Fatima,T03551,Brooklyn,73.1
+Ethan,T03552,Queens,35.5
+Bob,T03553,Bronx,37.39
+Ivan,T03554,Manhattan,36.61
+Ivan,T03555,Brooklyn,41.3
+Carlos,T03556,Queens,35.7
+George,T03557,Bronx,53.8
+Julia,T03558,Staten Island,53.12
+Fatima,T03559,Bronx,29.74
+Hana,T03560,Staten Island,51.3
+Alice,T03561,Manhattan,39.37
+Hana,T03562,Queens,38.03
+Fatima,T03563,Bronx,35.41
+Ethan,T03564,Queens,54.46
+Julia,T03565,Queens,29.22
+George,T03566,Queens,38.48
+Bob,T03567,Manhattan,35.13
+Ivan,T03568,Staten Island,50.5
+Bob,T03569,Brooklyn,59.58
+Julia,T03570,Brooklyn,8.09
+Bob,T03571,Queens,24.12
+Diana,T03572,Manhattan,41.82
+Ivan,T03573,Bronx,34.81
+Carlos,T03574,Manhattan,32.42
+Ethan,T03575,Manhattan,68.7
+Ethan,T03576,Queens,36.24
+Ivan,T03577,Brooklyn,55.93
+Carlos,T03578,Brooklyn,38.57
+Bob,T03579,Manhattan,67.55
+Julia,T03580,Manhattan,38.45
+George,T03581,Brooklyn,73.27
+Ivan,T03582,Manhattan,30.45
+Julia,T03583,Queens,64.34
+Diana,T03584,Staten Island,48.82
+Bob,T03585,Bronx,22.36
+Bob,T03586,Queens,69.27
+Ethan,T03587,Bronx,14.12
+Fatima,T03588,Queens,53.71
+Carlos,T03589,Brooklyn,43.9
+George,T03590,Staten Island,21.57
+Ivan,T03591,Brooklyn,20.17
+Ivan,T03592,Brooklyn,39.52
+Carlos,T03593,Staten Island,39.81
+Julia,T03594,Queens,36.89
+Fatima,T03595,Staten Island,18.98
+Diana,T03596,Staten Island,57.86
+Diana,T03597,Staten Island,59.56
+Ivan,T03598,Manhattan,20.69
+Bob,T03599,Manhattan,64.85
+Alice,T03600,Staten Island,57.79
+Hana,T03601,Brooklyn,59.51
+Hana,T03602,Queens,20.05
+Fatima,T03603,Staten Island,13.21
+Carlos,T03604,Staten Island,57.99
+Ivan,T03605,Bronx,42.48
+Alice,T03606,Brooklyn,9.8
+Hana,T03607,Bronx,33.45
+Julia,T03608,Staten Island,8.97
+Fatima,T03609,Brooklyn,14.3
+Alice,T03610,Staten Island,12.66
+Ivan,T03611,Queens,47.83
+Bob,T03612,Brooklyn,74.06
+Alice,T03613,Bronx,43.65
+Alice,T03614,Brooklyn,55.88
+Fatima,T03615,Manhattan,45.42
+Ethan,T03616,Queens,15.67
+Julia,T03617,Manhattan,27.28
+Bob,T03618,Staten Island,60.16
+Ethan,T03619,Queens,23.7
+Bob,T03620,Queens,73.59
+Hana,T03621,Queens,51.21
+Fatima,T03622,Bronx,64.46
+Julia,T03623,Bronx,24.46
+Ethan,T03624,Manhattan,39.95
+Alice,T03625,Manhattan,27.25
+Ethan,T03626,Staten Island,49.83
+Julia,T03627,Staten Island,71.82
+Alice,T03628,Staten Island,54.06
+Fatima,T03629,Bronx,25.74
+George,T03630,Manhattan,22.98
+Alice,T03631,Bronx,31.1
+Julia,T03632,Brooklyn,8.86
+Diana,T03633,Brooklyn,30.46
+Julia,T03634,Bronx,72.17
+Hana,T03635,Brooklyn,21.07
+Julia,T03636,Staten Island,53.72
+George,T03637,Bronx,18.92
+Diana,T03638,Staten Island,65.73
+Carlos,T03639,Brooklyn,57.72
+Alice,T03640,Brooklyn,60.09
+Ethan,T03641,Manhattan,63.05
+Julia,T03642,Staten Island,72.77
+Diana,T03643,Bronx,68.71
+Bob,T03644,Manhattan,73.29
+Hana,T03645,Manhattan,51.57
+Julia,T03646,Brooklyn,55.06
+Diana,T03647,Bronx,58.78
+George,T03648,Brooklyn,29.63
+Carlos,T03649,Brooklyn,40.72
+George,T03650,Brooklyn,10.15
+Carlos,T03651,Staten Island,64.14
+Carlos,T03652,Manhattan,54.77
+George,T03653,Brooklyn,28.96
+Fatima,T03654,Bronx,28.07
+Julia,T03655,Brooklyn,68.99
+Diana,T03656,Manhattan,30.01
+Ivan,T03657,Manhattan,49.32
+Bob,T03658,Staten Island,23.2
+Julia,T03659,Bronx,33.8
+George,T03660,Manhattan,39.6
+Fatima,T03661,Staten Island,11.61
+Julia,T03662,Staten Island,27.12
+Alice,T03663,Brooklyn,54.79
+Alice,T03664,Brooklyn,50.45
+George,T03665,Bronx,32.91
+Diana,T03666,Manhattan,34.22
+Diana,T03667,Bronx,69.7
+Fatima,T03668,Staten Island,43.99
+Julia,T03669,Staten Island,63.68
+George,T03670,Staten Island,64.31
+Ivan,T03671,Staten Island,24.01
+Diana,T03672,Brooklyn,15.6
+Alice,T03673,Staten Island,24.95
+Ethan,T03674,Queens,10.35
+George,T03675,Brooklyn,24.06
+Alice,T03676,Staten Island,30.8
+Julia,T03677,Brooklyn,57.3
+Julia,T03678,Manhattan,32.02
+Julia,T03679,Manhattan,41.4
+Julia,T03680,Staten Island,56.99
+Carlos,T03681,Queens,28.76
+George,T03682,Staten Island,58.69
+Fatima,T03683,Staten Island,13.52
+Ivan,T03684,Queens,9.35
+Ivan,T03685,Brooklyn,10.17
+Carlos,T03686,Staten Island,55.75
+Fatima,T03687,Manhattan,57.04
+Bob,T03688,Manhattan,66.11
+Julia,T03689,Brooklyn,25.2
+Diana,T03690,Queens,54.66
+Diana,T03691,Queens,44.42
+Alice,T03692,Queens,22.64
+Fatima,T03693,Manhattan,39.29
+Fatima,T03694,Manhattan,65.32
+Ivan,T03695,Manhattan,66.49
+Hana,T03696,Bronx,74.13
+Diana,T03697,Bronx,50.86
+Bob,T03698,Bronx,15.85
+Diana,T03699,Manhattan,38.94
+Carlos,T03700,Queens,10.14
+Diana,T03701,Bronx,49.37
+Bob,T03702,Queens,67.63
+Carlos,T03703,Staten Island,53.98
+Hana,T03704,Brooklyn,52.24
+Bob,T03705,Manhattan,21.51
+Ivan,T03706,Manhattan,8.21
+Diana,T03707,Bronx,55.24
+Ethan,T03708,Queens,74.05
+Bob,T03709,Brooklyn,19.39
+Diana,T03710,Queens,69.81
+Bob,T03711,Queens,22.92
+Ivan,T03712,Manhattan,63.56
+Ethan,T03713,Manhattan,37.59
+Carlos,T03714,Staten Island,31.29
+Ethan,T03715,Staten Island,56.28
+Carlos,T03716,Bronx,66.36
+Bob,T03717,Staten Island,42.54
+Alice,T03718,Queens,21.62
+Ethan,T03719,Queens,46.61
+Ethan,T03720,Staten Island,18.34
+George,T03721,Bronx,10.68
+Diana,T03722,Manhattan,56.25
+Alice,T03723,Brooklyn,39.8
+Ivan,T03724,Bronx,13.04
+Carlos,T03725,Bronx,8.99
+Carlos,T03726,Brooklyn,66.11
+Fatima,T03727,Staten Island,48.41
+Ethan,T03728,Brooklyn,23.3
+Fatima,T03729,Staten Island,34.09
+George,T03730,Queens,16.8
+Ethan,T03731,Manhattan,67.24
+Alice,T03732,Manhattan,45.54
+George,T03733,Staten Island,58.33
+Carlos,T03734,Brooklyn,38.46
+Hana,T03735,Bronx,59.04
+Hana,T03736,Brooklyn,42.6
+Carlos,T03737,Manhattan,52.15
+Carlos,T03738,Staten Island,39.9
+Diana,T03739,Queens,31.03
+Fatima,T03740,Manhattan,47.95
+Hana,T03741,Brooklyn,61.84
+Carlos,T03742,Manhattan,23.56
+Diana,T03743,Queens,74.96
+Ivan,T03744,Bronx,12.17
+Diana,T03745,Queens,28.05
+Ethan,T03746,Manhattan,60.74
+Carlos,T03747,Bronx,21.85
+Fatima,T03748,Brooklyn,52.28
+Julia,T03749,Queens,41.27
+Fatima,T03750,Bronx,57.76
+Hana,T03751,Manhattan,58.84
+Hana,T03752,Manhattan,55.43
+Diana,T03753,Staten Island,8.79
+Julia,T03754,Bronx,32.58
+Ethan,T03755,Brooklyn,55.5
+Ivan,T03756,Bronx,44.47
+George,T03757,Bronx,20.23
+Ivan,T03758,Staten Island,48.77
+Ivan,T03759,Brooklyn,22.0
+Bob,T03760,Brooklyn,16.72
+Julia,T03761,Staten Island,63.64
+George,T03762,Queens,45.07
+Fatima,T03763,Manhattan,60.76
+Alice,T03764,Queens,19.25
+Bob,T03765,Staten Island,31.71
+Ivan,T03766,Queens,45.94
+Fatima,T03767,Brooklyn,47.54
+Hana,T03768,Brooklyn,11.31
+Hana,T03769,Brooklyn,54.05
+Diana,T03770,Staten Island,73.7
+Carlos,T03771,Queens,22.05
+Julia,T03772,Bronx,67.41
+Hana,T03773,Manhattan,64.18
+Ethan,T03774,Queens,9.26
+Diana,T03775,Bronx,44.07
+Julia,T03776,Queens,10.38
+Ivan,T03777,Brooklyn,31.15
+Julia,T03778,Manhattan,33.87
+Fatima,T03779,Manhattan,21.06
+Fatima,T03780,Staten Island,69.42
+Diana,T03781,Staten Island,52.02
+Julia,T03782,Staten Island,68.59
+Julia,T03783,Brooklyn,40.95
+Carlos,T03784,Manhattan,68.89
+Fatima,T03785,Bronx,55.03
+Ivan,T03786,Staten Island,39.61
+Carlos,T03787,Bronx,18.91
+Diana,T03788,Queens,18.86
+Alice,T03789,Brooklyn,74.3
+Ivan,T03790,Brooklyn,59.93
+Bob,T03791,Manhattan,37.28
+Carlos,T03792,Staten Island,50.41
+Ivan,T03793,Bronx,11.48
+Julia,T03794,Queens,48.02
+Carlos,T03795,Brooklyn,10.84
+Julia,T03796,Brooklyn,33.78
+Diana,T03797,Staten Island,20.51
+Alice,T03798,Brooklyn,72.57
+Ivan,T03799,Bronx,48.84
+Hana,T03800,Brooklyn,66.99
+Julia,T03801,Bronx,22.17
+Hana,T03802,Manhattan,21.42
+Carlos,T03803,Manhattan,47.03
+Fatima,T03804,Staten Island,12.21
+Alice,T03805,Brooklyn,13.71
+Bob,T03806,Manhattan,25.12
+Diana,T03807,Queens,19.39
+Ivan,T03808,Queens,73.62
+Diana,T03809,Bronx,14.45
+Hana,T03810,Queens,54.52
+Diana,T03811,Bronx,25.64
+Hana,T03812,Queens,72.65
+Julia,T03813,Brooklyn,18.76
+George,T03814,Staten Island,37.76
+Alice,T03815,Manhattan,21.76
+Ivan,T03816,Bronx,45.64
+Alice,T03817,Queens,17.07
+Bob,T03818,Staten Island,38.15
+Alice,T03819,Staten Island,66.16
+Ivan,T03820,Bronx,59.91
+George,T03821,Queens,34.67
+Fatima,T03822,Bronx,16.66
+Bob,T03823,Bronx,19.28
+Fatima,T03824,Bronx,68.71
+Ethan,T03825,Queens,66.57
+Carlos,T03826,Manhattan,46.15
+Ivan,T03827,Bronx,38.55
+Alice,T03828,Staten Island,52.89
+Diana,T03829,Bronx,38.95
+Alice,T03830,Brooklyn,59.88
+Diana,T03831,Manhattan,70.73
+Ivan,T03832,Bronx,14.6
+Carlos,T03833,Queens,30.1
+Diana,T03834,Queens,25.91
+Diana,T03835,Brooklyn,66.43
+Julia,T03836,Manhattan,15.16
+Hana,T03837,Staten Island,34.64
+Carlos,T03838,Brooklyn,61.53
+Alice,T03839,Manhattan,60.28
+Carlos,T03840,Brooklyn,34.43
+Bob,T03841,Queens,63.74
+Diana,T03842,Bronx,55.95
+Julia,T03843,Queens,11.28
+Bob,T03844,Queens,8.38
+Fatima,T03845,Manhattan,27.64
+Ethan,T03846,Manhattan,27.1
+Diana,T03847,Manhattan,48.55
+Fatima,T03848,Staten Island,12.67
+Julia,T03849,Staten Island,65.12
+Bob,T03850,Bronx,63.9
+Ethan,T03851,Bronx,20.3
+Ethan,T03852,Bronx,66.73
+Diana,T03853,Queens,37.16
+Ethan,T03854,Queens,21.95
+Fatima,T03855,Bronx,64.8
+George,T03856,Bronx,12.14
+Bob,T03857,Queens,68.21
+Fatima,T03858,Bronx,13.03
+Diana,T03859,Manhattan,37.6
+Hana,T03860,Bronx,43.94
+Fatima,T03861,Manhattan,58.89
+Hana,T03862,Brooklyn,44.87
+Ivan,T03863,Brooklyn,47.48
+Diana,T03864,Manhattan,43.01
+Hana,T03865,Staten Island,66.92
+Ivan,T03866,Queens,25.14
+Hana,T03867,Staten Island,63.57
+Bob,T03868,Manhattan,67.92
+Bob,T03869,Bronx,62.71
+Hana,T03870,Bronx,25.1
+Ivan,T03871,Bronx,61.62
+Hana,T03872,Queens,10.27
+Hana,T03873,Manhattan,43.24
+Fatima,T03874,Manhattan,16.91
+Julia,T03875,Staten Island,40.92
+Julia,T03876,Brooklyn,15.9
+Fatima,T03877,Queens,55.02
+Julia,T03878,Queens,34.32
+George,T03879,Bronx,71.34
+Diana,T03880,Bronx,14.04
+Diana,T03881,Brooklyn,38.14
+Ivan,T03882,Brooklyn,60.97
+Hana,T03883,Queens,63.81
+Diana,T03884,Brooklyn,23.76
+Hana,T03885,Brooklyn,25.49
+Ivan,T03886,Brooklyn,12.13
+Fatima,T03887,Staten Island,69.13
+Ethan,T03888,Queens,26.85
+Hana,T03889,Manhattan,37.41
+Bob,T03890,Manhattan,17.67
+Diana,T03891,Manhattan,8.37
+Alice,T03892,Bronx,22.9
+Ivan,T03893,Manhattan,32.65
+Bob,T03894,Bronx,23.88
+Ethan,T03895,Queens,9.34
+Fatima,T03896,Brooklyn,17.07
+Ivan,T03897,Bronx,45.1
+George,T03898,Brooklyn,24.64
+Bob,T03899,Manhattan,52.15
+Fatima,T03900,Staten Island,42.59
+Ethan,T03901,Queens,59.51
+George,T03902,Queens,42.52
+Bob,T03903,Queens,44.96
+George,T03904,Brooklyn,71.95
+Bob,T03905,Bronx,28.28
+Julia,T03906,Brooklyn,40.84
+Hana,T03907,Manhattan,67.28
+Ivan,T03908,Bronx,12.53
+Hana,T03909,Manhattan,46.44
+Julia,T03910,Bronx,39.15
+Alice,T03911,Queens,34.61
+Ethan,T03912,Queens,68.68
+Bob,T03913,Staten Island,67.8
+Alice,T03914,Staten Island,61.19
+George,T03915,Brooklyn,71.9
+Fatima,T03916,Bronx,12.82
+Ivan,T03917,Queens,9.89
+Bob,T03918,Queens,9.59
+Ivan,T03919,Staten Island,43.64
+Alice,T03920,Queens,33.85
+Ethan,T03921,Staten Island,23.29
+Bob,T03922,Manhattan,62.24
+Ivan,T03923,Queens,42.54
+Carlos,T03924,Brooklyn,61.35
+Julia,T03925,Brooklyn,51.94
+Fatima,T03926,Queens,11.93
+Alice,T03927,Bronx,74.0
+Diana,T03928,Queens,66.21
+Diana,T03929,Queens,18.29
+Ivan,T03930,Bronx,38.57
+George,T03931,Brooklyn,38.77
+Alice,T03932,Queens,13.41
+Carlos,T03933,Bronx,56.55
+Fatima,T03934,Staten Island,35.67
+Fatima,T03935,Queens,62.75
+Fatima,T03936,Bronx,24.55
+Bob,T03937,Staten Island,38.72
+Diana,T03938,Brooklyn,65.24
+Carlos,T03939,Staten Island,32.12
+Carlos,T03940,Queens,20.57
+George,T03941,Brooklyn,18.18
+Alice,T03942,Manhattan,46.83
+Fatima,T03943,Queens,46.88
+Bob,T03944,Manhattan,39.98
+Diana,T03945,Queens,14.37
+Fatima,T03946,Manhattan,64.9
+Diana,T03947,Brooklyn,40.89
+Ivan,T03948,Manhattan,8.69
+Hana,T03949,Queens,8.02
+Alice,T03950,Manhattan,10.96
+George,T03951,Manhattan,50.27
+Diana,T03952,Manhattan,71.63
+Hana,T03953,Brooklyn,41.02
+Ethan,T03954,Manhattan,38.76
+Ethan,T03955,Manhattan,50.51
+Hana,T03956,Queens,24.52
+Carlos,T03957,Brooklyn,13.5
+Ivan,T03958,Manhattan,12.81
+Hana,T03959,Bronx,67.67
+Fatima,T03960,Queens,56.72
+Ivan,T03961,Bronx,46.41
+Julia,T03962,Staten Island,66.56
+Hana,T03963,Staten Island,73.61
+Hana,T03964,Queens,57.8
+Alice,T03965,Bronx,51.02
+Alice,T03966,Queens,16.84
+Ethan,T03967,Brooklyn,22.49
+Alice,T03968,Bronx,34.26
+Ethan,T03969,Staten Island,56.78
+Carlos,T03970,Staten Island,36.91
+Carlos,T03971,Staten Island,45.43
+Alice,T03972,Queens,72.73
+Ivan,T03973,Queens,26.4
+Hana,T03974,Staten Island,58.28
+Hana,T03975,Bronx,61.97
+Alice,T03976,Queens,61.85
+Diana,T03977,Bronx,33.99
+Ethan,T03978,Brooklyn,55.22
+George,T03979,Bronx,23.44
+George,T03980,Bronx,58.78
+Julia,T03981,Queens,52.47
+Bob,T03982,Bronx,69.32
+Hana,T03983,Queens,55.83
+Hana,T03984,Brooklyn,39.96
+Diana,T03985,Manhattan,40.41
+Bob,T03986,Brooklyn,26.72
+Bob,T03987,Brooklyn,45.22
+George,T03988,Brooklyn,17.61
+Alice,T03989,Bronx,42.31
+Alice,T03990,Bronx,69.7
+Diana,T03991,Queens,28.27
+Ethan,T03992,Bronx,41.68
+Bob,T03993,Bronx,69.91
+George,T03994,Queens,17.43
+Diana,T03995,Manhattan,42.37
+Carlos,T03996,Queens,68.5
+Ethan,T03997,Staten Island,62.95
+Ethan,T03998,Queens,58.49
+Diana,T03999,Staten Island,53.98
+Carlos,T04000,Manhattan,63.07
+Alice,T04001,Staten Island,31.48
+Hana,T04002,Queens,16.61
+Fatima,T04003,Bronx,11.89
+Ethan,T04004,Manhattan,10.12
+Hana,T04005,Bronx,62.44
+George,T04006,Brooklyn,18.78
+Hana,T04007,Brooklyn,62.68
+Fatima,T04008,Queens,19.47
+George,T04009,Queens,56.28
+Carlos,T04010,Bronx,40.22
+Julia,T04011,Queens,29.64
+Alice,T04012,Manhattan,18.65
+Carlos,T04013,Bronx,74.76
+Ivan,T04014,Manhattan,47.3
+Diana,T04015,Queens,14.03
+Ivan,T04016,Brooklyn,19.24
+Bob,T04017,Queens,9.78
+Ethan,T04018,Staten Island,44.76
+Hana,T04019,Manhattan,42.59
+Carlos,T04020,Bronx,41.64
+Alice,T04021,Manhattan,29.1
+Julia,T04022,Staten Island,69.16
+George,T04023,Brooklyn,34.8
+Fatima,T04024,Staten Island,72.12
+George,T04025,Bronx,41.72
+Bob,T04026,Bronx,35.96
+Diana,T04027,Queens,23.9
+Ethan,T04028,Staten Island,57.49
+Julia,T04029,Staten Island,57.53
+Fatima,T04030,Queens,44.68
+George,T04031,Manhattan,58.61
+Julia,T04032,Staten Island,46.28
+Ethan,T04033,Staten Island,59.65
+George,T04034,Brooklyn,17.96
+Diana,T04035,Staten Island,12.0
+Bob,T04036,Bronx,68.29
+Hana,T04037,Queens,9.94
+Carlos,T04038,Queens,13.78
+George,T04039,Queens,43.01
+Ethan,T04040,Queens,39.73
+Ethan,T04041,Bronx,43.61
+Diana,T04042,Brooklyn,71.84
+Carlos,T04043,Manhattan,25.08
+Alice,T04044,Queens,50.1
+Bob,T04045,Bronx,12.78
+Carlos,T04046,Bronx,58.71
+Julia,T04047,Queens,11.22
+Ethan,T04048,Brooklyn,70.17
+Fatima,T04049,Brooklyn,16.01
+Ethan,T04050,Queens,13.46
+Fatima,T04051,Bronx,16.57
+Julia,T04052,Bronx,24.78
+Hana,T04053,Manhattan,68.38
+Alice,T04054,Manhattan,38.35
+Fatima,T04055,Staten Island,63.79
+Ethan,T04056,Queens,48.49
+Julia,T04057,Bronx,30.87
+Ethan,T04058,Brooklyn,37.65
+Ethan,T04059,Queens,26.64
+Ethan,T04060,Staten Island,43.67
+Carlos,T04061,Staten Island,8.76
+Ethan,T04062,Staten Island,21.33
+Carlos,T04063,Staten Island,29.95
+Fatima,T04064,Queens,40.37
+Ivan,T04065,Queens,72.97
+Hana,T04066,Brooklyn,58.65
+Fatima,T04067,Queens,12.21
+Bob,T04068,Queens,15.9
+George,T04069,Brooklyn,21.14
+Alice,T04070,Staten Island,46.66
+Bob,T04071,Manhattan,23.2
+Bob,T04072,Queens,71.17
+Hana,T04073,Manhattan,60.59
+Alice,T04074,Bronx,47.87
+George,T04075,Staten Island,16.99
+Julia,T04076,Queens,66.69
+Bob,T04077,Bronx,53.16
+Ethan,T04078,Manhattan,10.01
+Hana,T04079,Brooklyn,11.49
+Diana,T04080,Brooklyn,27.79
+Ivan,T04081,Brooklyn,14.15
+George,T04082,Bronx,60.91
+Alice,T04083,Brooklyn,31.17
+Bob,T04084,Brooklyn,60.7
+Hana,T04085,Brooklyn,24.89
+Bob,T04086,Staten Island,12.26
+George,T04087,Bronx,56.65
+Fatima,T04088,Brooklyn,45.02
+Alice,T04089,Manhattan,21.1
+Carlos,T04090,Queens,12.15
+Ethan,T04091,Staten Island,19.57
+Carlos,T04092,Bronx,58.03
+Carlos,T04093,Staten Island,55.44
+Diana,T04094,Manhattan,16.66
+Ethan,T04095,Staten Island,13.27
+Hana,T04096,Staten Island,17.78
+Bob,T04097,Queens,73.19
+Fatima,T04098,Manhattan,30.1
+Carlos,T04099,Manhattan,61.84
+Ethan,T04100,Queens,32.88
+Ethan,T04101,Bronx,46.02
+Diana,T04102,Manhattan,31.74
+Julia,T04103,Brooklyn,20.88
+Ivan,T04104,Queens,29.3
+Julia,T04105,Queens,33.11
+Hana,T04106,Brooklyn,63.24
+George,T04107,Brooklyn,17.41
+George,T04108,Brooklyn,66.0
+Julia,T04109,Manhattan,64.51
+Carlos,T04110,Brooklyn,23.53
+Ivan,T04111,Staten Island,57.56
+Ivan,T04112,Staten Island,18.12
+Carlos,T04113,Staten Island,41.9
+Bob,T04114,Staten Island,10.08
+Hana,T04115,Brooklyn,14.75
+Fatima,T04116,Manhattan,13.93
+Hana,T04117,Manhattan,27.2
+Ivan,T04118,Brooklyn,32.9
+George,T04119,Manhattan,11.91
+George,T04120,Queens,47.43
+Alice,T04121,Brooklyn,42.11
+Carlos,T04122,Bronx,23.31
+Fatima,T04123,Staten Island,65.63
+Bob,T04124,Brooklyn,40.44
+Diana,T04125,Bronx,29.53
+Ethan,T04126,Staten Island,16.04
+George,T04127,Staten Island,18.54
+Diana,T04128,Staten Island,56.97
+Alice,T04129,Bronx,20.39
+Bob,T04130,Brooklyn,48.66
+Carlos,T04131,Bronx,15.64
+Fatima,T04132,Brooklyn,58.38
+Alice,T04133,Brooklyn,67.83
+Julia,T04134,Queens,61.79
+Alice,T04135,Bronx,51.28
+Alice,T04136,Bronx,74.14
+Alice,T04137,Staten Island,64.1
+Fatima,T04138,Brooklyn,54.02
+Fatima,T04139,Staten Island,8.59
+Ethan,T04140,Staten Island,40.86
+Julia,T04141,Manhattan,55.98
+Ivan,T04142,Bronx,45.45
+Ethan,T04143,Brooklyn,67.29
+Diana,T04144,Manhattan,31.26
+Carlos,T04145,Brooklyn,58.11
+Carlos,T04146,Queens,42.32
+Julia,T04147,Bronx,51.93
+Bob,T04148,Brooklyn,19.94
+Alice,T04149,Brooklyn,46.35
+George,T04150,Brooklyn,25.51
+Ivan,T04151,Bronx,46.54
+George,T04152,Bronx,41.82
+Ivan,T04153,Brooklyn,58.13
+Alice,T04154,Bronx,61.55
+Ethan,T04155,Staten Island,52.22
+George,T04156,Bronx,24.71
+Carlos,T04157,Staten Island,69.42
+Diana,T04158,Queens,69.25
+Ethan,T04159,Brooklyn,74.99
+Ethan,T04160,Manhattan,70.07
+Fatima,T04161,Staten Island,74.26
+George,T04162,Manhattan,39.44
+George,T04163,Staten Island,45.53
+George,T04164,Brooklyn,66.89
+Ethan,T04165,Brooklyn,66.62
+Julia,T04166,Staten Island,53.46
+Ethan,T04167,Queens,39.48
+Hana,T04168,Bronx,56.37
+Ivan,T04169,Manhattan,70.82
+Hana,T04170,Manhattan,22.94
+Ivan,T04171,Staten Island,74.97
+Hana,T04172,Bronx,46.21
+Ivan,T04173,Bronx,34.27
+Diana,T04174,Bronx,74.0
+Ethan,T04175,Brooklyn,61.93
+Julia,T04176,Brooklyn,8.32
+Julia,T04177,Queens,32.3
+George,T04178,Bronx,29.62
+Diana,T04179,Manhattan,10.21
+Carlos,T04180,Manhattan,53.69
+Bob,T04181,Staten Island,70.4
+Fatima,T04182,Bronx,67.21
+Alice,T04183,Brooklyn,16.44
+Alice,T04184,Queens,36.53
+Fatima,T04185,Brooklyn,11.02
+Bob,T04186,Brooklyn,63.57
+Julia,T04187,Brooklyn,23.99
+Fatima,T04188,Manhattan,71.52
+Hana,T04189,Queens,15.24
+Carlos,T04190,Bronx,32.76
+Hana,T04191,Queens,58.14
+Bob,T04192,Staten Island,38.7
+Hana,T04193,Queens,40.87
+George,T04194,Brooklyn,30.71
+Carlos,T04195,Staten Island,74.37
+Diana,T04196,Manhattan,69.3
+Fatima,T04197,Bronx,48.07
+Ethan,T04198,Manhattan,40.15
+Diana,T04199,Brooklyn,11.47
+Hana,T04200,Brooklyn,63.09
+Diana,T04201,Staten Island,73.08
+Ivan,T04202,Bronx,12.59
+Carlos,T04203,Brooklyn,29.43
+Fatima,T04204,Queens,32.1
+Ethan,T04205,Queens,19.17
+Bob,T04206,Manhattan,74.75
+Diana,T04207,Bronx,45.52
+Ethan,T04208,Manhattan,21.08
+George,T04209,Manhattan,62.66
+Ivan,T04210,Staten Island,51.3
+Ivan,T04211,Manhattan,28.22
+Julia,T04212,Manhattan,65.15
+Diana,T04213,Manhattan,26.47
+Fatima,T04214,Manhattan,45.28
+Carlos,T04215,Manhattan,15.86
+Ethan,T04216,Manhattan,12.66
+Ivan,T04217,Manhattan,16.43
+Bob,T04218,Manhattan,12.36
+Hana,T04219,Queens,66.36
+Carlos,T04220,Manhattan,63.64
+Ethan,T04221,Brooklyn,67.04
+Fatima,T04222,Staten Island,40.97
+Diana,T04223,Bronx,36.33
+George,T04224,Queens,72.42
+Hana,T04225,Bronx,45.35
+Hana,T04226,Bronx,65.7
+Carlos,T04227,Staten Island,55.78
+Hana,T04228,Manhattan,20.32
+Ethan,T04229,Queens,8.69
+Hana,T04230,Staten Island,50.95
+Julia,T04231,Queens,23.43
+George,T04232,Queens,66.87
+George,T04233,Bronx,22.29
+Ivan,T04234,Brooklyn,30.42
+Diana,T04235,Queens,61.12
+Alice,T04236,Brooklyn,32.85
+Alice,T04237,Queens,70.47
+Hana,T04238,Brooklyn,70.19
+Carlos,T04239,Bronx,28.49
+Ethan,T04240,Queens,39.24
+Ethan,T04241,Bronx,8.71
+Ivan,T04242,Bronx,20.98
+Alice,T04243,Staten Island,32.88
+Ivan,T04244,Brooklyn,54.46
+Fatima,T04245,Brooklyn,33.77
+Ethan,T04246,Manhattan,74.93
+Ethan,T04247,Bronx,23.53
+Ivan,T04248,Staten Island,73.32
+Fatima,T04249,Staten Island,55.98
+Ethan,T04250,Brooklyn,64.63
+Bob,T04251,Bronx,20.64
+Ethan,T04252,Bronx,63.48
+Alice,T04253,Brooklyn,21.1
+Bob,T04254,Queens,34.76
+Hana,T04255,Bronx,49.25
+Fatima,T04256,Bronx,12.55
+Julia,T04257,Manhattan,69.26
+Fatima,T04258,Brooklyn,26.91
+Diana,T04259,Staten Island,41.58
+Ivan,T04260,Manhattan,45.09
+Ethan,T04261,Staten Island,25.23
+Carlos,T04262,Staten Island,24.75
+George,T04263,Staten Island,74.48
+Alice,T04264,Staten Island,36.44
+Fatima,T04265,Manhattan,61.95
+Ethan,T04266,Staten Island,53.16
+Ethan,T04267,Queens,49.13
+Hana,T04268,Brooklyn,65.1
+Ivan,T04269,Queens,27.93
+George,T04270,Manhattan,24.52
+Hana,T04271,Bronx,31.73
+Diana,T04272,Manhattan,43.16
+Ethan,T04273,Queens,32.19
+Alice,T04274,Brooklyn,59.56
+Ethan,T04275,Bronx,22.3
+Ethan,T04276,Queens,66.78
+Ivan,T04277,Brooklyn,27.34
+Julia,T04278,Staten Island,15.42
+Diana,T04279,Staten Island,11.36
+Ethan,T04280,Manhattan,66.31
+Carlos,T04281,Brooklyn,29.68
+Hana,T04282,Brooklyn,59.84
+Ethan,T04283,Brooklyn,68.18
+Alice,T04284,Manhattan,69.45
+Diana,T04285,Manhattan,19.84
+Carlos,T04286,Bronx,9.81
+Ethan,T04287,Bronx,20.7
+Bob,T04288,Bronx,74.75
+Ivan,T04289,Brooklyn,40.48
+Ivan,T04290,Staten Island,53.63
+Carlos,T04291,Brooklyn,9.38
+Alice,T04292,Queens,19.34
+Hana,T04293,Bronx,67.7
+Carlos,T04294,Brooklyn,32.92
+Hana,T04295,Bronx,16.45
+Julia,T04296,Brooklyn,25.83
+Hana,T04297,Queens,16.56
+Fatima,T04298,Bronx,11.64
+Julia,T04299,Queens,14.32
+Hana,T04300,Queens,72.71
+Diana,T04301,Brooklyn,27.93
+Julia,T04302,Bronx,64.32
+Fatima,T04303,Staten Island,36.35
+George,T04304,Queens,13.49
+Fatima,T04305,Manhattan,49.58
+Bob,T04306,Staten Island,62.3
+Bob,T04307,Manhattan,62.54
+Carlos,T04308,Bronx,30.15
+Hana,T04309,Queens,18.81
+Hana,T04310,Queens,53.41
+Ethan,T04311,Brooklyn,56.67
+Ethan,T04312,Brooklyn,59.97
+Diana,T04313,Staten Island,70.67
+Bob,T04314,Bronx,56.98
+Diana,T04315,Manhattan,46.18
+Fatima,T04316,Brooklyn,59.29
+George,T04317,Staten Island,42.89
+Carlos,T04318,Bronx,30.5
+Hana,T04319,Staten Island,25.77
+Carlos,T04320,Queens,28.91
+Fatima,T04321,Brooklyn,65.84
+Carlos,T04322,Staten Island,25.62
+Hana,T04323,Queens,61.94
+Fatima,T04324,Brooklyn,52.38
+Alice,T04325,Bronx,16.69
+Diana,T04326,Manhattan,66.15
+Fatima,T04327,Brooklyn,20.6
+Bob,T04328,Bronx,10.2
+Alice,T04329,Queens,68.67
+Julia,T04330,Staten Island,61.67
+Ethan,T04331,Brooklyn,19.19
+Alice,T04332,Bronx,39.88
+Julia,T04333,Brooklyn,56.39
+Carlos,T04334,Brooklyn,66.38
+Bob,T04335,Staten Island,28.15
+Diana,T04336,Brooklyn,24.78
+George,T04337,Manhattan,11.7
+Julia,T04338,Brooklyn,14.37
+Fatima,T04339,Bronx,29.26
+Carlos,T04340,Staten Island,42.89
+Carlos,T04341,Bronx,34.35
+Ethan,T04342,Queens,10.93
+Fatima,T04343,Bronx,42.95
+Ivan,T04344,Staten Island,23.04
+Bob,T04345,Manhattan,66.11
+Carlos,T04346,Manhattan,14.52
+Alice,T04347,Brooklyn,46.48
+Carlos,T04348,Brooklyn,42.23
+Hana,T04349,Queens,14.84
+Diana,T04350,Manhattan,68.2
+Fatima,T04351,Queens,24.99
+Diana,T04352,Queens,12.15
+Alice,T04353,Queens,48.66
+Diana,T04354,Queens,23.46
+Fatima,T04355,Queens,59.25
+Fatima,T04356,Queens,8.47
+Alice,T04357,Staten Island,16.39
+Fatima,T04358,Manhattan,21.55
+Carlos,T04359,Manhattan,43.06
+Fatima,T04360,Bronx,71.81
+Hana,T04361,Brooklyn,21.71
+Bob,T04362,Brooklyn,25.98
+George,T04363,Staten Island,51.7
+Carlos,T04364,Manhattan,40.66
+Alice,T04365,Bronx,29.68
+Hana,T04366,Bronx,39.24
+Diana,T04367,Bronx,14.75
+Alice,T04368,Brooklyn,22.33
+Carlos,T04369,Bronx,49.0
+Ethan,T04370,Manhattan,14.03
+George,T04371,Brooklyn,57.22
+Fatima,T04372,Brooklyn,62.79
+Julia,T04373,Bronx,25.44
+Hana,T04374,Queens,25.31
+Fatima,T04375,Queens,27.81
+Bob,T04376,Staten Island,11.71
+Diana,T04377,Brooklyn,13.96
+Ivan,T04378,Manhattan,59.3
+George,T04379,Manhattan,41.85
+Alice,T04380,Brooklyn,13.69
+Ivan,T04381,Brooklyn,33.43
+Alice,T04382,Staten Island,44.22
+Bob,T04383,Queens,70.25
+Fatima,T04384,Bronx,59.86
+Ethan,T04385,Manhattan,48.71
+George,T04386,Queens,47.98
+Ethan,T04387,Staten Island,69.5
+Ivan,T04388,Staten Island,27.94
+George,T04389,Manhattan,38.29
+Hana,T04390,Manhattan,64.01
+Carlos,T04391,Staten Island,53.76
+Ethan,T04392,Manhattan,72.86
+Diana,T04393,Bronx,42.8
+Diana,T04394,Bronx,37.05
+Carlos,T04395,Brooklyn,51.9
+Carlos,T04396,Brooklyn,36.74
+Julia,T04397,Queens,56.03
+Ivan,T04398,Bronx,25.26
+Ethan,T04399,Bronx,69.41
+Carlos,T04400,Manhattan,66.62
+Julia,T04401,Brooklyn,62.95
+Carlos,T04402,Brooklyn,67.67
+Diana,T04403,Manhattan,42.81
+George,T04404,Queens,56.36
+George,T04405,Manhattan,48.2
+Alice,T04406,Brooklyn,63.02
+Bob,T04407,Bronx,9.88
+Ivan,T04408,Brooklyn,48.62
+Alice,T04409,Queens,64.12
+Diana,T04410,Bronx,17.82
+Bob,T04411,Brooklyn,37.71
+Alice,T04412,Brooklyn,39.87
+Ethan,T04413,Queens,49.48
+Ethan,T04414,Brooklyn,34.92
+Diana,T04415,Queens,9.83
+Diana,T04416,Brooklyn,49.97
+Alice,T04417,Manhattan,33.02
+Carlos,T04418,Staten Island,70.92
+Ethan,T04419,Brooklyn,66.12
+Bob,T04420,Queens,18.72
+Alice,T04421,Brooklyn,42.71
+Ethan,T04422,Staten Island,36.23
+Julia,T04423,Manhattan,24.06
+Julia,T04424,Brooklyn,36.19
+Bob,T04425,Staten Island,68.31
+Ivan,T04426,Staten Island,43.28
+Fatima,T04427,Brooklyn,51.24
+Julia,T04428,Bronx,50.13
+Julia,T04429,Brooklyn,31.87
+Carlos,T04430,Brooklyn,19.35
+Bob,T04431,Bronx,13.34
+Ethan,T04432,Brooklyn,33.81
+Bob,T04433,Manhattan,51.7
+Carlos,T04434,Queens,65.83
+Alice,T04435,Staten Island,72.62
+Carlos,T04436,Staten Island,35.16
+Diana,T04437,Brooklyn,10.84
+George,T04438,Manhattan,41.38
+Diana,T04439,Queens,16.28
+Hana,T04440,Bronx,34.27
+Alice,T04441,Manhattan,21.33
+Fatima,T04442,Brooklyn,22.87
+Ivan,T04443,Staten Island,21.64
+Ivan,T04444,Manhattan,38.56
+George,T04445,Bronx,62.01
+Fatima,T04446,Staten Island,72.8
+Hana,T04447,Bronx,66.89
+Ethan,T04448,Queens,20.1
+Fatima,T04449,Bronx,34.31
+George,T04450,Manhattan,32.27
+Diana,T04451,Manhattan,57.73
+Ethan,T04452,Brooklyn,27.26
+Bob,T04453,Queens,63.61
+Fatima,T04454,Staten Island,15.98
+Ivan,T04455,Queens,71.77
+George,T04456,Brooklyn,19.85
+Bob,T04457,Staten Island,49.74
+Bob,T04458,Bronx,13.96
+Alice,T04459,Brooklyn,52.2
+Ivan,T04460,Queens,40.51
+Fatima,T04461,Queens,10.36
+Fatima,T04462,Brooklyn,51.66
+Ivan,T04463,Manhattan,68.08
+Ethan,T04464,Bronx,65.67
+Diana,T04465,Bronx,41.35
+George,T04466,Manhattan,42.12
+Hana,T04467,Manhattan,31.0
+Hana,T04468,Staten Island,13.21
+Bob,T04469,Brooklyn,40.11
+Diana,T04470,Manhattan,46.77
+Bob,T04471,Manhattan,65.52
+Alice,T04472,Brooklyn,20.49
+Ethan,T04473,Manhattan,14.9
+Julia,T04474,Queens,17.63
+Diana,T04475,Queens,25.01
+Diana,T04476,Manhattan,20.66
+Ivan,T04477,Bronx,54.57
+Ivan,T04478,Manhattan,51.39
+Alice,T04479,Bronx,30.52
+Fatima,T04480,Bronx,70.02
+Hana,T04481,Queens,52.61
+Fatima,T04482,Bronx,61.79
+Fatima,T04483,Queens,36.54
+Diana,T04484,Staten Island,9.37
+Ivan,T04485,Bronx,69.6
+Diana,T04486,Staten Island,22.71
+Hana,T04487,Manhattan,68.04
+Carlos,T04488,Brooklyn,44.23
+Julia,T04489,Manhattan,72.45
+Julia,T04490,Staten Island,64.02
+Ivan,T04491,Manhattan,47.37
+George,T04492,Manhattan,28.55
+George,T04493,Bronx,9.36
+Ivan,T04494,Staten Island,46.69
+Julia,T04495,Queens,28.6
+Diana,T04496,Staten Island,36.88
+Fatima,T04497,Bronx,47.45
+Diana,T04498,Queens,56.41
+Ethan,T04499,Manhattan,31.84
+Hana,T04500,Staten Island,41.33
+Julia,T04501,Bronx,52.47
+Ethan,T04502,Manhattan,47.09
+Ethan,T04503,Bronx,42.24
+Hana,T04504,Brooklyn,34.52
+Bob,T04505,Bronx,28.47
+Fatima,T04506,Queens,48.92
+Diana,T04507,Bronx,23.66
+Carlos,T04508,Staten Island,29.47
+Ethan,T04509,Queens,18.7
+Alice,T04510,Bronx,22.12
+Bob,T04511,Staten Island,18.16
+George,T04512,Queens,38.98
+Bob,T04513,Bronx,72.35
+Diana,T04514,Manhattan,66.61
+Julia,T04515,Brooklyn,28.58
+Ivan,T04516,Staten Island,63.73
+Ethan,T04517,Bronx,39.58
+Bob,T04518,Staten Island,19.83
+George,T04519,Queens,57.58
+Carlos,T04520,Manhattan,39.78
+Hana,T04521,Manhattan,29.42
+Hana,T04522,Bronx,30.91
+Diana,T04523,Staten Island,70.07
+Julia,T04524,Staten Island,15.2
+Alice,T04525,Queens,40.84
+Carlos,T04526,Manhattan,26.36
+Hana,T04527,Brooklyn,42.42
+Ivan,T04528,Staten Island,26.6
+Ivan,T04529,Brooklyn,72.54
+George,T04530,Manhattan,44.12
+Hana,T04531,Queens,39.82
+Julia,T04532,Manhattan,9.01
+Bob,T04533,Bronx,38.05
+Julia,T04534,Staten Island,47.54
+Hana,T04535,Manhattan,8.97
+Alice,T04536,Queens,44.32
+Ethan,T04537,Queens,24.67
+Ivan,T04538,Queens,26.04
+Alice,T04539,Manhattan,14.27
+Fatima,T04540,Brooklyn,58.18
+Fatima,T04541,Bronx,64.36
+Diana,T04542,Brooklyn,26.4
+Fatima,T04543,Bronx,10.24
+Hana,T04544,Manhattan,52.25
+Julia,T04545,Bronx,53.91
+Julia,T04546,Queens,32.43
+Fatima,T04547,Queens,69.03
+Ethan,T04548,Staten Island,19.03
+Ivan,T04549,Manhattan,42.87
+Bob,T04550,Bronx,63.46
+Ivan,T04551,Staten Island,39.24
+Hana,T04552,Bronx,51.35
+Bob,T04553,Bronx,32.07
+George,T04554,Queens,19.9
+Hana,T04555,Staten Island,29.96
+Alice,T04556,Manhattan,29.21
+Diana,T04557,Bronx,25.74
+Hana,T04558,Queens,8.45
+Julia,T04559,Queens,59.9
+Ivan,T04560,Staten Island,12.1
+Ivan,T04561,Queens,66.41
+Julia,T04562,Bronx,72.5
+Alice,T04563,Manhattan,72.92
+Hana,T04564,Brooklyn,18.72
+Ethan,T04565,Brooklyn,18.29
+Julia,T04566,Queens,32.12
+Fatima,T04567,Queens,65.91
+Carlos,T04568,Manhattan,69.68
+Carlos,T04569,Queens,70.49
+George,T04570,Queens,35.91
+Ivan,T04571,Bronx,14.87
+Ethan,T04572,Staten Island,22.79
+George,T04573,Manhattan,25.85
+George,T04574,Brooklyn,34.36
+Julia,T04575,Manhattan,31.27
+George,T04576,Queens,17.19
+Diana,T04577,Staten Island,9.01
+Hana,T04578,Bronx,53.51
+George,T04579,Bronx,26.87
+Julia,T04580,Staten Island,69.22
+Diana,T04581,Queens,53.86
+Alice,T04582,Manhattan,9.63
+Ethan,T04583,Queens,71.86
+Carlos,T04584,Queens,18.26
+Julia,T04585,Queens,52.74
+Carlos,T04586,Manhattan,39.28
+Diana,T04587,Bronx,24.13
+Hana,T04588,Staten Island,66.79
+Fatima,T04589,Manhattan,12.09
+Hana,T04590,Manhattan,73.03
+Carlos,T04591,Queens,70.22
+Carlos,T04592,Queens,33.6
+Alice,T04593,Manhattan,64.15
+Fatima,T04594,Staten Island,29.06
+Hana,T04595,Manhattan,25.51
+Diana,T04596,Queens,50.61
+Julia,T04597,Bronx,42.5
+Carlos,T04598,Staten Island,38.62
+Alice,T04599,Bronx,65.32
+Julia,T04600,Brooklyn,45.89
+Diana,T04601,Queens,56.94
+Alice,T04602,Bronx,55.85
+Ivan,T04603,Staten Island,14.9
+Diana,T04604,Queens,39.4
+George,T04605,Staten Island,45.54
+Ivan,T04606,Queens,70.25
+Julia,T04607,Queens,57.52
+Hana,T04608,Manhattan,23.78
+Alice,T04609,Staten Island,45.85
+Fatima,T04610,Queens,34.27
+Hana,T04611,Bronx,53.38
+Ethan,T04612,Brooklyn,34.42
+Carlos,T04613,Brooklyn,58.83
+Ivan,T04614,Staten Island,58.21
+Fatima,T04615,Queens,11.38
+Julia,T04616,Queens,22.85
+George,T04617,Manhattan,14.31
+Carlos,T04618,Brooklyn,47.17
+Hana,T04619,Queens,10.39
+Diana,T04620,Brooklyn,56.43
+Carlos,T04621,Staten Island,17.87
+Alice,T04622,Bronx,30.59
+Fatima,T04623,Staten Island,8.35
+Bob,T04624,Queens,55.48
+Fatima,T04625,Manhattan,41.01
+Julia,T04626,Staten Island,59.26
+Ethan,T04627,Bronx,49.85
+Ethan,T04628,Brooklyn,67.75
+Hana,T04629,Manhattan,66.49
+Hana,T04630,Staten Island,55.82
+Julia,T04631,Queens,61.81
+Carlos,T04632,Staten Island,37.69
+Ethan,T04633,Staten Island,21.85
+Hana,T04634,Manhattan,36.06
+Bob,T04635,Manhattan,61.06
+Hana,T04636,Bronx,49.16
+Ivan,T04637,Manhattan,37.5
+Julia,T04638,Queens,29.73
+Bob,T04639,Manhattan,62.21
+Diana,T04640,Brooklyn,70.83
+Diana,T04641,Bronx,28.24
+Hana,T04642,Staten Island,57.4
+Hana,T04643,Bronx,47.74
+Alice,T04644,Bronx,18.62
+Ethan,T04645,Bronx,15.78
+Ethan,T04646,Brooklyn,8.66
+Bob,T04647,Queens,37.78
+Carlos,T04648,Queens,32.15
+Alice,T04649,Queens,53.47
+Alice,T04650,Queens,29.37
+Ethan,T04651,Staten Island,29.79
+Hana,T04652,Manhattan,16.36
+Ethan,T04653,Queens,38.44
+Alice,T04654,Bronx,53.12
+Julia,T04655,Manhattan,20.97
+Fatima,T04656,Staten Island,24.4
+Bob,T04657,Manhattan,51.64
+Alice,T04658,Manhattan,9.71
+Carlos,T04659,Queens,68.59
+Carlos,T04660,Manhattan,24.36
+Alice,T04661,Bronx,18.01
+Alice,T04662,Queens,9.7
+Carlos,T04663,Staten Island,72.93
+Bob,T04664,Brooklyn,57.86
+Bob,T04665,Queens,46.92
+Carlos,T04666,Queens,30.12
+Alice,T04667,Queens,62.44
+Fatima,T04668,Brooklyn,45.56
+Bob,T04669,Brooklyn,36.32
+Hana,T04670,Manhattan,45.27
+Hana,T04671,Manhattan,41.3
+Carlos,T04672,Manhattan,69.4
+Alice,T04673,Brooklyn,66.33
+Ivan,T04674,Bronx,56.37
+Fatima,T04675,Staten Island,20.12
+Bob,T04676,Queens,48.51
+Julia,T04677,Bronx,19.68
+Diana,T04678,Staten Island,72.53
+Ethan,T04679,Manhattan,55.78
+Fatima,T04680,Staten Island,68.14
+George,T04681,Queens,54.94
+Julia,T04682,Manhattan,71.41
+George,T04683,Manhattan,12.89
+George,T04684,Bronx,30.84
+Diana,T04685,Queens,40.03
+Carlos,T04686,Queens,26.45
+Ethan,T04687,Manhattan,10.55
+Ivan,T04688,Manhattan,73.86
+Diana,T04689,Brooklyn,71.12
+Julia,T04690,Bronx,58.64
+Ethan,T04691,Brooklyn,63.59
+George,T04692,Staten Island,8.14
+Alice,T04693,Brooklyn,9.65
+Fatima,T04694,Brooklyn,69.27
+Diana,T04695,Queens,34.1
+George,T04696,Manhattan,42.66
+Bob,T04697,Staten Island,33.05
+Julia,T04698,Brooklyn,74.31
+Fatima,T04699,Staten Island,66.87
+Fatima,T04700,Bronx,41.49
+Fatima,T04701,Brooklyn,19.78
+Hana,T04702,Brooklyn,42.93
+Bob,T04703,Manhattan,71.04
+George,T04704,Staten Island,43.31
+Alice,T04705,Manhattan,10.98
+Carlos,T04706,Queens,33.43
+Fatima,T04707,Manhattan,13.53
+Fatima,T04708,Queens,21.84
+Hana,T04709,Bronx,10.41
+Diana,T04710,Staten Island,49.37
+Ivan,T04711,Queens,23.06
+Diana,T04712,Staten Island,28.38
+Julia,T04713,Manhattan,26.28
+Alice,T04714,Bronx,49.3
+Hana,T04715,Staten Island,53.34
+Carlos,T04716,Bronx,10.02
+Alice,T04717,Manhattan,46.03
+Julia,T04718,Bronx,73.07
+George,T04719,Queens,54.98
+Julia,T04720,Bronx,38.15
+Hana,T04721,Queens,14.03
+Fatima,T04722,Bronx,72.94
+Alice,T04723,Bronx,18.94
+Alice,T04724,Staten Island,9.56
+Carlos,T04725,Bronx,15.02
+Hana,T04726,Staten Island,61.27
+Ivan,T04727,Staten Island,49.27
+Julia,T04728,Staten Island,41.68
+Carlos,T04729,Brooklyn,36.69
+Ivan,T04730,Bronx,23.14
+Ethan,T04731,Bronx,20.58
+Hana,T04732,Staten Island,35.65
+Alice,T04733,Queens,63.08
+Diana,T04734,Manhattan,55.29
+Bob,T04735,Queens,41.32
+Julia,T04736,Bronx,62.66
+Alice,T04737,Manhattan,18.99
+Diana,T04738,Staten Island,61.71
+Diana,T04739,Manhattan,45.26
+Ethan,T04740,Manhattan,44.01
+Ethan,T04741,Brooklyn,71.21
+Ivan,T04742,Brooklyn,69.93
+Bob,T04743,Staten Island,46.32
+Fatima,T04744,Manhattan,56.87
+Ethan,T04745,Staten Island,58.6
+Ivan,T04746,Brooklyn,63.06
+Hana,T04747,Brooklyn,68.48
+Bob,T04748,Queens,59.49
+George,T04749,Queens,22.7
+Carlos,T04750,Bronx,45.49
+Bob,T04751,Staten Island,65.64
+George,T04752,Manhattan,46.53
+Bob,T04753,Queens,15.79
+Hana,T04754,Bronx,60.08
+Fatima,T04755,Manhattan,18.35
+Fatima,T04756,Manhattan,71.3
+Ivan,T04757,Manhattan,50.86
+Ethan,T04758,Bronx,30.97
+Fatima,T04759,Staten Island,33.06
+Ivan,T04760,Queens,24.21
+Diana,T04761,Manhattan,33.35
+Ivan,T04762,Staten Island,69.39
+George,T04763,Bronx,44.21
+Diana,T04764,Staten Island,67.89
+Diana,T04765,Queens,30.28
+Alice,T04766,Manhattan,53.19
+Alice,T04767,Staten Island,11.33
+Fatima,T04768,Staten Island,59.13
+Ethan,T04769,Queens,52.24
+Hana,T04770,Queens,29.33
+Fatima,T04771,Brooklyn,55.93
+Ethan,T04772,Manhattan,55.91
+Hana,T04773,Queens,25.76
+Diana,T04774,Staten Island,39.12
+Alice,T04775,Queens,54.59
+Ethan,T04776,Bronx,28.8
+Fatima,T04777,Brooklyn,57.27
+Hana,T04778,Brooklyn,71.4
+Fatima,T04779,Brooklyn,70.6
+Ivan,T04780,Queens,44.15
+Julia,T04781,Queens,69.7
+Julia,T04782,Staten Island,22.83
+Alice,T04783,Brooklyn,67.1
+Ivan,T04784,Manhattan,70.22
+Julia,T04785,Staten Island,27.25
+Ivan,T04786,Bronx,22.41
+Fatima,T04787,Brooklyn,48.08
+Ivan,T04788,Staten Island,44.65
+Alice,T04789,Brooklyn,56.48
+Bob,T04790,Brooklyn,23.36
+Bob,T04791,Brooklyn,18.56
+Julia,T04792,Bronx,69.27
+Hana,T04793,Brooklyn,63.78
+Bob,T04794,Bronx,9.8
+Fatima,T04795,Queens,24.9
+Ethan,T04796,Staten Island,35.49
+Bob,T04797,Queens,28.78
+Diana,T04798,Brooklyn,16.67
+Alice,T04799,Brooklyn,46.1
+Hana,T04800,Staten Island,24.76
+Bob,T04801,Brooklyn,55.45
+Fatima,T04802,Manhattan,54.14
+Fatima,T04803,Brooklyn,27.71
+Ivan,T04804,Queens,51.96
+Diana,T04805,Manhattan,51.57
+Carlos,T04806,Staten Island,34.87
+Ivan,T04807,Manhattan,10.76
+Julia,T04808,Bronx,50.21
+Fatima,T04809,Staten Island,25.31
+Bob,T04810,Bronx,56.05
+Fatima,T04811,Brooklyn,19.05
+Julia,T04812,Manhattan,17.84
+Ethan,T04813,Manhattan,15.77
+Julia,T04814,Queens,52.04
+Julia,T04815,Manhattan,20.08
+Julia,T04816,Manhattan,30.36
+Julia,T04817,Queens,39.64
+Ivan,T04818,Manhattan,59.93
+Alice,T04819,Bronx,21.74
+Alice,T04820,Manhattan,52.01
+Ivan,T04821,Queens,60.53
+Diana,T04822,Bronx,26.82
+Bob,T04823,Bronx,10.1
+George,T04824,Queens,68.8
+Alice,T04825,Queens,65.65
+Carlos,T04826,Manhattan,61.01
+Hana,T04827,Brooklyn,24.64
+Bob,T04828,Brooklyn,62.55
+Alice,T04829,Queens,14.55
+Ivan,T04830,Bronx,30.07
+Fatima,T04831,Bronx,43.38
+Ivan,T04832,Manhattan,13.73
+Hana,T04833,Staten Island,43.85
+Fatima,T04834,Queens,10.34
+Bob,T04835,Brooklyn,43.23
+Bob,T04836,Queens,67.28
+Ethan,T04837,Brooklyn,40.7
+Fatima,T04838,Brooklyn,15.33
+Julia,T04839,Queens,40.37
+Fatima,T04840,Brooklyn,57.9
+Diana,T04841,Manhattan,8.85
+Hana,T04842,Queens,47.7
+Ethan,T04843,Staten Island,19.13
+Ivan,T04844,Manhattan,67.95
+Ivan,T04845,Manhattan,73.35
+Hana,T04846,Bronx,63.95
+Diana,T04847,Brooklyn,54.95
+Carlos,T04848,Bronx,62.96
+Hana,T04849,Manhattan,29.22
+Ethan,T04850,Queens,74.41
+Ivan,T04851,Manhattan,16.08
+Bob,T04852,Manhattan,42.77
+Julia,T04853,Staten Island,68.04
+Alice,T04854,Brooklyn,46.82
+Julia,T04855,Staten Island,51.08
+Hana,T04856,Staten Island,68.56
+George,T04857,Manhattan,17.39
+Hana,T04858,Staten Island,35.95
+Diana,T04859,Manhattan,45.38
+George,T04860,Queens,30.62
+Fatima,T04861,Brooklyn,58.89
+George,T04862,Bronx,57.79
+Hana,T04863,Bronx,56.7
+Carlos,T04864,Manhattan,53.43
+George,T04865,Bronx,16.84
+Alice,T04866,Manhattan,46.37
+Bob,T04867,Bronx,52.52
+Alice,T04868,Brooklyn,43.69
+Ivan,T04869,Brooklyn,58.92
+Julia,T04870,Brooklyn,66.61
+Ethan,T04871,Bronx,27.64
+George,T04872,Brooklyn,51.24
+George,T04873,Staten Island,12.11
+Carlos,T04874,Bronx,18.55
+Bob,T04875,Brooklyn,50.54
+Ethan,T04876,Queens,27.17
+Julia,T04877,Bronx,55.31
+Diana,T04878,Staten Island,17.23
+Bob,T04879,Brooklyn,38.92
+Fatima,T04880,Manhattan,30.85
+Ethan,T04881,Staten Island,19.29
+Julia,T04882,Brooklyn,53.6
+Alice,T04883,Bronx,10.65
+Ethan,T04884,Brooklyn,49.15
+Fatima,T04885,Brooklyn,63.5
+Fatima,T04886,Manhattan,31.31
+Alice,T04887,Queens,29.91
+Ivan,T04888,Manhattan,66.88
+George,T04889,Staten Island,57.58
+Diana,T04890,Staten Island,63.51
+Hana,T04891,Bronx,51.06
+Ivan,T04892,Queens,39.51
+Ethan,T04893,Brooklyn,47.13
+Hana,T04894,Queens,24.86
+Bob,T04895,Bronx,44.35
+Julia,T04896,Bronx,30.97
+Fatima,T04897,Brooklyn,49.13
+Bob,T04898,Brooklyn,53.97
+Julia,T04899,Bronx,58.74
+Diana,T04900,Brooklyn,57.42
+Ivan,T04901,Manhattan,16.6
+Alice,T04902,Queens,38.26
+Hana,T04903,Bronx,65.73
+Ivan,T04904,Staten Island,54.3
+Ethan,T04905,Staten Island,39.83
+Carlos,T04906,Bronx,33.81
+Bob,T04907,Manhattan,24.81
+Bob,T04908,Staten Island,39.7
+Julia,T04909,Manhattan,40.98
+Bob,T04910,Manhattan,18.29
+Fatima,T04911,Queens,66.17
+Fatima,T04912,Staten Island,65.38
+Hana,T04913,Brooklyn,45.11
+Hana,T04914,Queens,45.52
+Alice,T04915,Bronx,72.96
+Carlos,T04916,Queens,16.01
+Fatima,T04917,Staten Island,19.55
+Hana,T04918,Bronx,48.69
+Ivan,T04919,Manhattan,19.56
+Alice,T04920,Bronx,58.69
+Carlos,T04921,Queens,58.79
+Ivan,T04922,Bronx,29.15
+Diana,T04923,Manhattan,34.49
+Julia,T04924,Staten Island,68.25
+Fatima,T04925,Manhattan,63.13
+Alice,T04926,Bronx,50.43
+Fatima,T04927,Staten Island,38.01
+Alice,T04928,Bronx,54.48
+Julia,T04929,Staten Island,39.34
+George,T04930,Queens,65.03
+Alice,T04931,Staten Island,71.26
+Alice,T04932,Brooklyn,36.32
+George,T04933,Brooklyn,59.23
+Bob,T04934,Staten Island,45.71
+Ethan,T04935,Queens,17.5
+Fatima,T04936,Brooklyn,67.68
+Ethan,T04937,Bronx,11.64
+George,T04938,Queens,23.27
+George,T04939,Manhattan,32.61
+Fatima,T04940,Staten Island,50.61
+Ethan,T04941,Bronx,28.15
+Ivan,T04942,Queens,57.9
+Ethan,T04943,Brooklyn,31.93
+Diana,T04944,Staten Island,65.79
+Hana,T04945,Bronx,42.06
+Ivan,T04946,Bronx,34.76
+Fatima,T04947,Manhattan,15.28
+George,T04948,Queens,34.17
+Julia,T04949,Queens,20.82
+Julia,T04950,Staten Island,43.35
+Alice,T04951,Manhattan,36.14
+Fatima,T04952,Bronx,41.05
+Fatima,T04953,Manhattan,33.39
+Ethan,T04954,Queens,16.71
+Julia,T04955,Manhattan,29.59
+Carlos,T04956,Brooklyn,45.15
+Ivan,T04957,Staten Island,71.84
+Fatima,T04958,Brooklyn,10.88
+Ivan,T04959,Manhattan,37.07
+Ethan,T04960,Staten Island,14.68
+Hana,T04961,Queens,27.1
+Hana,T04962,Brooklyn,8.57
+Hana,T04963,Brooklyn,62.02
+Carlos,T04964,Manhattan,33.15
+Diana,T04965,Queens,70.42
+Alice,T04966,Staten Island,38.1
+Diana,T04967,Brooklyn,64.43
+Julia,T04968,Brooklyn,50.95
+George,T04969,Bronx,23.89
+Carlos,T04970,Staten Island,14.46
+Ethan,T04971,Staten Island,24.05
+Julia,T04972,Manhattan,63.94
+Julia,T04973,Queens,54.47
+Ethan,T04974,Brooklyn,40.36
+Diana,T04975,Bronx,37.16
+Fatima,T04976,Brooklyn,74.83
+George,T04977,Bronx,50.58
+Carlos,T04978,Queens,11.11
+Diana,T04979,Queens,48.73
+Alice,T04980,Bronx,13.26
+Julia,T04981,Manhattan,59.85
+Julia,T04982,Queens,66.85
+Alice,T04983,Brooklyn,71.96
+Bob,T04984,Staten Island,34.47
+Alice,T04985,Staten Island,59.31
+Ivan,T04986,Staten Island,17.47
+Bob,T04987,Bronx,72.34
+Fatima,T04988,Bronx,20.28
+Julia,T04989,Bronx,24.55
+Carlos,T04990,Queens,12.86
+Carlos,T04991,Brooklyn,46.44
+Diana,T04992,Staten Island,17.35
+Hana,T04993,Bronx,11.56
+Diana,T04994,Brooklyn,61.5
+Hana,T04995,Manhattan,16.54
+Diana,T04996,Staten Island,18.12
+Bob,T04997,Bronx,43.52
+Ethan,T04998,Bronx,42.18
+Julia,T04999,Staten Island,33.21
+Ivan,T05000,Bronx,52.08
